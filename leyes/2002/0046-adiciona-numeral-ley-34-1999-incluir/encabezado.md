@@ -1,0 +1,1 @@
+LEY No. 46 De 8 de agosto de 2002 Que adiciona un numeral a la Ley 34 de 1999, para incluir a los usuarios en la Junta Directiva de la Autoridad del Tránsito y Transporte Terrestre LA ASAMBLEA LEGISLATIVA DECRETA:
