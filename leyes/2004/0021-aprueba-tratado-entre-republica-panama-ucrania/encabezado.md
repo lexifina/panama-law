@@ -1,0 +1,1 @@
+LEY No. 21 De 07 de julio de 2004 Por la cual se aprueba el TRATADO ENTRE LA REPÚBLICA DE PANAMÁ Y UCRANIA SOBRE ASISTENCIA LEGAL MUTUA EN ASUNTOS PENALES, hecho en la, ciudad dé Panamá, el 4 de noviembre de 2003 LA ASAMBLEA LEGISLATIVA DECRETA:
