@@ -1,0 +1,1 @@
+LEY No. 53 De 13 de diciembre de 2000 Que autoriza al Banco Hipotecario Nacional para condonar préstamos de vivienda, de materiales y de lotes ocupacionales, que se otorgaron como resultado de los terremotos que afectaron la provincia de Bocas del Toro, y se dictan otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
