@@ -1,0 +1,11 @@
+COMUNÍQUESE Y PUBLÍQUESE
+
+Dada en la Ciudad de Panamá, a los 28 días del mes de diciembre de mil novecientos noventa y tres (1993).
+
+EL PRESIDENTE EL SECRETARIO GENERAL ARTURO VALLARINO RUBEN AROSEMENA VALDES
+
+ÓRGANO EJECUTIVO NACIONAL - PRESIDENCIA DE LA REPÚBLICA. - PANAMÁ.
+
+REPÚBLICA DE PANAMÁ, 3 DE FEBRERO DE 1994.
+
+GUILLERMO ENDARA GALIMANY CESAR PEREIRA BURGOS Presidente de la República Ministro de Desarrollo Agropecuario
