@@ -1,0 +1,1 @@
+LEY No. 73 De 26 de diciembre de 2001 Por la cual se aprueba el SEXTO PROTOCOLO ADICIONAL A LA CONSTITUCION DE LA UNION POSTAL UNIVERSAL, firmado en Beijing, el 15 de septiembre de 1999 LA ASAMBLEA LEGISLATIVA DECRETA :
