@@ -1,0 +1,1 @@
+LEY No. 28 De 12 de julio de 2000 Por la cual se subrogan párrafos del artículo 1179 del Código Fiscal, que establecen las características de la moneda de cinco centésimos LA ASAMBLEA LEGISLATIVA DECRETA:
