@@ -1,0 +1,1 @@
+LEY No. 6 De 21 de enero de 2004 Que crea un gravamen ad valórem de doce por ciento sobre el valor de toda llamada de larga distancia internacional, de uso público, facturada en Panamá LA ASAMBLEA LEGISLATIVA DECRETA:
