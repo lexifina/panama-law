@@ -1,0 +1,1 @@
+LEY No. 45 De 5 de agosto de 2002 Que modifica el artículo 2 de la Ley 43 de 1999, que autoriza al Banco de Desarrollo Agropecuario a condonar deuda a organizaciones campesinas y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
