@@ -13,3 +13,5 @@
 | [art-002.md](art-002.md) | Artículo Segundo. La presente Ley comenzará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | Ley 24 (De 18 de abril de 1978) |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE: |
+
+**Derogada en su totalidad** por Ley 3 de 1986 (vigente desde 1986-03-24), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1978/0024-modifica-articulo-7o-decreto-gabinete-413`).
