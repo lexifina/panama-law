@@ -1,0 +1,1 @@
+LEY No. 53 De 24 de Octubre de 2001 Que concede una moratoria para el pago de los tributos administrados por la Dirección General de Ingresos y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
