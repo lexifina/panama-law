@@ -15,3 +15,5 @@
 | [art-004.md](art-004.md) | Artículo 4. Esta Ley comenzará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | Ley 83 (De 5 de octubre de 1978) |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE: |
+
+**Derogada en su totalidad** por Ley 20 de 1986 (vigente desde 1986-12-02), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1978/0083-modifica-ley-69-19-septiembre-1978`).
