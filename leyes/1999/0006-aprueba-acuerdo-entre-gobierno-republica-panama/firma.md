@@ -1,0 +1,9 @@
+COMUNÍQUESE Y CÚMPLASE.
+
+Aprobada en tercer debate, en el Palacio Justo Arosemena, ciudad de Panamá, a los 20 días del mes de abril de mil novecientos noventa y nueve.
+
+El presidente (a.i.), JUAN MANUEL PERALTA RIOS El Secretario General (a.i), JOSE DIDIMO ESCOBAR S.
+
+ORGANO EJECUTIVO NACIONAL - PRESIDENCIA DE LA REPUBLICA. - PANAMA, REPUBLICA DE PANAMA, 3 DE MAYO DE 1999.
+
+ERNESTO PEREZ BALLADARES PRESIDENTE DE LA REPUBLICA JORGE EDUARDO RITTER MINISTRO DE RELACIONES EXTERIORES
