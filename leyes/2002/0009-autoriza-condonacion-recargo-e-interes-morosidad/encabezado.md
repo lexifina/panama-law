@@ -1,0 +1,1 @@
+LEY No. 9 De 30 de enero de 2002 Que autoriza la condonación de recargos e intereses por morosidad en el pago de la contribución por valorización a los inmuebles residenciales ASAMBLEA LEGISLATIVA DECRETA:
