@@ -1,0 +1,13 @@
+COMUNÍQUESE Y CUMPLASE.
+Aprobada en tercer debate, en el Palacio Justo Arosemena, ciudad de Panamá, a los 26 días del mes de diciembre del año dos mil dos.
+El Presidente Encargado, El Secretario General Encargado, CARLOS R. ALVARADO A. JOSE GOMEZ NUÑEZ ORGANO EJECUTIVO.- PRESIDENCIA DE LA REPÚBLICA.- PANAMÁ, REPÚBLICA DE PANAMÁ, 28 DE OCTUBRE DE 2003.
+MIREYA MOSCOSO HARMODIO ARIAS CERJACK
+Presidenta de la República Ministro de Relaciones Exteriores
+ASAMBLEA NACIONAL
+LEY: 007 DE 2003 PROYECTO DE LEY: 2002_P_076.PDF
+NOMENCLATURA:AÑO_MES_DÍA_LETRA_ORIGEN
+ACTAS DEL MISMO DÍA: A, B, C, D
+ACTAS DE VARIOS DIAS: V
+ACTAS DEL PLENO
+2002_12_19_A_PLENO.PDF
+2002_12_26_A_PLENO.PDF
