@@ -1,0 +1,1 @@
+LEY No. 66 De 19 de diciembre de 2001 Que regula la expedición del récord policivo, modifica y adiciona disposiciones a la Ley 16 de 1991, Orgánica de la Policía Técnica Judicial LA ASAMBLEA LEGISLATIVA DECRETA:
