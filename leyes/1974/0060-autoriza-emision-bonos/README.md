@@ -14,3 +14,5 @@
 | [art-003.md](art-003.md) | ARTÍCULO TERCERO. La presente Ley comenzará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 60 (de 6 de Junio de 1974) Por la cual se autoriza la emisión de Bonos. |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE Dado en la ciudad de Panamá, a los 6 días del mes de Junio de mil novecientos setenta |
+
+**Derogada en su totalidad** por Ley 97 de 1974 (vigente desde 1974-12-19), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1974/0060-autoriza-emision-bonos`).
