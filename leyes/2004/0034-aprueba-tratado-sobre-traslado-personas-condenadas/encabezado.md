@@ -1,0 +1,1 @@
+LEY No. 34 (De 7 de julio de 2004) Por la cual se aprueba el TRATADO, SOBRE TRASLADO DE PERSONAS CONDENADAS ENTRE EL GOBIERNO DE LA REPÚBLICA DE PANAMÁ Y EL GOBIERNO. DE LA REPÚBLICA DE EL SALVADOR, suscrito en la ciudad de Panamá, República de Panamá, el 19 de febrero de 2004 LA ASAMBLEA LEGISLATIVA DECRETA:
