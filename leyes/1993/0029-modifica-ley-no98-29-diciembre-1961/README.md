@@ -22,3 +22,5 @@
 | [art-011.md](art-011.md) | Artículo 11. Esta Ley empezará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 29 (De 14 de diciembre de 1993) |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE Dada en la ciudad de Panamá, a los 3 días del mes de diciembre de mil novecientos nov |
+
+**Derogada en su totalidad** por Ley 77 de 2001 (vigente desde 2001-12-31), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1993/0029-modifica-ley-no98-29-diciembre-1961`).
