@@ -1,0 +1,1 @@
+LEY No. 44 De 1 de agosto de 2001 Que establece medidas para prevenir la introducción de la fiebre aftosa, de la encefalopatía espongiforme bovina y demás enfermedades exóticas; modifica el artículo 248 y adiciona el articulo 376 A al Código Penal LA ASAMBLEA LEGISLATIVA DECRETA:
