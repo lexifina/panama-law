@@ -128,3 +128,5 @@
 | [art-115.md](art-115.md) | ARTICULO 115.- Esta Ley entrará a regir desde su publicación en la Gaceta Oficial. |
 | [encabezado.md](encabezado.md) | LEY 55 (de 20 de Diciembre de 1984) Por la cual se deroga en todas sus partes, el Decreto Ley Nº 17 del 22 de  |
 | [firma.md](firma.md) | COMUNIQUESE Y PUBLIQUESE Dada en la ciudad de Panamá, a los 12 días del mes de noviembre de mil novecientos oc |
+
+**Derogada en su totalidad** por Ley 59 de 1996 (vigente desde 1996-08-01), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1984/0055-deroga-decreto-ley-17-1956-normas`).
