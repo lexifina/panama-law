@@ -1,0 +1,1 @@
+LEY No. 37 De 31 de julio de 2002 Que denomina Armando Javier “Pelé” Dely Valdés al estadio de fútbol ubicado en los predios del Centro Regional Universitario de Colón LA ASAMBLEA LEGISLATIVA DECRETA:
