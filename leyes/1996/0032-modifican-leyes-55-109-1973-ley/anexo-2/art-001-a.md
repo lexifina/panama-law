@@ -1,0 +1,5 @@
+Artículo 1-A. Se establece la Comisión Consultiva de Concesiones para las Explotaciones de Minerales no Metálicos, la cual será de carácter interinstitucional y estará presidida por el director provincial del Ministerio de Comercio e Industrias, e integrada por el municipio del área de la concesión, el que estará representado por el alcalde respectivo; un representante de los grupos ecologistas con personería jurídica, residentes en el área de la concesión, si los hubiera, designado por común acuerdo entre ellos: el director regional del Instituto Nacional de Recursos Naturales Renovables (INRENARE), el director provincial del Instituto Panameño de Turismo (IPAT), el director provincial del Instituto de Acueductos y Alcantarillados Nacionales (IDAAN) y el presidente del Consejo Municipal correspondiente.
+
+Parágrafo. En el caso que el área de exploración o explotación abarque más de un distrito, participarán los municipios correspondientes.
+
+Artículo 9. El Artículo 4 de la Ley 109 de 1973 queda así:
