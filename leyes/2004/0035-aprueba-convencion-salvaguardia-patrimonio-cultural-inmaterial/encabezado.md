@@ -1,0 +1,1 @@
+LEY No. 35 (De 7 de julio de 2004) Por la cual se aprueba la CONVENCIÓN PARA LA SALVAGUARDIA DEL PATRIMONIO CULTURAL INMATERIAL, hecha en París, el 3 de noviembre de 2003 LA ASAMBLEA LEGISLATIVA DECRETA:
