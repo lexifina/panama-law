@@ -13,3 +13,5 @@
 | [art-002.md](art-002.md) | ARTÍCULO SEGUNDO. Esta Ley comenzará a regir a partir de su publicación en la Gaceta Oficial. |
 | [encabezado.md](encabezado.md) | LEY 69 (de 6 de Septiembre de 1974) Por la cual se adicionan un parágrafo al acápite a del artículo 701 del Có |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE Dado en la ciudad de Panamá, a los 6 días del mes de septiembre de 1974. |
+
+**Derogada en su totalidad** por Ley 106 de 1974 (vigente desde 1974-12-30), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1974/0069-adiciona-paragrafo-acapite-articulo-701-codigo`).
