@@ -1,0 +1,3 @@
+LEY No. 37 De 26 de marzo de 2003 Por la cual se aprueba el TRATADO ENTRE EL GOBIERNO DE LA REPUBLICA DE PANAMA Y EL GOBIERNO DE LA REPUBLICA DE COSTA RICA SOBRE EXTRADICIÓN, suscrito en Bambito, República de Panamá, el 29 de noviembre de 2001.
+
+LA ASAMBLEA LEGISLATIVA DECRETA:
