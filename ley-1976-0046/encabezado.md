@@ -1,0 +1,4 @@
+LEY 46 (De 5 de agosto de 1976)
+Por la cual se concede una autorización especial al INSTITUTO DE RECUSOS HIDRAÚLICOS Y ELECTRIFICACIÓN (IRHE).
+EL CONSEJO NACIONAL DE LEGISLACIÓN
+DECRETA:
