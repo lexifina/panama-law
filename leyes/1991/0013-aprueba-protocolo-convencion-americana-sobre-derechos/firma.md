@@ -1,0 +1,11 @@
+COMUNÍQUESE Y PUBLÍQUESE Dada en la ciudad de Panamá a los 10 días del mes de junio de 19991.
+
+ALFONSO FERNÁNDEZ GUARDIA PRESIDENTE
+
+RUBÉN AROSEMENA VALDÉS SECRETARIO GENERAL
+
+ORGANO EJECUTIVO NACIONAL PRESIDENCIA DE LA REPUBLICA Panamá, República de Panamá, 16 de enero de 1991.
+
+GUILLERMO ENDARA GALIMANY Presidente de la República
+
+JULIO LINARES Ministro de Relaciones Exteriores
