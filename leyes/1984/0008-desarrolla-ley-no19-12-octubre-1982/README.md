@@ -17,3 +17,5 @@
 | [art-005.md](art-005.md) | Artículo 5. Esta Ley regirá desde su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 8 (De 16 de marzo de 1984) Por la cual se desarrolla la Ley 19 del 12 de octubre de 1982 y se dictan otras |
 | [firma.md](firma.md) | COMUNIQUESE y PUBLIQUESE. |
+
+**Derogada en su totalidad** por Ley 2 de 1986 (vigente desde 1986-03-24), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1984/0008-desarrolla-ley-no19-12-octubre-1982`).
