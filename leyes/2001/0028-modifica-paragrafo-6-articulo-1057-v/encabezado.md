@@ -1,0 +1,1 @@
+LEY No. 28 De 27 de junio de 200l Que modifica el parágrafo 6 del artículo 1057-V del Código Fiscal sobre el impuesto al cigarrillo, el artículo 24 de la Ley 30 de 1984 sobre contrabando y defraudación aduanera, y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
