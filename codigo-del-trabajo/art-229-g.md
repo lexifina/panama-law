@@ -1,0 +1,3 @@
+# Artículo 229 G
+Las cotizaciones que haga el empleador en virtud al fondo de cesantía, constituyen un gasto deducible para efectos del impuesto sobre la renta. En el evento de que el empleador haga los retiros a que se refiere el artículo anterior, debe cubrir el impuesto sobre la renta por el monto de la suma retirada.
+Las sumas consignadas en el fondo de cesantía, al igual que sus réditos, no serán embargables por terceros, entendiéndose que sólo podrán serlo por el propio trabajador para el cobro de su derecho a prima de antigüedad e indemnización, y hasta por el monto a que tenga derecho.

@@ -1,0 +1,4 @@
+# Artículo 229 D
+Para el manejo de las cotizaciones confiadas en fideicomiso, los administradores calificados las invertirán de acuerdo con las estipulaciones de la Ley No. 10 de 1993 y sus reglamentos, y desempeñarán sus funciones siguiendo principios universales de diversificación de cartera y preservación del capital.
+De conformidad con lo establecido en el párrafo anterior, los administradores procurarán la inversión en títulos hipotecarios, o con respaldo hipotecario, para viviendas e inversiones en actividades económicas que generen mano de obra intensiva en el país o que propicien la diversificación de la economía.
+Los administradores podrán, a través de las instituciones de crédito, asignar parte de las cotizaciones del fondo a programas de préstamos personales de menor cuantía para los trabajadores, a intereses competitivos del mercado.
