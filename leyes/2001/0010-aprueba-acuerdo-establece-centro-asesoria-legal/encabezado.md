@@ -1,0 +1,1 @@
+LEY No.10 De 10 de enero de 2001 Por la cual se aprueba el ACUERDO POR EL QUE SE ESTABLECE EL CENTRO DE ASESORIA LEGAL EN ASUNTOS OMC, hecho en Seattle, el 30 de noviembre de 1999 LA ASAMBLEA LEQISLATIVA DECRETA :
