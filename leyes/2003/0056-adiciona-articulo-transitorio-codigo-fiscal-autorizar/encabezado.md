@@ -1,0 +1,1 @@
+ASAMBLEA LEGISLATIVA, REPUBLICA DE PANAMA LEY No. 5 6 De 6 de agosto de 2003 Que adiciona un artículo transitorio al Código Fiscal, para autorizar la acuñación de monedas conmemorativas del Conjunto Monumental Histórico de Panamá Viejo, y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
