@@ -1,0 +1,1 @@
+LEY No 18 (De 15 de junio de 2000) Por la cual se aprueba el CONVENIO SOBRE LA PROHIBICION DE LAS PEORES FORMAS DE TRABAJO INFANTIL Y LA ACCION INMEDIATA PARA SU ELIMINACION, 1999 (NUM.182), adoptado por la Conferencia General de la Organización Internacional del Trabajo (OIT), el 17 de junio de 1999 LA ASAMBLEA LEGISLATIVA DECRETA:
