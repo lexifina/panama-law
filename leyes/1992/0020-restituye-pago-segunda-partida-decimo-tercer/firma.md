@@ -1,0 +1,7 @@
+COMUNIQUESE Y PUBLIQUESE Dada en la ciudad de Panamá, a los 12 del mes de agosto de mil novecientos noventa y dos.
+
+MARCO A. AMEGLIO SAMUDIO Presidente RBUEN AROSEMENA VALDES Secretario General
+
+ORGANO EJECUTIVO NACIONAL.- PRESIDENCIA DE LA REPUBLICA.- PANAMA, REPUELICA DE PANAMA, 12 DE AGOSTO DE 1992.
+
+GUILLERMO ENDARA GALIMANY Presidente de la República GUILERMO ROLLA PIMENTEL Ministro de Salud
