@@ -1,0 +1,3 @@
+LEY Nº 13 (De 21 de abril de 1995) "Por la cual se aprueba el ACUERDO REGIONAL SOBRE MOVIMIENTO TRANSFRONTERIZO DE DESECHOS PELIGROSOS, firmado en Panamá el 11 de diciembre de 1992".
+
+LA ASAMBLEA LEGISLATIVA DECRETA:
