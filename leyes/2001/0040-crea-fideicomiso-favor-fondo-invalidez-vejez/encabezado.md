@@ -1,0 +1,1 @@
+LEY No. 40 De 20 de julio de 2001 Que crea un fideicomiso a favor del Fondo de Invalidez, Vejez y Muerte de la Caja de Seguro Social, y autoriza la transferencia de una partida a su favor LA ASAMBLEA LEGISLATIVA DECRETA:
