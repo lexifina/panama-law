@@ -1,0 +1,1 @@
+LEY No. 7 de 23 de enero de 2002 Que modifica la Ley 53 de 2000, sobre la condonación de préstamos otorgados por los terremotos de Bocas del Toro, y dicta otra disposición LA ASAMBLEA LEGISLATIVA DECRETA:
