@@ -14,3 +14,5 @@
 | [art-003.md](art-003.md) | Artículo 3. Esta Ley empezará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | Ley 7 (De 4 de junio de 1991) |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE |
+
+**Derogada en su totalidad** por Ley 71 de 2001 (vigente desde 2002-12-28), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1991/0007-derogan-algunos-articulos-modifica-articulo-13`).
