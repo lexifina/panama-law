@@ -1,0 +1,1 @@
+LEY N° 26 (De 7 de julio de 2004) Por la cual se aprueba el ACUERDO SOBRE TRANSPORTE AÉREO.ENTRE LA REPÚBLICA DE PANAMÁ Y LA REPÚBLICA DEL PERÚ, suscrito en la ciudad de Lima, República del Perú, el 8 de septiembre de 2003 LA ASAMBLEA LEGISLATIVA DECRETA:
