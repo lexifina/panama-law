@@ -1,0 +1,1 @@
+LEY N° 18 (De 27 de mayo de 1999) Por la cual se aprueba e1 CONVENIO SOBRE LAS AGENCIAS DE EMPLEO PRIVADAS, 1997, (Núm. 181), adoptado por la Conferencia General de la Organización Internacional de Trabajo (OIT), el 19 de junio de 1997 LA ASAMBLEA LEGISLATIVA DECRETA:
