@@ -1,0 +1,1 @@
+Artículo 70-B. La educación primaria de la educación de adultos, como parte del primer nivel de enseñanza, permitirá el ingreso a la persona que domine los conocimientos que se imparten en alfabetización. Durante su desarrollo se ofrecerán los fundamentos de una educación general que estimule la creatividad y el pensamiento reflexivo que le permita proseguir estudios.
