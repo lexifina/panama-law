@@ -34,3 +34,5 @@
 | [art-020.md](art-020.md) | Artículo 20. Esta Ley comenzará a regir a partir de su aprobación. |
 | [encabezado.md](encabezado.md) | Ley 69 (De 19 de septiembre de 1978) |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE: |
+
+**Derogada en su totalidad** por Ley 20 de 1986 (vigente desde 1986-12-02), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1978/0069-regula-empresas-denominadas-financieras-operacion-es`).
