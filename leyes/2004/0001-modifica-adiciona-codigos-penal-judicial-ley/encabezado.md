@@ -1,0 +1,1 @@
+LEY No. 1 De 5 de enero de 2004 Que modifica y adiciona disposiciones a los Códigos Penal y Judicial y a la Ley 35 de 1996, y deroga un artículo del Código Penal y de la Ley 15 de 1994, referentes a los derechos de propiedad industrial LA ASAMBLEA LEGISLATIVA DECRETA:
