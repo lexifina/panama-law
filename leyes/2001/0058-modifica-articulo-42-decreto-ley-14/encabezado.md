@@ -1,0 +1,1 @@
+ASAMBLEA LEGISLATIVA, REPUBLICA DE PANAMA LEY No . 58 De 21 de noviembre de 2001 Que modifica el artículo 42 del Decreto Ley 14 de 1954, Orgánico de la Caja de Seguro Social LA ASAMBLEA LEGISLATIVA DECRETA:
