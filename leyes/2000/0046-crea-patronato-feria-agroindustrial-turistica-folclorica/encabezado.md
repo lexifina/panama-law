@@ -1,0 +1,1 @@
+LEY No. 46 De 7 de diciembre de 2000 Que crea el Patronato de la Feria Agroindustrial, Turística, Folclórica y Marítima de Barú y el Patronato de la Feria Agroindustrial, Turística, Folclórica y Marítima del distrito de Bocas del Toro LA ASAMBLEA LEGISLATIVA DECRETA:
