@@ -1,0 +1,9 @@
+COMUNÍQUESE Y PUBLÍQUESE
+
+Dada en la ciudad de Panamá, a los 27 días del mes de abril de mil novecientos noventa y cuatro.
+
+EL PRESIDENTE EL SECRETARIO GENERAL ARTURO VALLARINO RUBÉN AROSEMENA VALDES
+
+ÓRGANO EJECUTIVO NACIONAL-PRESIDENCIA DE LA REPÚBLICA- PANAMÁ, REPÚBLICA DE PANAMÁ, 17 DE MAYO DE 1994
+
+GUILLERMO ENDARA GALIMANY GREGORIO ORDÓÑEZ Presidente de la República Ministro de Trabajo y Bienestar Social
