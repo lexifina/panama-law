@@ -1,0 +1,1 @@
+LEY No. 22 De de de 2004 Por la cual se aprueba el TRATADO ENTRE LA REPÚBLICA DE PANAMÁ Y UCRANIA SOBRE EXTRADICIÓN, hecho en la ciudad de Panamá, el 4 de noviembre de 2003 LA ASAMBLEA LEGISLATIVA DECRETA:
