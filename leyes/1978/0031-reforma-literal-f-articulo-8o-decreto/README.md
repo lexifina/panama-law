@@ -13,3 +13,5 @@
 | [art-002.md](art-002.md) | Artículo 2. La presente Ley comenzará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | Ley 31 (De 30 de junio de 1978) |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE: |
+
+**Derogada en su totalidad** por Ley 3 de 1986 (vigente desde 1986-03-24), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1978/0031-reforma-literal-f-articulo-8o-decreto`).
