@@ -1,0 +1,7 @@
+COMUNÍQUESE Y PUBLÍQUESE
+OVIDIO DIAZ V. ERASMO PINILLA
+Presidente de la Asamblea Legislativa Secretario General ÓRGANO EJECUTIVO NACIONAL.- PRESIDENCIA DE LA REPÚBLICA.- PANAMÁ, REPÚBLICA DE PANAMÁ, 29 DE DICIEMBRE DE 1986.
+ERIC ARTURO DELVALLE
+Presidente de la República
+HIRISNEL SUCRE
+Ministro de Desarrollo Agropecuario
