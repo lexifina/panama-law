@@ -13,3 +13,5 @@
 | [art-002.md](art-002.md) | Artículo Segundo. La presente Ley comenzará a regir desde su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 20 (De 9 de abril de 1976) |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE |
+
+**Derogada en su totalidad** por Ley 77 de 2001 (vigente desde 2001-12-31), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1976/0020-modifica-articulo-12-ley-no98-29`).
