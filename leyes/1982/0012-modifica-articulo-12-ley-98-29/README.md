@@ -13,3 +13,5 @@
 | [art-002.md](art-002.md) | ARTÍCULO 2. La presente Ley comenzará a regir desde su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 12 (De 20 de abril de 1982) |
 | [firma.md](firma.md) | COMUNIQUESE Y PUBLIQUESE. |
+
+**Derogada en su totalidad** por Ley 77 de 2001 (vigente desde 2001-12-31), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1982/0012-modifica-articulo-12-ley-98-29`).
