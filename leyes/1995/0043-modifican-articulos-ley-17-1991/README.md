@@ -32,3 +32,5 @@
 | [art-020.md](art-020.md) | Artículo 20. Esta Ley empezará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 43 (De 21 de julio de 1995)) |
 | [firma.md](firma.md) | COMUNIQUESE Y CÚMPLASE Dada en la ciudad de Panamá, a los 17 días del mes de julio de mil novecientos noventa  |
+
+**Derogada en su totalidad** por Ley 31 de 1996 (vigente desde 1996-03-01), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1995/0043-modifican-articulos-ley-17-1991`).
