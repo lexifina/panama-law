@@ -1,0 +1,1 @@
+LEY No. 29 De 3 de julio de 2001 Que modifica y adiciona artículos a la Ley 8 de 1997, que crea el Sistema de Ahorro y Capitalización de Pensiones de los Servidores Públicos, y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
