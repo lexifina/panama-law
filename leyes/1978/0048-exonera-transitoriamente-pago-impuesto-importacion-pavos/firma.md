@@ -1,0 +1,9 @@
+COMUNÍQUESE Y PUBLÍQUESE:
+
+Dada en la ciudad de Panamá, a los 25 días del mes de julio de mil novecientos setenta y ocho.
+
+DEMETRIO B. LAKAS Presidente de la República
+
+GERARDO GONZÁLEZ Vicepresidente de la República
+
+JOSÉ O. HUERTAS Presidente de la Asamblea Nacional de Representantes de Corregimientos
