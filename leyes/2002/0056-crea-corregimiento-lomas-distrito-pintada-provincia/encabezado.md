@@ -1,0 +1,1 @@
+LEY No. 56 De 5 de Diciembre de 2002 Que crea el corregimiento Las Lomas, en el distrito de La Pintada, provincia de Coclé, modifica el artículo 8 de Ley 58 de 1998 y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
