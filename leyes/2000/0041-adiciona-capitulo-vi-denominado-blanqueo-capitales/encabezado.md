@@ -1,0 +1,1 @@
+LEY No. 41 De 2 de octubre de 2000 Que adiciona el Capítulo VI, denominado Blanqueo de Capitales, al Título XII, y el Título XIII, denominado Disposiciones Finales, al Libro II del Código Penal, y se dictan otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
