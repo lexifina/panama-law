@@ -1,0 +1,3 @@
+LEY No. 11 De 20 de enero de 2003 Por la cual se aprueba el CONVENIO INTERAMERICANO SOBRE PERMISO INTERNACIONAL DE RADIOAFICIONADO, adoptado en Montrouis, Haiti, el 8 de junio de 1995.
+
+LA ASAMBLEA LEGISLATIVA DECRETA:
