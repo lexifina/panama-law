@@ -1,0 +1,1 @@
+LEY No. 4 De 16 de enero de 2004 Que modifica el artículo 1 de la Ley 8 de 1997, del Sistema de Ahorro y Capitalización de Pensiones de los Servidores Públicos, y dicta otra disposición LA ASAMBLEA LEGISLATIVA DECRETA:
