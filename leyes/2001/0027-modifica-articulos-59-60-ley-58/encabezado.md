@@ -1,0 +1,1 @@
+LEY No. 27 De 25 de junio de 2001 Que modifica los artículos 59 y 60 de la Ley 58 de 1998, segrega varios corregimientos del distrito de Montijo, crea el distrito de Mariato y el corregimiento El Cacao, en la provincia de Veraguas, y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
