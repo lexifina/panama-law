@@ -1,0 +1,1 @@
+LEY No. 58 De 7 de Agosto de 2003 Que modifica artículos de la Ley 14 de 1982, sobre custodia, conservación y administración del Patrimonio Histórico de la Nación, y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
