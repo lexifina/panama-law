@@ -1,0 +1,1 @@
+LEY No. 49 De 18 de septiembre de 2002 Que modifica artículos del Decreto de Gabinete 168 de 1971, sobre el Seguro Educativo, modificado por las leyes 13 y 16 de 1987, y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
