@@ -1,0 +1,1 @@
+LEY No. 11 De 30 de enero de 2002 Que modifica los artículos 17 y 18 del Decreto Ley 1 de 1999, mediante los cuales se establecen las tarifas de registro y supervisión de los sujetos regulados y otros trámites ante la Comisión Nacional de Valores LA ASAMBLEA LEGISLATIVA DECRETA:
