@@ -1,0 +1,1 @@
+LEY No. 19 (De 7de julio de 2004) Por la cual se aprueba el ACUERDO ENTRE EL GOBIERNO DE LA REPÚBLICA DE PANAMÁ Y EL GOBIERNO DE UCRANIA RELATIVO A LA MARINA MERCANTE, hecho en la ciudad de Panamá, el 4 de noviembre de 2003 LA ASAMBLEA LEGISLATIVA DECRETA:
