@@ -1,0 +1,3 @@
+LEY Nº 17 De 28 de marzo de 2001 Por la cual se aprueba el PROTOCOLO FACULTATIVO DE LA CONVENCION SOBRE LA ELIMINACION DE TODAS LAS FORMAS DE DISCRIMINACION CONTRA LA MUJER, adoptado por la Asamblea General de las Naciones Unidas el 6 de octubre de 1999.
+
+LA ASAMBLEA LEGISLATIVA DECRETA:
