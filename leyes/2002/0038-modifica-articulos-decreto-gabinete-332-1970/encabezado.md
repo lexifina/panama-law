@@ -1,0 +1,1 @@
+LEY No. 38 De 5 de agosto de 2002 Que modifica artículos del Decreto de Gabinete 332 de 1970, que adopta medidas relativas al Concurso Literario Ricardo Miró, y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
