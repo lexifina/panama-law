@@ -44,3 +44,5 @@
 | [art-029.md](art-029.md) | Artículo 29. Esta Ley empezará a regir a partir de su promulgación |
 | [encabezado.md](encabezado.md) | LEY 14 (De 29 de julio de 1987) |
 | [firma.md](firma.md) | COMUNIQUESE y PUBLIQUESE |
+
+**Derogada en su totalidad** por Ley 31 de 1996 (vigente desde 1996-03-01), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1987/0014-regulan-telecomunicaciones-nacionales-e-internacionales-republica`).
