@@ -1,0 +1,1 @@
+LEY No. 32 De 26 de marzo de 2003 Por la cual se aprueba la CONVENCION SOBRE LA PROTECCION DEL PATRIMONIO CULTURAL SUBACUATICO, hecha en París, el 2 de noviembre de LA ASAMBLEA LEGISLATIVA DECRETA:
