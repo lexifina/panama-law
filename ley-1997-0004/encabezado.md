@@ -1,0 +1,5 @@
+Ley 4 (De 13 de enero de 1997)
+Por la cual se aprueba el CONVENIO DE UNIDROIT SOBRE EL ARRENDAMIENTO
+FINANCIERO INTERNACIONAL, hecho en Ottawa, el 28 de mayo de 1988.
+LA ASAMBLEA LEGISLATIVA
+DECRETA:
