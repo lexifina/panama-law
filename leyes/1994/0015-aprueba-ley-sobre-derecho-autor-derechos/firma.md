@@ -1,0 +1,13 @@
+COMUNIQUESE Y PUBLIQUESE Dada en la ciudad de Panamá, a los 29 días del mes de junio de mil novecientos noventa y cuatro.
+
+EL PRESIDENTE, EL SECRETARIO GENERAL, a.i.
+
+ARTURO VALLARINO MARIO LASSO
+
+ORGANO EJECUTIVO NACIONAL - PRESIDENCIA DE LA REPUBLICA.
+
+PANAMA, REPUBLICA DE PANAMA, 8 DE AGOSTO DE 1994.
+
+GUILLERMO ENDARA GALIMANY GERMAN VERGARA G.
+
+Presidente de la República Ministro de Educación
