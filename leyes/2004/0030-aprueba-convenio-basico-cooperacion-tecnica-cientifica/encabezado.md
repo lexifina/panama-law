@@ -1,0 +1,1 @@
+LEY No. 30 De 7 de julio de 2004 Por la cual se aprueba el CONVENIO BÁSICO DE COOPERACIÓN TÉCNICA Y CIENTÍFICA ENTRE EL GOBIERNO DE LA REPÚBLICA DE PANAMÁ,Y EL GOBIERNO DE SAINT KITTS Y NEVIS, hecho en Panamá, República de Panamá, a los 12 días del mes de febrero de 2004 LA ASAMBLEA LEGISLATIVA DECRETA:
