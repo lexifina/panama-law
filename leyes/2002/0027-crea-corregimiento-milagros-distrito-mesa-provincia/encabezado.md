@@ -1,0 +1,1 @@
+LEY No. 27 De 27 de junio de 2002 Que crea el corregimiento Los Milagros, en el distrito de La Mesa, provincia de Veraguas, y modifica el artículo 56 de la Ley 58 de 1998 LA ASAMBLEA LEGISLATIVA DECRETA:
