@@ -1,0 +1,1 @@
+LEY No. 9 De 21 de febrero de 2005 Que modifica el artículo 297 del Código Fiscal, que sanciona las infracciones al Capítulo V del Título VI del Libro I de este Código o a las normas reglamentarias sobre la pesca LA ASAMBLEA NACIONAL DECRETA:
