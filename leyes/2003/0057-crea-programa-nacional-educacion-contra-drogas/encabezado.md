@@ -1,0 +1,1 @@
+LEY No. 57 De 7 de agosto de 2003 Que crea el Programa Nacional de Educación contra las Drogas en los centros educativos oficiales y particulares y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
