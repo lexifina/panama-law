@@ -1,0 +1,1 @@
+LEY N° 63 De 28 de octubre de 2003 Por la cual se aprueba la Lista de Productos y las Reglas Específicas de Origen del Tratado Comercial entre la República de Panamá y la República Dominicana LA ASAMBLEA LEGISLATIVA DECRETA:
