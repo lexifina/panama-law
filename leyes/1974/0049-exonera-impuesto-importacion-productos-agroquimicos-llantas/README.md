@@ -13,3 +13,5 @@
 | [art-002.md](art-002.md) | ARTÍCULO SEGUNDO. La presente Ley comenzará a regir a partir de su promulgación |
 | [encabezado.md](encabezado.md) | LEY 49 (De 16 DE MAYO DE 1974) Por la cual se exonera del impuesto de importación a los productos agroquímicos |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE Dado en la ciudad de Panamá, a los 16 días del mes de mayo de mil novecientos setenta |
+
+**Derogada en su totalidad** por Ley 62 de 1974 (vigente desde 1974-06-06), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1974/0049-exonera-impuesto-importacion-productos-agroquimicos-llantas`).
