@@ -13,3 +13,5 @@
 | [art-002.md](art-002.md) | Artículo 2. Esta Ley empezará a regir a partir del 1 de julio de 1985. |
 | [encabezado.md](encabezado.md) | LEY 6 De 30 de junio de 1985 |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE Dada en la ciudad de Panamá a los 20 días del mes de junio de mil novecientos ochenta |
+
+**Derogada en su totalidad** por Ley 19 de 1986 (vigente desde 1986-08-18), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1985/0006-modifica-articulo-1o-ley-6-14`).
