@@ -1,0 +1,1 @@
+LEY No. 62 De 26 de diciembre de 2002 Que modifica artículos de la Ley 23 de 1997, de la Ley 28 de 1995, sobre la universalización de los incentivos tributarios a la producción, y el artículo 376 A del Código Penal LA ASAMBLEA LEGISLATIVA DECRETA:
