@@ -1,0 +1,1 @@
+LEY No. 8 De 10 de ENERO de 2001 Por la cual se aprueba el ACTA CONSTITUTIVA DEL CENTRO DE FORMACION PARA LA INTEGRACION (CEFIR), firmada en la ciudad de Río de Janeiro, el 27 de junio de 1999 LA ASAMBLEA LEGISLATIVA DECRETA:
