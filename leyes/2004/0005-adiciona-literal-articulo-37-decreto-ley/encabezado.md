@@ -1,0 +1,1 @@
+LEY No. 5 De 21 de Enero de 2004 Que adiciona un literal al artículo 37 del Decreto Ley 14 de 1954, para autorizar a la Caja de Seguro Social a invertir en préstamos personales para jubilados y pensionados, y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
