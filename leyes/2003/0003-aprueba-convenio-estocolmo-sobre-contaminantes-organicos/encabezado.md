@@ -1,0 +1,1 @@
+LEY No. 3 De 20 de enero de 2003 Por la cual se aprueba el CONVENIO DE ESTOCOLMO SOBRE CONTAMINANTES ORGÁNICOS PERSISTENTES, adoptado en Estocolmo el 22 de mayo de 2001 LA ASAMBLEA LEGISLATIVA DECRETA:
