@@ -14,3 +14,5 @@
 | [art-003.md](art-003.md) | Artículo Tercero. Esta Ley comenzará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | Ley 34 (De 19 de junio de 1976) |
 | [firma.md](firma.md) | COMUNIQUESE Y PUBLIQUESE |
+
+**Derogada en su totalidad** por Ley 77 de 2001 (vigente desde 2001-12-31), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1976/0034-modifica-ordinal-f-articulo-16-ordinal`).
