@@ -1,0 +1,4 @@
+LEY N° 20 (De 7 de julio de 2004)
+Por la cual se aprueba el ACUERDO SOBRE LOS PRIVILEGIOS E INMUNIDADES DE LA CORTE PENAL INTERNACIONAL, dado en Nueva York, el 9 de septiembre de 2002
+LA ASAMBLEA LEGISLATIVA
+DECRETA:
