@@ -1,0 +1,3 @@
+LEY NO. 11 De 10 de enero de 2001 Por la cual se aprueba el PROTOCOLO SOBRE PRIVILEGIOS E INMUNIDADES DE LA ASOCIACION DE ESTADOS DEL CARIBE, hecho en la República de Panamá, el 13 de diciembre de 1999.
+
+LA ASAMBLEA LEGISLATIVA DECRETA:
