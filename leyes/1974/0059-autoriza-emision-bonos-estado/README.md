@@ -15,3 +15,5 @@
 | [art-004.md](art-004.md) | ARTÍCULO CUARTO. La presente Ley comenzará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 59 (De 6 de junio de 1974) Por la cual se autoriza la emisión de Bonos del Estado. |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE. |
+
+**Derogada en su totalidad** por Ley 97 de 1974 (vigente desde 1974-12-19), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1974/0059-autoriza-emision-bonos-estado`).
