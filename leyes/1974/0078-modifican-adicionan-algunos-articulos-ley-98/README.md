@@ -17,3 +17,5 @@
 | [art-006.md](art-006.md) | ARTÍCULO 6. La presente Ley comenzará a regir desde su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 78 (De 9 de Octubre de 1974) |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE Dado en la ciudad de Panamá, a los 9 días del mes de octubre de 1974. |
+
+**Derogada en su totalidad** por Ley 77 de 2001 (vigente desde 2001-12-31), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1974/0078-modifican-adicionan-algunos-articulos-ley-98`).
