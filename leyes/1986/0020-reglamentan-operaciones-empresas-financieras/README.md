@@ -57,3 +57,5 @@
 | [art-044.md](art-044.md) | ARTICULO 44: Esta Ley comenzará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | LEY NO. 20 (De 24 de Noviembre de 1986) "Por la cual se reglamentan las operaciones de las empresas financiera |
 | [firma.md](firma.md) | COMUNIQUESE Y PUBLIQUESE. |
+
+**Derogada en su totalidad** por Ley 42 de 2001 (vigente desde 2001-10-24), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1986/0020-reglamentan-operaciones-empresas-financieras`).
