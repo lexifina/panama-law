@@ -1,0 +1,1 @@
+LEY No. 53 De 22 de Noviembre de 2002 Que crea los corregimientos Edwin Fábrega, Carlos Santana Ávila, San Martín de Porres y Urracá en el distrito de Santiago, provincia de Veraguas; modifica el artículo 68 de la Ley 58 de 1998 y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
