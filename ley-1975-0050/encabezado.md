@@ -1,0 +1,9 @@
+LEY 50 (de 22 de Agosto de 1975) Por medio de la cual se da una autorización al Órgano Ejecutivo,
+se dictan algunas medidas, se aprueba un convenio y se
+deroga la Ley 31 de 1975.
+EL CONSEJO NACIONAL DE LEGISLACION
+CONSIDERANDO
+Que la empresa PAVONIA, S.A., efectuó los trabajos de exploración del yacimiento minero de Cerro Colorado, en virtud de los Contratos número 61 y número 50 de 10 de noviembre de 1970 y 22 de junio de 1972, respectivamente, celebrado entre el Ministerio de Comercio e Industrias, en nombre y representación de la Nación, y el señor Eduardo Alfaro, en nombre y representación de la mencionada persona jurídica;
+Que habiendo concluido los trabajos de exploración, PAVONIA, S.A.; ejerció el derecho de primera opción para negociar una concesión que amparase las operaciones de extracción de acuerdo con los términos y condiciones señalados por el Gobierno Nacional, de conformidad con lo que establece el acápite c) del artículo 12 del Código de Recursos Minerales, sin que la empresa aceptase esos términos y condiciones, lo cual hizo imposible aceptase la concertación de un acuerdo para la extracción de los minerales contenidos en el área otorgada en concesión de exploración a la empresa PAVONIA, S.A.;
+Que por razones de equidad, el Gobierno Nacional ha convenido, mediante acuerdo negociado por la Corporación de Desarrollo Minero Cerro Colorado, y PAVONIA, S.A. y Canadian Javelin Limited, reconocer a PAVONIA, S.A., el reintegro de las sumas de dinero invertidas en el trabajo de exploración llevado a cabo por ella en relación con el yacimiento de Cerro Colorado, así como una suma adicional en concepto del riesgo asumido por la empresa en sus actividades de exploración, todo lo cual monta a la suma de Veintitrés Millones Seiscientos Mil Balboas (B/.23,600,000.00).
+DECRETA
