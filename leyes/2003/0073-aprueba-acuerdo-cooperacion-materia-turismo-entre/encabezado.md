@@ -1,0 +1,1 @@
+LEY No. 73 De 3 de diciembre de 2003 Por la cual se aprueba el Por la cual se aprueba el ACUERDO DE COOPERACION EN MATERIA DE TURISMO ENTRE EL GOBIERNO DE LA REPUBLICA DE PANAMA Y EL GOBIERNO DE BARBADOS, hecho en Bridgetown, Barbados, el 2 de abril de 2003 LA ASAMBLEA LEGISLATIVA DECRETA:
