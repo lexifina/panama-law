@@ -1,0 +1,1 @@
+LEY No. 56 De 7 de noviembre de 2001 Por la cual se aprueba el ACUERDO ENTRE LA REPUBLICA DE PANAMA Y EL REINO DE ESPAÑA SOBRE TRANSPORTE AEREO, hecho en Panamá, el 7 de agosto de 2001 LA ASAMBLEA LEGISLATIVA DECRETA :
