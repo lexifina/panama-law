@@ -1,0 +1,1 @@
+LEY No. 47 De 10 de agosto de 2004 Que dicta el Presupuesto de la Autoridad del Canal de Panamá para la Vigencia Fiscal del 1 de octubre de 2004 al 30 de septiembre de 2005 LA ASAMBLEA LEGISLATIVA DECRETA:
