@@ -1,0 +1,1 @@
+LEY No. 61 De 18 de octubre de 2003 Que crea el corregimiento Isla de Cañas, segregado del corregimiento Cañas, distrito de Tonosí, provincia de Los Santos, modifica la Ley 58 de 1998 y dicta otras disposiciones LA ASAMBLEA LEGISLATIVA DECRETA:
