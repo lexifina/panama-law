@@ -28,3 +28,5 @@
 | [art-016.md](art-016.md) | Artículo 16: El personal y las partidas presupuestarias correspondientes al proyecto de la CORPORACIÓN BANANER |
 | [art-017.md](art-017.md) | Artículo 17: Esta Ley comenzará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 4 (De 27 de enero de 1977) |
+
+**Derogada en su totalidad** por Ley 16 de 1993 (vigente desde 1993-06-22), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1977/0004-crea-empresa-estatal-denominada-corporacion-bananera`).
