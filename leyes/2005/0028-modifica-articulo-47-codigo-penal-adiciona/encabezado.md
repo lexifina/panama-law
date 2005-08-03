@@ -1,0 +1,1 @@
+LEY No. 28 De 1 de agosto de 2005 Que modifica el artículo 47 del Código Penal y adiciona el Capítulo X, denominado Conmutación de Penas de Privación de Libertad por Estudio o Trabajo, al Título III del Libro Primero del Código Penal LA ASAMBLEA NACIONAL DECRETA:
