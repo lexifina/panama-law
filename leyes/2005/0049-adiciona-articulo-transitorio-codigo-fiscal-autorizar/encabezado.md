@@ -1,0 +1,1 @@
+LEY No. 49 De 19 de diciembre de 2005 Que adiciona un artículo transitorio al Código Fiscal para autorizar la acuñación de monedas conmemorativas al Conjunto Monumental Histórico de Panamá Viejo y dicta otras disposiciones LA ASAMBLEA NACIONAL DECRETA:
