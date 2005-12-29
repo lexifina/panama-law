@@ -1,0 +1,15 @@
+COMUNÍQUESE Y CÚMPLASE.
+Aprobada en tercer debate en el Palacio Justo Arosemena, ciudad de Panamá, a los 29 días del mes de noviembre del año dos mil cinco.
+El Presidente, Elías A. Castillo G.
+El Secretario General, Carlos José Smith S.
+ORGANO EJECUTIVO NACIONAL, PRESIDENCIA DE LA REPUBLICA. PANAMA, REPUBLICA DE PANAMA, 29 DE DICIEMBRE DE 2005.
+MARTIN TORRIJOS ESPINO Presidente de la República CARLOS VALLARINO R.
+Ministro de Obras Públicas
+ASAMBLEA NACIONAL
+LEY: 052 DE 2005 PROYECTO DE LEY: 2005_P_134.PDF
+NOMENCLATURA:AÑO_MES_DÍA_LETRA_ORIGEN
+ACTAS DEL MISMO DÍA: A, B, C, D
+ACTAS DE VARIOS DIAS: V
+ACTAS DEL PLENO
+2005_11_23_A_PLENO.PDF
+2005_11_24_A_PLENO.PDF
