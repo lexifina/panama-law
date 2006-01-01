@@ -15,3 +15,5 @@
 | [art-002.md](art-002.md) | ARTÍCULO SEGUNDO. La presente Ley empezará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 76 (De 6 de septiembre de 1974) |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE. |
+
+**Derogada en su totalidad** por Ley 51 de 2005 (vigente desde 2006-01-01), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1974/0076-reforma-articulo-1-decreto-gabinete-17`).

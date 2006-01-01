@@ -1,5 +1,0 @@
-LEY 76 (De 6 de septiembre de 1974)
-
-Por la cual se reforma el Artículo 1º del Decreto de Gabinete No 17 de 22 de enero de 1969, reformado por el Artículo 1º del Decreto de Gabinete No 294 de 4 de septiembre de 1969 y sucesivamente por el artículo 1º del Decreto de Gabinete No 375 de 3 de diciembre de 1969, por el Artículo 1º del Decreto de Gabinete No 65 del Decreto de Gabinete No 209 de 24 de junio de 1970 y adicionado por el Artículo 2º del Decreto de Gabinete 334 de 21 de octubre de 1970 y modificado por el Decreto de Gabinete No 85 de 25 de marzo de 1971.
-
-EL CONSEJO NACIONAL DE LEGISLACIÓN DECRETA
