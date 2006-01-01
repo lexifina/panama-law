@@ -19,3 +19,5 @@
 | [art-006.md](art-006.md) | Artículo 6. Esta Ley empezará a regir desde su promulgación y deroga cualquier disposición que le sea contrari |
 | [encabezado.md](encabezado.md) | LEY No. 40 De 20 de julio de 2001 Que crea un fideicomiso a favor del Fondo de Invalidez, Vejez y Muerte de la |
 | [firma.md](firma.md) | COMUNÍQUESE Y CÚMPLASE. |
+
+**Derogada en su totalidad** por Ley 51 de 2005 (vigente desde 2006-01-01), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/2001/0040-crea-fideicomiso-favor-fondo-invalidez-vejez`).
