@@ -200,3 +200,5 @@
 | [art-188.md](art-188.md) | Artículo 188. Vigencia. Esta Ley es de orden público y de interés social, y comenzará a regir desde su promulg |
 | [encabezado.md](encabezado.md) | LEY No. 17 De 1 de junio de 2005 Que subroga el Decreto Ley 14 de 1954, sus modificaciones y adiciones, reform |
 | [firma.md](firma.md) | COMUNÍQUESE Y CÚMPLASE. |
+
+**Derogada en su totalidad** por Ley 51 de 2005 (vigente desde 2006-01-01), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/2005/0017-subroga-decreto-ley-14-1954-modificaciones`).
