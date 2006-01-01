@@ -25,3 +25,5 @@
 | [art-012.md](art-012.md) | Artículo 12. Esta Ley entrará en vigencia a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 40 (De 26 de junio de 1996). |
 | [firma.md](firma.md) | COMUNÍQUESE Y CÚMPLASE. |
+
+**Derogada en su totalidad** por Ley 51 de 2005 (vigente desde 2006-01-01), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1996/0040-segregan-fondos-algunos-programas-caja-seguro`).
