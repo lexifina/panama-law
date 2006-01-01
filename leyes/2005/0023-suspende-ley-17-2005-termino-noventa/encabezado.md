@@ -1,1 +1,0 @@
-LEY No. 23 De 30 de junio de 2005 Que suspende la Ley 17 de 2005 por el término de noventa días, y restablece, por igual término, la vigencia de varias disposiciones legales y reglamentarias LA ASAMBLEA NACIONAL DECRETA:
