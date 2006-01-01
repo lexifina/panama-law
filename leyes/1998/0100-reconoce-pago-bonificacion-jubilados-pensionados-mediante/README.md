@@ -16,3 +16,5 @@
 | [art-003.md](art-003.md) | Artículo 3. Esta Ley entrará en vigencia a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | Ley 100 (De 24 de diciembre de 1998). |
 | [firma.md](firma.md) | COMUNÍQUESE Y CÚMPLASE. |
+
+**Derogada en su totalidad** por Ley 51 de 2005 (vigente desde 2006-01-01), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1998/0100-reconoce-pago-bonificacion-jubilados-pensionados-mediante`).
