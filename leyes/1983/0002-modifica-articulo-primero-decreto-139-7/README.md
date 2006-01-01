@@ -15,3 +15,5 @@
 | [art-002.md](art-002.md) | Artículo 2. Esta Ley empezará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 2 |
 | [firma.md](firma.md) | COMUNIQUESE Y PUBLIQUESE Dada en la ciudad de Panamá, a los once días del mes de enero de mil novecientos oche |
+
+**Derogada en su totalidad** por Ley 51 de 2005 (vigente desde 2006-01-01), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1983/0002-modifica-articulo-primero-decreto-139-7`).
