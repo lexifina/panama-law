@@ -1,0 +1,1 @@
+LEY No. 59 De 28 de diciembre de 2005 Que adopta normas de protección laboral para las personas con enfermedades crónicas, involutivas y/o degenerativas que produzcan discapacidad laboral LA ASAMBLEA NACIONAL DECRETA:
