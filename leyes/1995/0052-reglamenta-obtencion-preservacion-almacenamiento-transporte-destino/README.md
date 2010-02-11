@@ -150,3 +150,5 @@
 | [art-137.md](art-137.md) | Artículo 137. Esta Ley empezará a regir a partir de su promulgación y deroga la Ley 10 de 1983 y cualquier otr |
 | [encabezado.md](encabezado.md) | LEY 52 (De 12 de diciembre de 1995) |
 | [firma.md](firma.md) | Aprobada en tercer debate, en el Palacio Justo Arosemena, ciudad de Panamá, a los 30 días del mes de octubre d |
+
+**Derogada en su totalidad** por Ley 3 de 2010 (vigente desde 2010-02-11), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1995/0052-reglamenta-obtencion-preservacion-almacenamiento-transporte-destino`).
