@@ -27,3 +27,5 @@
 | [art-016.md](art-016.md) | Artículo 16. Esta Ley comenzará a regir desde su promulgación. |
 | [encabezado.md](encabezado.md) | LEY No. 54 De 22 de Noviembre de 2002 Que establece el Sistema Nacional de Mercados y Comercialización Agropec |
 | [firma.md](firma.md) | COMUNÍQUESE Y CÚMPLASE. |
+
+**Derogada en su totalidad** por Ley 28 de 2010 (vigente desde 2010-06-10), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/2002/0054-establece-sistema-nacional-mercados-comercializacion-agropecuarios`).
