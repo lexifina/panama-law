@@ -1,0 +1,4 @@
+LEY 52 De 29 de septiembre de 2010
+Por la cual se aprueba el CONVENIO DE COOPERACIÓN TÉCNICA Y CIENTÍFICA ENTRE EL GOBIERNO DE LA REPÚBLICA DE PANAMÁ Y EL GOBIERNO DE LA REPÚBLICA DE BOLIVIA, suscrito en la ciudad de San Salvador, El Salvador, el 30 de octubre de 2008
+LA ASAMBLEA NACIONAL
+DECRETA:
