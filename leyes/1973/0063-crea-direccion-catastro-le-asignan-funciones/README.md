@@ -70,3 +70,5 @@
 | [art-048.md](art-048.md) | Artículo 48. Esta Ley entrará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | Ley 63 (De 31 de julio de 1973) “Por la cual se crea la Dirección General de Catastro, se le asignan funciones |
 | [firma.md](firma.md) | COMUNÍQUESE Y PUBLÍQUESE. |
+
+**Derogada en su totalidad** por Ley 59 de 2010 (vigente desde 2010-10-08), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1973/0063-crea-direccion-catastro-le-asignan-funciones`).
