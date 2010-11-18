@@ -1,0 +1,4 @@
+LEY 82 De 15 de noviembre de 2010
+Por la cual se aprueba el TRATADO ENTRE LA REPÚBLICA DE PANAMÁ Y LA FEDERACIÓN DE RUSIA SOBRE ASISTENCIA LEGAL RECÍPROCA EN MATERIA PENAL, suscrito en la ciudad de Panamá, el 30 de abril de 2009
+LA ASAMBLEA NACIONAL
+DECRETA:
