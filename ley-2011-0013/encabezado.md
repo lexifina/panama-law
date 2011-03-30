@@ -1,0 +1,4 @@
+LEY 13 De 29 de marzo de 2011
+Por la cual se aprueba el CONVENIO DE COOPERACIÓN CULTURAL Y EDUCATIVA ENTRE LA REPÚBLICA DE PANAMÁ Y LA REPÚBLICA DE HONDURAS, hecho en la ciudad de Panamá, el 28 de junio de 2010
+LA ASAMBLEA NACIONAL
+DECRETA:
