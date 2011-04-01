@@ -1,0 +1,5 @@
+G.O. 26575
+LEY 26 De 30 de marzo de 2011
+Por la cual se aprueba el PROTOCOLO FACULTATIVO DE LA CONVENCIÓN CONTRA LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, adoptado por la Asamblea General de las Naciones Unidas, el 18 de diciembre de 2002
+LA ASAMBLEA NACIONAL
+DECRETA:
