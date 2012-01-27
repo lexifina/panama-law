@@ -14,3 +14,5 @@
 | [art-002.md](art-002.md) | Artículo 2. Esta Ley entrará en vigencia a partir del día 1° de octubre de 1979. |
 | [encabezado.md](encabezado.md) | LEY 35 (de 27 de septiembre de 1979) |
 | [firma.md](firma.md) | COMUNIQUESE Y PUBLIQUESE. |
+
+**Derogada en su totalidad** por Ley 2 de 2012 (vigente desde 2012-01-27), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1979/0035-adiciona-paragrafo-articulo-6o-ley-34`).
