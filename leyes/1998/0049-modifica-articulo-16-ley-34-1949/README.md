@@ -14,3 +14,5 @@
 | [art-002.md](art-002.md) | Artículo 2. Esta Ley entrará en vigencia a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 49 (De 15 de julio de 1998) |
 | [firma.md](firma.md) | COMUNÍQUESE Y CÚMPLASE |
+
+**Derogada en su totalidad** por Ley 2 de 2012 (vigente desde 2012-01-27), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1998/0049-modifica-articulo-16-ley-34-1949`).
