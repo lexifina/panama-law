@@ -1,0 +1,1 @@
+Artículo 1-B. Para efectos de la aplicación, alcance e interpretación de esta Ley y de su reglamentación, se emplearán los términos y las frases con los significados y elementos característicos de los Símbolos de la Nación contenidos en el Anexo de esta Ley.
