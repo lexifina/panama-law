@@ -25,3 +25,5 @@
 | [art-012.md](art-012.md) | Artículo 12. La presente Ley comenzará a regir a partir de su promulgación. |
 | [encabezado.md](encabezado.md) | LEY 14 (De 30 de octubre de 1990) |
 | [firma.md](firma.md) | COMUNIQUESE Y PUBLIQUESE |
+
+**Derogada en su totalidad** por Ley 57 de 2011 (vigente desde 2012-05-30), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/1990/0014-desarrolla-articulo-307-constitucion-politica-modifican`).
