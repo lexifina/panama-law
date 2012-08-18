@@ -1,0 +1,17 @@
+COMUNÍQUESE Y CÚMPLASE.
+
+Proyecto 396 de 2011 aprobado en tercer debate en el Palacio Justo Arosemena, ciudad de Panamá, a los veintiséis días del mes de julio del año dos mil doce.
+
+El Presidente,
+
+Sergio R. Gálvez Evers El Secretario General Encargado,
+
+Roberto A. Proll Núñez
+
+ÓRGANO EJECUTIVO NACIONAL. PRESIDENCIA DE LA REPÚBLICA, PANAMÁ, REPÚBLICA DE PANAMA, 14 DE AGOSTO DE 2012.
+
+RICARDO MARTINELLI BERROCAL
+
+Presidente de la República
+
+FRANKLIN VERGARA Ministro de Salud
