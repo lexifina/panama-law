@@ -19,3 +19,5 @@
 | [art-003.md](art-003.md) | Artículo 3. El artículo 1 de la Ley 39 de 2013 queda así: |
 | [encabezado.md](encabezado.md) | LEY 127 De 31 de diciembre de 2013 |
 | [firma.md](firma.md) | COMUNÍQUESE Y CÚMPLASE. |
+
+**Derogada en su totalidad** por Ley 23 de 2017 (vigente desde 2017-05-13), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/2013/0127-establece-regimen-estabilidad-laboral-servidores-publicos`).
