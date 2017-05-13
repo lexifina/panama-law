@@ -22,3 +22,5 @@
 | [art-009.md](art-009.md) | Artículo 9. Esta Ley comenzará a regir el 1 de enero de 2014. |
 | [encabezado.md](encabezado.md) | LEY 39 De 11 de junio de 2013 |
 | [firma.md](firma.md) | COMUNÍQUESE Y CÚMPLASE. |
+
+**Derogada en su totalidad** por Ley 23 de 2017 (vigente desde 2017-05-13), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/2013/0039-reconoce-ciertas-prestaciones-laborales-servidores-publicos`).
