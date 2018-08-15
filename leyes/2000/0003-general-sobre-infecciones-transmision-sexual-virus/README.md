@@ -69,3 +69,5 @@
 | [art-054.md](art-054.md) | Artículo 54.Esta Ley comenzará a regir desde de su promulgación. |
 | [encabezado.md](encabezado.md) | LEY No. 3 De 5 de enero de 2000 General sobre las Infecciones de Transmisión Sexual, el Virus de la Inmunodefi |
 | [firma.md](firma.md) | COMUNÍQUESE Y CÚMPLASE. |
+
+**Derogada en su totalidad** por Ley 40 de 2018 (vigente desde 2018-08-15), según Legispan. Los artículos se retiraron en esa fecha; el texto promulgado sigue en el historial (`git log -- leyes/2000/0003-general-sobre-infecciones-transmision-sexual-virus`).
