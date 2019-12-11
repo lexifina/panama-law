@@ -1,0 +1,2 @@
+# Artículo 62-A
+El tratamiento terapéutico multidisciplinario consiste en un programa de intervención para evaluación diagnóstica pretratamiento, intervención psicoeducativa y evaluación de eficacia y seguimiento de programa, estructurado según la conducta punible, realizado por profesionales titulados, cualificados y acreditados en ciencias del comportamiento y psicología y psiquiatría clínicas, con la colaboración de trabajo social y enfermería en salud mental, dirigido a modificar las actitudes, creencias y comportamientos de la persona agresora.

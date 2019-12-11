@@ -1,0 +1,4 @@
+# Artículo 266-B
+Se impondrá la pena de dos a cuatro años de prisión a quien fabrique, importe, distribuya, ofrezca al público, proporcione o de otra manera trafique dispositivos, productos, o componentes, u ofrezca al público o proporcione servicio, los cuales:
+1. Son promocionados, publicitados, o comercializados con el propósito de evadir una medida tecnológica efectiva; o 2. Únicamente tienen un limitado propósito o uso de importancia comercial diferente al de evadir una medida tecnológica efectiva; o 3. Son diseñados, producidos o ejecutados principalmente con el fin de permitir o facilitar la evasión de cualquier medida tecnológica efectiva.
+Quedan excluidos del alcance de lo dispuesto en el Artículo 266-A y este artículo las bibliotecas, archivos, instituciones educativas u organismos públicos de radiodifusión no comercial sin fines de lucro.

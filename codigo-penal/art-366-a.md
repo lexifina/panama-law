@@ -1,0 +1,2 @@
+# Artículo 366-A
+Quien indebidamente ingrese, altere, borre, suprima o falsifique datos informáticos, un documento electrónico, un certificado electrónico independientemente de si los datos pueden o no ser leídos directamente o almacenados en un sistema informático o electrónico resultando en datos informáticos no auténticos para que sean adquiridos o utilizados como auténticos con efectos legales, será sancionado con prisión de cuatro a ocho años.

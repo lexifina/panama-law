@@ -1,0 +1,5 @@
+# Artículo 295-A
+Quien suministre, proporcione o facilite información falsa sobre la existencia de material radioactivo, armas, incendio, explosivo, sustancia biológica o tóxica o de cualquier otro medio de destrucción masiva o elemento que tenga esa potencialidad, contra los seres vivos, los servicios públicos, los bienes o las cosas, que perturbe la paz pública o cause pánico, terror o miedo en la población o en un sector de ella será sancionado con prisión de seis meses a un año, sin perjuicio de reclamarle por los daños y perjuicios ocasionados.
+Cuando el hecho es cometido en medios o en terminales de transporte aéreo, terrestre, marítimo o en lugares de gran concurrencia de personas, la pena será de cuatro a seis años de prisión.
+Cuando el autor del hecho sea un ciudadano de nacionalidad extranjera, se ordenará, una vez cumplida la pena establecida en este artículo, su deportación inmediata y el impedimento de entrada al país de manera permanente.
+80 Este artículo fue adicionado por el artículo 2 de la Ley 62 de 17 de septiembre de 2013.

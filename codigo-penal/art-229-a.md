@@ -1,0 +1,4 @@
+# Artículo 229-A
+Quien, sin la autorización ocupe total o parcialmente un inmueble, terreno o edificación ajeno será sancionado con prisión de uno a tres años o su equivalente en días - multa o arresto de fines de semana.
+La sanción será de tres a seis años de prisión a quien promueva, patrocine, induzca, financie, facilite, colabore o incite la ocupación del inmueble, terreno o edificación ajeno.
+Cuando el hecho se cometa en áreas colindantes con quebradas, ríos o fuentes de agua o en zona declarada como área protegida, zona de preservación ambiental y ecológica dotada de atributos excepcionales que tengan limitaciones y condiciones que justifiquen su inalienabilidad e indisponibilidad, áreas de reservas para la construcción de obras públicas, zonas de contaminación ambiental o zonas vulnerables a riesgo de fenómenos naturales adversos u otros provocados por el hombre, la sanción se aumentará de un tercio a la mitad.

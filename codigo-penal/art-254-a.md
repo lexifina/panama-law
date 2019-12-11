@@ -1,0 +1,3 @@
+# Artículo 254-A
+Quien, personalmente o por interpuesta persona, reciba, posea, deposite, negocie, transfiera o convierta dineros, títulos, valores, bienes y otros recursos financieros, a sabiendas que proviene de delitos contra el Tesoro Nacional, establecidos en este Código, con el objeto de ocultar, encubrir o disimular su origen ilícito, o ayude a evadir las consecuencias jurídicas de tal hecho punible, será sancionado con pena de dos a cuatro años de prisión.
+Si se determinara que el delito previsto en este artículo ha sido, a través de una o más personas jurídicas, la pena será impuesta a la persona jurídica en cuestión y será una multa de una hasta tres veces el importe del tributo defraudado.

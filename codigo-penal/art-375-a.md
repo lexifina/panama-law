@@ -1,0 +1,3 @@
+# Artículo 375-A
+Quien, al momento de ingresar o salir del país, omita declarar o declare cifras que no se correspondan con el dinero, valores o documentos negociables que porte en cantidad superior a la suma de diez mil balboas (B/.10,000.00) será sancionado con prisión de dos a cuatro años y con el decomiso del dinero, valores, documentos negociables no declarados.
+En caso de que se trate de un ciudadano de nacionalidad extranjera, se ordenará, además del decomiso, su deportación inmediata y el impedimento de entrada al país de manera permanente, una vez haya cumplido la pena establecida en el párrafo anterior.100
