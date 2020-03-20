@@ -1,0 +1,1 @@
+LEY 1$1 DedO de ~ de 2020 Que modifica la Ley 99 de 2019, sobre amnistía tributaria general para el pago de tributos administrados por la Dirección General de Ingresos, la Ley 76 de 2019, relativa al Código de Procedimiento Tributario, y dicta otras disposiciones LA ASAMBLEA NACIONAL DECRETA:
