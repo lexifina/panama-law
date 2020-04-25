@@ -1,0 +1,1 @@
+LEY /99 De 2" de ~ de 2020 Que modifica la Ley 36 de 2016, sobre la protección integral de los derechos de las personas adultas mayores, y adiciona disposiciones al Código Penal LA ASAMBLEA NACIONAL DECRETA:
