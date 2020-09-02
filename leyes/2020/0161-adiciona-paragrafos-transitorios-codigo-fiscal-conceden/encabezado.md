@@ -1,0 +1,1 @@
+LE);' /~ I De I de )~.t?~de 2020 Que adiciona parágrafos transitorios al Código Fiscal, que conceden amnistía tributaria por la emergencia del COVID-19, y dicta otras disposiciones LA ASAMBLEA NACIONAL DECRETA:
