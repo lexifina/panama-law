@@ -1,0 +1,1 @@
+LEY 171 De l:b de~btY de 2020 Que establece la gratuidad integral en los servicios de salud para niños y adolescentes, respecto al control, prevención y diagnóstico, en el sistema público de salud LA ASAMBLEA NACIONAL DECRETA:
