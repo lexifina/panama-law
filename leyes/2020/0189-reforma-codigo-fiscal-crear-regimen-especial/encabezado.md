@@ -1,0 +1,1 @@
+LEY I C(q De 1" de tuu raY)~e 2020 Que reforma el Código Fiscal, para crear un régimen especial de impuesto sobre la renta aplicable a las micro, pequeñas y medianas empresas, a los empresarios y a los emprendedores LA ASAMBLEA NACIONAL DECRETA:
