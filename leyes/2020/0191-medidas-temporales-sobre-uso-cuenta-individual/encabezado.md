@@ -1,0 +1,1 @@
+LEY /1/ De ¡2J de ¿JÚ.~ e. NI ~ tU!" de 2020 Que dicta medidas temporales sobre el uso de la cuenta individual de los afiliados nI Sistema de Ahorro y Capitalización de Pensiones de los Servidores Públicos en atención al estado de emergencia nacional LA ASAMBLEA NACIONAL DECRETA:
