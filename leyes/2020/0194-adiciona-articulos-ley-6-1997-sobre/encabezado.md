@@ -1,0 +1,1 @@
+LEY /91 De3/ del::>t'c.ifL~¿N. de 2020 Que adiciona artículos a la Ley 6 de 1997, sobre el marco regulatorio e institucional para la prestación del servicio público de electricidad, para implementar el establecimiento de oficinas de atención al cliente LA ASAMBLEA NACIONAL DECRETA:
