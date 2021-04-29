@@ -1,0 +1,1 @@
+LEY tL/~ De~qde~ de 2021 Que establece un régimen especial para los procesos de reorganización conciliada efectuados por motivo de la emergencia nacional por la pandemia de la COVID-19 LA ASAMBLEA NACIONAL DECRETA:
