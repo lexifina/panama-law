@@ -1,0 +1,1 @@
+LEY d/óde~ de 2021 De ~ Que concede una amnistía para el pago total de las cuotas empleado-empleador, las primas de riesgos profesionales y demás contribuciones de los empleadores ante la Caja de Seguro Social LA ASAMBLEA NACIONAL DECRETA:
