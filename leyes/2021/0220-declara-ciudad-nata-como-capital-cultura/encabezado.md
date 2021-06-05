@@ -1,0 +1,1 @@
+LEY ;;;.;;J O De4 de ~ de 2021 Que declara a la ciudad de Natá como capital de la cultura y de historia nacional en conmemoración de sus 500 años de fundación y dicta otras disposiciones LA ASAMBLEA NACIONAL DECRETA:
