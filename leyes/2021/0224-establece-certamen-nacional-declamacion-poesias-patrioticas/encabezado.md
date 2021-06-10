@@ -1,0 +1,1 @@
+LEY r:2~ </ De t de ~ de 2021 Que establece el Certamen Nacional de Declamación de Poesías Patrióticas, con sede en la Escuela República de Costa Rica, provincia de Panamá Oeste LA ASAMBLEA NACIONAL DECRETA:
