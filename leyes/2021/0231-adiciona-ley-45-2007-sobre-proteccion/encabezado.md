@@ -1,0 +1,1 @@
+LEY z.3t DeUde ~r> de 2021 Que adiciona disposiciones a la Ley 45 de 2007, sobre protección al consumidor y defensa de la competeucia, y a la Ley 12 de 2016, sobre el régimen de los procesos concursales de insolvencia LA ASAMBLEA NACIONAL DECRETA:
