@@ -1,0 +1,1 @@
+LEY 231- Dc 1.5' de .$f!!rh ...... bc,c de 2021 Que modifica una disposición del Código de Trabajo, adiciona articulos al Decreto de Gabinete 249 de 1970, Ley Orgánica del Ministerio de Trabajo y Desarrollo Laboral, y dict" otra disposición LA ASAMBLEA NACIONAL DECRETA:
