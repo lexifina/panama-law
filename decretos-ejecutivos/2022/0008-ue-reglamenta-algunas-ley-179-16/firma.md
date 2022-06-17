@@ -1,0 +1,19 @@
+COMUNÍQUESE Y CÚMPLASE, . ,,... - Dado en la ciudad de Panamá, a los ~.U u'Ju W _\IC,~ías del mes de j;'~de dos mil veintidós (2022).
+
+LAUREN~~~RTIZO COHEN Presij de 1\ ReptÍblica
+
+FE DE ERRATA
+
+MINISTERIO DE LA PRESIDENCIA
+
+PARA CORREGIR ERROR INVOLUNTARIO DEL MINISTERIO DE LA PRESIDENCIA EN EL DECRETO EJECUTIVO NO. 165 DE 15 DE JUNIO DE 2022, PUBLICADO EN LA GACETA OFICIAL DIGITAL NO. 29557-A DE 15 DE JUNIO DE 2022.
+
+En la página 2 en la firma
+
+DONDE DICE:
+
+JOSÉ GABRIEL CARRIZO JAÉN Ministra de la Presidencia
+
+DEBE DECIR:
+
+JOSÉ GABRIEL CARRIZO JAÉN Ministro de la Presidencia
