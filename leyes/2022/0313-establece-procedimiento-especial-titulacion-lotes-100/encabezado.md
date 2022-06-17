@@ -1,0 +1,1 @@
+LEY..3IE De /6' de ~ de 2022 Que establece un procedimiento especial para la titulación de lotes de 100 a 450 metros cuadrados para viviendas unifamiliares en áreas urbanas y periurbanas LA ASAMBLEA NACIONAL DECRETA:
