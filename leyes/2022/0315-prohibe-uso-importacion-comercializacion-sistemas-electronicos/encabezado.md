@@ -1,0 +1,1 @@
+De.31) de .LEY.31~- ~ de 2022 Que prohíbe el uso, importación y comercialización de sistemas electrónicos de administración de nicotina, cigarrillos electrónicos, vaporizadores, calentadores de tabaco y otros dispositivos similares, con o sin nicotina, en la República de Panamá LA ASAMBLEA NACIONAL DECRETA:
