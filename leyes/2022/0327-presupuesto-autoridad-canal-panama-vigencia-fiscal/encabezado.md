@@ -1,0 +1,1 @@
+LEY 32..7- De e. c¡ de s.ep1í·(¿Mhtt.~ de 2022 Que dicta el Presupuesto de la Autoridad del Canal de Panamá para la vigencia fiscal del 1 de octubre de 2022 al 30 de septiembre de 2023 LA ASAMBLEA NACIONAL DECRETA:
