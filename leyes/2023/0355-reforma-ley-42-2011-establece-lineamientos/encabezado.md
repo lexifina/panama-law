@@ -1,0 +1,1 @@
+De,/de ~ de 2023 Que reforma la Ley 42 de 2011, que establece lineamientos para la política nacional sobre biocombustibles y energía eléctrica a partir de biomasa en el territorio nacional LA ASAMBLEA NACIONAL DECRETA:
