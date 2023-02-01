@@ -1,0 +1,1 @@
+LEY :!J5.3 De ~1 de en.e.1l.O de 2023 Que modifica y adiciona artículos a la Ley 12 de 1998, que desarrolla la Carrera del Servicio Legislativo, y dicta otras disposiciones LA ASAMBLEA NACIONAL DECRETA:
