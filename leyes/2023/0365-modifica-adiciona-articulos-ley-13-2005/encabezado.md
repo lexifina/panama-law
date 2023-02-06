@@ -1,0 +1,1 @@
+~ O~Lf:.~.3 ~ s- De ~ d~ de 2023 Que modifica y adiciona artículos a la Ley 13 de 2005, que establece el Corredor Marino de Panamá, para prohibir la captura de mamíferos marinos con fines recreativos o educativos LA ASAMBLEA NACIONAL DECRETA:
