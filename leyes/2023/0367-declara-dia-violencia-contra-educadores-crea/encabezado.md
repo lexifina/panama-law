@@ -1,0 +1,1 @@
+LEY .3"G1- De f de~ de2023 Que declara el Día de la No Violencia contra los Educadores y crea la medalla Silvia Esther Godoy Núñez para docentes que laboran en áreas de difícil acceso LA ASAMBLEA NACIONAL DECRETA:
