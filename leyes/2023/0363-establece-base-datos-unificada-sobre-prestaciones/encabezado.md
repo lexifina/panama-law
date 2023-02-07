@@ -1,0 +1,1 @@
+-J j) "t~:.~ ~ De ~ d~~ de 2023 Que establece una base de datos unificada sobre prestaciones adeudadas y reconocidas por el Estado y programas de apoyo económico LA ASAMBLEA NACIONAL DECRETA:
