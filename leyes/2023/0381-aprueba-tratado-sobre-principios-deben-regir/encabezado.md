@@ -1,0 +1,1 @@
+LEY 3~1 De.3/ de mt:A-yéJ de 2023 Por la cual se aprueba el Tratado sobre los Principios que Deben Regir las Actividades de los Estados en la Exploración y Utilización del Espacio Ultraterrestre, Incluso la Luna y otros Cuerpos Celestes, hecho en las ciudades de Washington, Londres y Moscú el día 27 de enero de 1967 LA ASAMBLEA NACIONAL DECRETA:
