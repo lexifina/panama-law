@@ -1,0 +1,1 @@
+LEY S~:¡ De Z.ide ~ de 2023 Que establece medidas para mitigar los impactos de infraestructuras en ecosistemas acuáticos y prevenir la mortalidad de las aves y los quirópteros en parques eólicos LA ASAMBLEA NACIONAL DECRETA:
