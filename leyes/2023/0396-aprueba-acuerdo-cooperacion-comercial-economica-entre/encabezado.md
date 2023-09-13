@@ -1,0 +1,1 @@
+LEY ~q~ De,l3 de ~~e 2023 Por la cual se aprueba el Acuerdo de Cooperación Comercial y Económica entre el Gobierno de la República de Panamá y el Gobierno de la República de Türkiye, hecho y firmado en Panamá, el 28 de abril de 2022 LA ASAMBLEA NACIONAL DECRETA:
