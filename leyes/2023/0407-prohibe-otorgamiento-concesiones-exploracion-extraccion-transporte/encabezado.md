@@ -1,0 +1,1 @@
+LEY '101 De" de nOilieM/(; ~de 2023 Que prohíbe el otorgamiento de concesiones para la exploración, extracción, transporte y beneficio de la explotación de la minería metálica en todo el territorio nacional LA ASAMBLEA NACIONAL DECRETA:
