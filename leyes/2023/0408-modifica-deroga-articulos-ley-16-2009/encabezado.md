@@ -1,0 +1,1 @@
+LEY ~()I' De /6 de .vO();e.ffl/".tA:, de 2023 Que modifica y deroga artículos de la Ley 16 de 2009, sobre el escalafón y la nomenclatura de cargos de los trabajadores y trabajadoras sociales, y dicta otras disposiciones LA ASAMBLEA NACIONAL DECRETA:
