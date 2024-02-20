@@ -1,0 +1,1 @@
+LEY "/ 2. 3 De2.0de ~ de2024 Que establece la gratuidad del servicio de atención en materia de salud en el sistema público para las personas de la tercera edad que carezcan de recursos económicos LA ASAMBLEA NACIONAL DECRETA:
