@@ -1,0 +1,1 @@
+~Ey1(3q De 2. 3 de j utAr de 2024 Que modifica un artículo de la Ley 238 de 2021, Que amplía el alcance del fuero de maternidad hasta el padre y concede vacaciones en caso de fallecimiento de la madre LA ASAMBLEA NACIONAL DECRETA:
