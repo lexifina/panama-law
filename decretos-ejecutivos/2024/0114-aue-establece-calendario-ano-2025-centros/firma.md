@@ -1,0 +1,5 @@
+COMUNÍQUESE Y CÚMPLASE.
+
+JUAN MANUEL URRIOLA Secretario Nacional de Energía
+
+~ Tribunal Administmtivo de la Función Pública REPÚBLICA DE PANAMÁ TRIBUNAL ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA (TAFP)
