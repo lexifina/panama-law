@@ -1,0 +1,1 @@
+LEY qJfg' De}Ode OC 7"bl'e de 2024 Por la cual se aprueba el Protocolo Relativo a una Enmienda del Artículo 56 del Convenio sobre Aviación Civil Internacional, hecho en Montreal el 6 de octubre de 2016 LA ASAMBLEA NACIONAL DECRETA:
