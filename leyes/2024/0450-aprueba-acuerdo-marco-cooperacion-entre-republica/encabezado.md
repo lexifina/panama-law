@@ -1,0 +1,1 @@
+LEY )./50 De3tJde o e h.J f?re de 2024 Por la cual se aprueba el Acuerdo Marco de Cooperación entre la República de Panamá y la República Dominicana, firmado en Santo Domingo el 8 de noviembre de LA ASAMBLEA NACIONAL DECRETA:
