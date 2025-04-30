@@ -1,0 +1,1 @@
+LEY Jf,5"/ DeJ/de o c. fvbYt de 2024 Que modifica y adiciona artículos a la Ley 186 de 2020, sobre sociedades de emprendimiento, para fortalecer el apoyo a los microemprendedores LA ASAMBLEA NACIONAL DECRETA:
