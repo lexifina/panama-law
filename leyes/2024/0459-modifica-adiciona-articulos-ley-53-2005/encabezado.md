@@ -1,0 +1,1 @@
+LEY Y,'bt:¡ De / / de cita "In 6lL de 2024 Que modifica y adiciona artículos a la Ley 53 de 2005, que dicta normas para la modernización de la Gaceta Oficial, sobre publicación de textos únicos en formato de datos abiertos LA ASAMBLEA NACIONAL DECRETA:
