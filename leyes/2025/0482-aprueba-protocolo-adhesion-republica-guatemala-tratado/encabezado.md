@@ -1,0 +1,3 @@
+LEY q~.J...
+
+De /q de ~J.{de2025 Por la cual se aprueba el Protocolo de Adhesión de la República de Guatemala al Tratado de Libre Comercio entre los Estados AELC y los Estados Centroamericanos, suscrito en Schaan, Liechtenstein, el 22 de junio de 2015 LA ASAMBLEA NACIONAL DECRETA:
