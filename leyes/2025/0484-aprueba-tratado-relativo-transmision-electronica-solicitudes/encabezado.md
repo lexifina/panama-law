@@ -1,0 +1,1 @@
+LEY 4 'l''f De 19 de ~ de2025 Por la cual se aprueba el Tratado Relativo a la Transmisión Electrónica de Solicitudes de Cooperación Jurídica Internacional entre Autoridades Centrales, hecho en Medellín, a 24 y 25 de julio de 2019 LA ASAMBLEA NACIONAL DECRETA:
