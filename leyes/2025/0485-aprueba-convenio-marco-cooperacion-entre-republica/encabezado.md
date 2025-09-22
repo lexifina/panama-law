@@ -1,0 +1,1 @@
+Por la cual se aprueba el Convenio Marco de Cooperación entre la República de Panamá y la República de Guatemala, hecho en la Ciudad de Guatemala, a los dieciocho días del mes de diciembre de dos mil veinticuatro LA ASAMBLEA NACIONAL DECRETA:
