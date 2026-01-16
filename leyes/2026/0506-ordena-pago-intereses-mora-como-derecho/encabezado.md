@@ -1,0 +1,1 @@
+LEY ~()~ De /5 de eV1(¿YO de 2026 Que ordena el pago de los intereses por mora como derecho derivado de la retención de la segunda partida del Décimo Tercer Mes de los años 1972 a 1983 a los servidores públicos y trabajadores del sector privado que laboraron durante este periodo LA ASAMBLEA NACIONAL DECRETA:
