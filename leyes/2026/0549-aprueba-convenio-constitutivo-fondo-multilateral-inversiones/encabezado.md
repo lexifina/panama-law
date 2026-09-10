@@ -1,0 +1,1 @@
+De 1 LEy.s17 de 4~/uL de 2026 Por la cual se aprueba el Convenio Constitutivo del Fondo Multilateral de Inversiones IV, adoptado por la Asamblea de Gobernadores del Banco Interamericano de Desarrollo (BID) y de la Corporación Interamericana de Inversiones (CII), ellO de marzo de 2024 LA ASAMBLEA NACIONAL DECRETA:
