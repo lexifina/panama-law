@@ -1,0 +1,61 @@
+{
+ "country": "PA",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "CP",
+   "title": "Constitución Política de la República de Panamá",
+   "url": "https://asamblea.gob.pa/Uploads/GestorFiles/Reglamento_Organico_del_Regimen_Interno.pdf",
+   "versions": [
+    {
+     "from": "2004-11-15",
+     "units": 329,
+     "source_url": "https://asamblea.gob.pa/Uploads/GestorFiles/Reglamento_Organico_del_Regimen_Interno.pdf",
+     "sha256": "3b8c35da3faeab8a8621339a913a492b70340b9dea69fead47ec38b4eace6573"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-penal",
+   "short": "CP",
+   "title": "Código Penal de la República de Panamá (Texto Único)",
+   "url": "https://ministeriopublico.gob.pa/wp-content/uploads/2016/09/CODIGO-PENAL-2019-FINAL-1.pdf",
+   "versions": [
+    {
+     "from": "2019-12-11",
+     "units": 502,
+     "source_url": "https://ministeriopublico.gob.pa/wp-content/uploads/2016/09/CODIGO-PENAL-2019-FINAL-1.pdf",
+     "sha256": "c5f0170ecfda2efde7c5e71e577cf5772ae668078b665d72b523f9c11713da7f"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-procesal-penal",
+   "short": "CPP",
+   "title": "Código Procesal Penal (Ley 63 de 2008)",
+   "url": "https://www.organojudicial.gob.pa/uploads/wp_repo/uploads/2016/11/C%C3%B3digo-Procesal-Penal.pdf",
+   "versions": [
+    {
+     "from": "2009-09-02",
+     "units": 560,
+     "source_url": "https://www.organojudicial.gob.pa/uploads/wp_repo/uploads/2016/11/C%C3%B3digo-Procesal-Penal.pdf",
+     "sha256": "90843671f6d1e0e5c9bf1b7a75f03cd36fdf44c8772d9ed5609bb35930093c6d"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-del-trabajo",
+   "short": "CT",
+   "title": "Código del Trabajo (Decreto de Gabinete 252 de 1971)",
+   "url": "https://www.organojudicial.gob.pa/uploads/wp_repo/uploads/2016/11/c%C3%B3digo-detrabajo.pdf",
+   "versions": [
+    {
+     "from": "2003-06-26",
+     "units": 1060,
+     "source_url": "https://www.organojudicial.gob.pa/uploads/wp_repo/uploads/2016/11/c%C3%B3digo-detrabajo.pdf",
+     "sha256": "ad673c406fbf5cbf974841f9f731fd8589429a99bfdbb1ab376c08a0b5826d04"
+    }
+   ]
+  }
+ ]
+}
