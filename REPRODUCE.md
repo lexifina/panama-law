@@ -10,6 +10,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Procuraduría General de la Nación (Ministerio Público), Texto Único del Código Penal de la República de Panamá | <https://ministeriopublico.gob.pa/wp-content/uploads/2016/09/CODIGO-PENAL-2019-FINAL-1.pdf> | 2026-10-30 | No licence stated on the site. |
 | Legispan, Asamblea Nacional de Panamá: Leyes | <https://legispan.asamblea.gob.pa/> | 2026-11-03 | No licence or terms of use stated (the site states only a privacy policy). Laws are official texts, reproduced as published. |
 | Legispan, Asamblea Nacional de Panamá: Leyes | <https://legispan.asamblea.gob.pa/> | 2026-11-03 | No licence or terms of use stated (the site states only a privacy policy). Laws are official texts, reproduced as published. |
+| Legispan, Asamblea Nacional de Panamá: Leyes | <https://legispan.asamblea.gob.pa/> | 2026-11-03 | No licence or terms of use stated (the site states only a privacy policy). Laws are official texts, reproduced as published. |
 | Órgano Judicial de Panamá: Ley 63 de 2008, Código Procesal Penal (Legispan copy of Gaceta Oficial 26114) | <https://www.organojudicial.gob.pa/uploads/wp_repo/uploads/2016/11/C%C3%B3digo-Procesal-Penal.pdf> | 2026-10-30 | No licence stated; official legal text as published in the Gaceta Oficial. |
 | Órgano Judicial de Panamá: Código del Trabajo (Decreto de Gabinete 252 de 1971, con las modificaciones de la Ley 44 de 1995), edición del Ministerio de Trabajo y Desarrollo Laboral (Proyecto MATAC / OIT) | <https://www.organojudicial.gob.pa/uploads/wp_repo/uploads/2016/11/c%C3%B3digo-detrabajo.pdf> | 2026-10-30 | No licence stated; official legal text. |
 
@@ -432,22 +433,208 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-2011-0076` | Ley 76 de 2011: Por la cual se aprueba el tratado de montevideo 1980, hecho en la ciudad de montevideo, el 12 de agosto de 1980. | 1 | 2011-10-19 to 2011-10-19 |
 | `ley-2011-0080` | Ley 80 de 2011: Que reforma la ley 15 de 2003, que reconoce el ejercicio de la profesion de tecnologia ortopedica y traumatologia. | 1 | 2011-11-25 to 2011-11-25 |
 | `ley-2011-0081` | Ley 81 de 2011: Que establece con caracter excepcional los requisitos para los extranjeros bajo estado humanitario provisional de proteccion apliquen para la categoria migratoria de residente permanente. | 1 | 2011-12-15 to 2011-12-15 |
+| `ley-1983-0001` | Ley 1 de 1983: Por la cual se crea el centro de rehabilitacion de menores arturo miro. | 1 | 1983-01-18 to 1983-01-18 |
+| `ley-1983-0007` | Ley 7 de 1983: Por la cual se da el nombre de museo antropologico reina torres de arauz al museo del hombre panameño. | 1 | 1983-04-05 to 1983-04-05 |
+| `ley-1983-0008` | Ley 8 de 1983: Por la cual se introducen adiciones y modificaciones a la ley que regula el ejercicio de la profesion de laboratorista clinico. | 1 | 1983-04-27 to 1983-04-27 |
+| `ley-1984-0003` | Ley 3 de 1984: POR LA CUAL SE SUSPENDEN LOS EFECTOS DEL NUMERAL 4º DEL ARTICULO 328 DEL CODIGO FISCAL. | 1 | 1984-02-03 to 1984-02-03 |
+| `ley-1984-0006` | Ley 6 de 1984: Por la cual se crea el fondo de ahorro de jubilacion para el educador. | 1 | 1984-03-16 to 1984-03-16 |
+| `ley-1984-0002` | Ley 2 de 1984: Por la cual se incorpora al sistema educativo nacional el estudio sistematico de los derechos humanos. | 1 | 1984-03-27 to 1984-03-27 |
+| `ley-1984-0010` | Ley 10 de 1984: Por la cual se autoriza el cobro de la cuota arrocera. | 1 | 1984-07-12 to 1984-07-12 |
+| `ley-1984-0014` | Ley 14 de 1984: POR LA CUAL SE ADICIONAN Y MODIFICAN LOS ARTICULOS 7 Y 8 DE LA LEY Nº2 DEL 17 DE ENERO DE 1962 Y SE DICTAN OTRAS DISPOSICIONES. | 1 | 1984-09-07 to 1984-09-07 |
+| `ley-1984-0016` | Ley 16 de 1984: Por la cual se concede el uso y usufructo de un terreno de dominio publico al ministerio de desarrollo agropecuario, para el desarrollo de los programas de la direccion nacional de acuicultura y la construccion de una estacion experimental. | 1 | 1984-09-21 to 1984-09-21 |
+| `ley-1984-0018` | Ley 18 de 1984: Por la cual se declara monumento historico nacional el parque de santa ana. | 1 | 1984-10-22 to 1984-10-22 |
+| `ley-1984-0023` | Ley 23 de 1984: POR LA CUAL SE MODIFICA EL ACAPITE C DEL NUMERAL 1 Y EL ACAPITE C DEL NUMERAL 2 DEL ARTICULO 47, CAPITULO 4 DE LA LEY Nº55 DE 10 DE JULIO DE 1973. (SOBRE ADMINISTRACION, FISCALIZACION Y COBRO DE TRIBUTOS MUNICIPALES). | 1 | 1984-10-26 to 1984-10-26 |
+| `ley-1984-0026` | Ley 26 de 1984: Por la cual se prohibe la importacion de copias de molas y se dictan otras disposiciones. | 1 | 1984-10-31 to 1984-10-31 |
+| `ley-1984-0028` | Ley 28 de 1984: Por la cual se autoriza la emision de monedas fraccionarias de circulacion corriente por un valor nominal de 6 millones de balboas. | 1 | 1984-10-31 to 1984-10-31 |
+| `ley-1984-0025` | Ley 25 de 1984: Por la cual se atribuyen los efectos del matrimonio civil a las uniones conyugales celebradas de acuerdo con las costumbres del pueblo kuna. | 1 | 1984-11-01 to 1984-11-01 |
+| `ley-1984-0034` | Ley 34 de 1984: Por la cual se deroga la ley numero 33 de 30 de enero de 1961. (por la cual se dictan medidas de caracter economico para reglamentar y proteger la pesca en las aguas panameñas). | 1 | 1984-11-16 to 1984-11-16 |
+| `ley-1984-0036` | Ley 36 de 1984: Por la cual se reforma la ley 20 de 9 de julio de 1980 modificada por la ley 28 de 15 diciembre de 1983. (sobre el sistema de intereses preferenciales al sector agropecuario) | 1 | 1984-11-19 to 1984-11-19 |
+| `ley-1984-0054` | Ley 54 de 1984: Por la cual se declara la escuela normal juan demostenes arosemena monumento historico nacional. | 1 | 1984-12-21 to 1984-12-21 |
+| `ley-1984-0059` | Ley 59 de 1984: Por la cual se le da el nombre de anita moreno al hospital regional de azuero. | 1 | 1985-01-10 to 1985-01-10 |
+| `ley-1984-0060` | Ley 60 de 1984: POR LA CUAL SE DEROGA EL DECRETO EJECUTIVO Nº103 DE 8 DE JUNIO DE 1966. (SE RESTRINGE LA ENAJENACION DE TIERRAS EN LA PROVINCIA DEL DARIEN). | 1 | 1985-01-10 to 1985-01-10 |
+| `ley-1985-0005` | Ley 5 de 1985: Por la cual se reforma el articulo 2,673 de la ley 29 de 25 de octubre de 1984, se crea la comision divulgadora del codigo judicial y se le asignan funciones. | 1 | 1985-05-31 to 1985-05-31 |
+| `ley-1985-0004` | Ley 4 de 1985: Por la cual se crea el premio nacional de ciencia alejandro mendez pereira. | 1 | 1985-06-12 to 1985-06-12 |
+| `ley-1985-0010` | Ley 10 de 1985: Por la cual se crea la condecoracion "orden nacional por merito y honor al trabajo". | 1 | 1985-08-20 to 1985-08-20 |
+| `ley-1985-0012` | Ley 12 de 1985: Por la cual se otorgan incentivos a la capitalizacion de utilidades retenidas. | 1 | 1985-11-29 to 1985-11-29 |
+| `ley-1984-0058` | Ley 58 de 1984: Por la cual se crea la corporacion para el desarrollo integral del darien. | 1 | 1986-04-23 to 1986-04-23 |
+| `ley-1986-0022` | Ley 22 de 1986: Por la cual se ordena a los restaurantes, cafeterias, hoteles, hospitales y clinicas del pais, ofrecer dentro de sus minutas frutas y vegetales nacionales y se toman otras medidas. | 1 | 1986-12-30 to 1986-12-30 |
+| `ley-1986-0026` | Ley 26 de 1986: Por la cual se declara monumento historico nacional al edificio del hospital santo tomas y sus jardines. | 1 | 1986-12-31 to 1986-12-31 |
+| `ley-1986-0027` | Ley 27 de 1986: Por la cual se denomina dr. belisario porras la carretera de divisa a las tablas en las provincias de herrera y los santos. | 1 | 1986-12-31 to 1986-12-31 |
+| `ley-1986-0029` | Ley 29 de 1986: Por la cual se modifican algunos articulos de la ley n°93 de 4 de octubre de1973, para reorganizar el fondo de asistencia habitacional y se dictan otras disposiciones. | 1 | 1987-01-05 to 1987-01-05 |
+| `ley-1987-0007` | Ley 7 de 1987: POR LA CUAL SE ADICIONA UN NUEVO ARTICULO DE LA LEY Nº41 DE 8 DE NOVIEMBRE DE 1984. | 1 | 1987-06-24 to 1987-06-24 |
+| `ley-1987-0010` | Ley 10 de 1987: POR LA CUAL SE ADICIONA LA LEY Nº106 DE 1973, MODIFICADA POR LA LEY Nº52 DE 1984 CON RELACION A LOS ALCALDES. | 1 | 1987-07-30 to 1987-07-30 |
+| `ley-1987-0012` | Ley 12 de 1987: Por la cual se aprueba una nueva dinamica desarrollista en el campo de la vivienda popular en el año internacional de los sin techo a traves de un esfuerzo nacional coordinado. | 1 | 1987-08-12 to 1987-08-12 |
+| `ley-1987-0016` | Ley 16 de 1987: POR LA CUAL SE MODIFICAN ALGUNOS ARTICULOS DEL DECRETO DE GABINETE Nº168 DE 27 DE JULIO DE 1971, REFORMADOS POR LA LEY Nº13 DE 28 DE JULIO DE 1987. | 1 | 1987-12-10 to 1987-12-10 |
+| `ley-1988-0002` | Ley 2 de 1988: Por la cual se concede amnistia por algunos delitos politicos. | 1 | 1988-01-15 to 1988-01-15 |
+| `ley-1988-0004` | Ley 4 de 1988: Por la cual se fomenta la enseñanza de las expresiones folcloricas tradicionales en las escuelas del pais y se dictan otras disposiciones. | 1 | 1988-02-08 to 1988-02-08 |
+| `ley-1988-0008` | Ley 8 de 1988: Se exonera del pago de la tasa por utilizacion de los aeropuertos o impuesto de salida del pais a las delegaciones deportivas aficionadas y a las misiones culturales y cientificas que representen al pais. | 1 | 1988-08-17 to 1988-08-17 |
+| `ley-1988-0011` | Ley 11 de 1988: Por la cual se toman medidas de proteccion a los compositores, interpretes y musicos. | 1 | 1988-12-13 to 1988-12-13 |
+| `ley-1990-0003` | Ley 3 de 1990: Por la cual se asigna el nombre de doctor arnulfo arias madrid al complejo hospitalario metropolitano. | 1 | 1990-05-07 to 1990-05-07 |
+| `ley-1990-0004` | Ley 4 de 1990: Por la cual se reforma un articulo del codigo de trabajo sobre los dias de descanso obligatorio por fiesta o duelo nacional. | 1 | 1990-07-02 to 1990-07-02 |
+| `ley-1990-0008` | Ley 8 de 1990: Por la cual se modifica el articulo 114 del codigo civil. | 1 | 1990-07-16 to 1990-07-16 |
+| `ley-1990-0010` | Ley 10 de 1990: Por la cual se derogan articulos de la ley 82 de 5 de octubre de 1978, el decreto ejecutivo 11 de 24 de febrero de 1986 y el decreto ley 3 de 9 de octubre de 1989. | 1 | 1990-07-27 to 1990-07-27 |
+| `ley-1990-0019` | Ley 19 de 1990: Por la cual se modifica el articulo 2 del decreto de gabinete 51 de 1990,tendiente a promover el otorgamiento de prestamo y otras facilidades de credito destinados al sector agropecuario y agroindustrial. | 1 | 1990-12-04 to 1990-12-04 |
+| `ley-1990-0022` | Ley 22 de 1990: Por la cual se establece que es optativo para la mujer casada adoptar el apellido de su conyuge en los documentos de identidad personal. | 1 | 1990-12-17 to 1990-12-17 |
+| `ley-1990-0026` | Ley 26 de 1990: Por la cual se otorga una bonificacion especial de navidad a los empleados publicos con emolumentos hasta cuatrocientos balboas(b/400.00) mensuales. | 1 | 1990-12-24 to 1990-12-24 |
+| `ley-1990-0029` | Ley 29 de 1990: Por la cual se subroga el inciso introductorio del articulo 1179 del codigo fiscal sobre moneda nacional. | 1 | 1990-12-28 to 1990-12-28 |
+| `ley-1990-0030` | Ley 30 de 1990: Por la cual se modifican los articulos 1 y 4 y se deroga el articulo 3 de la ley n°36 de 25 de noviembre de 1952. | 1 | 1990-12-28 to 1990-12-28 |
+| `ley-1990-0031` | Ley 31 de 1990: Por la cual se adiciona un inciso al numeral 4 del articulo 328 del codigo fiscal y se deroga el articulo 30 de la ley n°108 de 8 de octubre de 1973. (expedicion de la cedula de identidad personal) | 1 | 1990-12-28 to 1990-12-28 |
+| `ley-1990-0033` | Ley 33 de 1990: Por la cual se deroga la ley 15 de 4 de septiembre de 1984, que crea y reglamenta la carrera sanitaria y el escalafon sanitario y se nombra una comision para que estudie y elabore reformas al codigo sanitario. | 1 | 1991-01-07 to 1991-01-07 |
+| `ley-1991-0004` | Ley 4 de 1991: Por la cual el estado asume el pago de los servicios de luz y agua de instituciones de asistencia social no lucrativas y se dictan otras disposiciones. | 1 | 1991-02-06 to 1991-02-06 |
+| `ley-1991-0005` | Ley 5 de 1991: Por la cual se regula el traspaso de estadios, coliseos, edificios e instalaciones deportivas nacionales o municipales al patrimonio del instituto nacional de deportes. | 1 | 1991-05-03 to 1991-05-03 |
+| `ley-1991-0021` | Ley 21 de 1991: Por la cual se adicionan los articulos 195 a, 195 b, 195 c, al codigo penal. | 1 | 1991-08-02 to 1991-08-02 |
+| `ley-1991-0023` | Ley 23 de 1991: Por la cual se modifica el articulo 2 de la ley n° 20 de 9 de julio de 1980 y se dictan nuevas disposiciones. | 1 | 1991-08-02 to 1991-08-02 |
+| `ley-1991-0026` | Ley 26 de 1991: Por la cual se denomina clara gonzalez behringer a la sede del tribunal tutelar de menores. | 1 | 1991-10-11 to 1991-10-11 |
+| `ley-1991-0025` | Ley 25 de 1991: Por la cual se declara dia del jubilado y pensionado, el 31 de marzo de cada año. | 1 | 1991-10-17 to 1991-10-17 |
+| `ley-1992-0002` | Ley 2 de 1992: Por la cual se establece la enseñanza de la informatica en la educacion formal y no formal, en la educacion primaria y media del pais | 1 | 1992-01-31 to 1992-01-31 |
+| `ley-1992-0012` | Ley 12 de 1992: Por la cual se crean dos(2) juzgados de transito adicionales en el distrito de panama y uno(1) en el distrito de san miguelito. | 1 | 1992-07-08 to 1992-07-08 |
+| `ley-1992-0017` | Ley 17 de 1992: POR LA CUAL SE ADICIONA EL LITERAL 1) AL PARAGRAFO 8º DEL ARTICULO 1057-V DEL CODIGO FISCAL.(EXONERA DEL IMPUESTO ITBM, IMPORTACIONES Y TRANSFERENCIAS DE LIBROS Y TEXTOS, PUBLICACIONES EDUCATIVAS; CUADERNOS, ARTICULOS ESCOLARES). | 1 | 1992-07-21 to 1992-07-21 |
+| `ley-1992-0022` | Ley 22 de 1992: Por medio de la cual se dictan disposiciones en materia electoral. | 1 | 1992-11-02 to 1992-11-02 |
+| `ley-1992-0027` | Ley 27 de 1992: Por la cual se crea el museo regional de veraguas, el cual estara sujeto a las normas establecidas por el instituto nacional de cultura y por la direccion nacional del patrimonio historico. | 1 | 1992-12-23 to 1992-12-23 |
+| `ley-1992-0028` | Ley 28 de 1992: Por la cual se establece el 19 de agosto de cada año, dia del artista plastico, como merecido reconocimiento al aporte de los artistas plasticos a la cultura. | 1 | 1992-12-23 to 1992-12-23 |
+| `ley-1992-0032` | Ley 32 de 1992: Por la cual se exoneran del pago del impuesto sobre la renta y del seguro educativo las obligaciones canceladas mediante titulos prestacionales y se dictan otras disposiciones. | 1 | 1993-01-06 to 1993-01-06 |
+| `ley-1993-0003` | Ley 3 de 1993: POR LA CUAL SE DEROGA LA LEY Nº97 DE 30 DE DICIEMBRE DE 1961 (IMPUESTO AL MANEJO DE GASOLINA IMPORTADA) Y SE ADICIONA UN PARRAFO AL LITERAL B) DEL ARTICULO 702 DEL CODIGO FISCAL (CREDITO Y REBAJAS AL IMPUESTO SOBRE LA RENTA) | 1 | 1993-01-21 to 1993-01-21 |
+| `ley-1993-0009` | Ley 9 de 1993: Por la cual se establece como obligatorio, la utilizacion del cinturon de seguridad por los ocupantes de automoviles y se dictan otras disposiciones. | 1 | 1993-04-20 to 1993-04-20 |
+| `ley-1993-0021` | Ley 21 de 1993: Por la cual se crean las comisiones codificaciones para un nuevo codigo penal y un nuevo codigo procesal penal, cada una conformada por 3 profesionales del derecho con preparacion y experiencia en materia penal. | 1 | 1993-12-14 to 1993-12-14 |
+| `ley-1993-0026` | Ley 26 de 1993: Por la cual se aprueban los estatutos de la union internacional para la conservacion de la naturaleza y de los recursos naturales adoptados el 5 de octubre de 1978 y enmendados el 2 y el 5 de diciembre de 1990. | 1 | 1993-12-21 to 1993-12-21 |
+| `ley-1993-0030` | Ley 30 de 1993: Por el cual se crea la biblioteca parlamentaria doctor justo arosemena. | 1 | 1993-12-23 to 1993-12-23 |
+| `ley-1994-0005` | Ley 5 de 1994: Por la cual se prorroga la vigencia de la ley 3 de 20 de mayo de 1985, ( por la cual se establece un regimen de intereses preferenciales en ciertos prestamos hipotecarios ) modificada por la ley 11 de 26 de septiembre de 1990. | 1 | 1994-05-19 to 1994-05-19 |
+| `ley-1994-0007` | Ley 7 de 1994: Por la cual se declara monumento historico nacional la finca tableña del doctor belisario porras denominada "el pausilipo" y se crea un museo regional de los santos. | 1 | 1994-05-23 to 1994-05-23 |
+| `ley-1994-0014` | Ley 14 de 1994: Por la cual se crea el patronato que regira la institucion sanitaria y asistencial denominada hospital marco a. robles y se toman otras medidas. | 1 | 1994-07-29 to 1994-07-29 |
+| `ley-1994-0022` | Ley 22 de 1994: Por la cual se modifica el decreto ejecutivo n° 84 de 8 de mayo de 1972 y se faculta al instituto nacional de recursos naturales renovables (inrenare) para que desafecte las areas agricolas y ejidos correspondientes a las poblaciones de jaque, yaviza ... | 1 | 1994-08-16 to 1994-08-16 |
+| `ley-1994-0017` | Ley 17 de 1994: Por la cual se aprueba el acuerdo entre la republica de panama y la republica de colombia sobre inmigrantes irregulares, firmado en medellin, el 23 de febrero de 1994. | 1 | 1994-08-17 to 1994-08-17 |
+| `ley-1994-0028` | Ley 28 de 1994: Por el cual se fija el impuesto de revisado vehicular (b/.10.00 a cada propietario de vehiculo a motor y remolque y b/20.00 a cada propietario de vehiculo a motor del servicio de transporte de pasajeros) | 1 | 1994-11-25 to 1994-11-25 |
+| `ley-1994-0029` | Ley 29 de 1994: Por la cual se consideran documentos y bienes historicos de interes nacionaly parte integral del patrimonio de la nacion; el archivo y los objetos muebles del doctor ricardo j. alfaro. | 1 | 1994-12-27 to 1994-12-27 |
+| `ley-1995-0004` | Ley 4 de 1995: Por la cual se modifican los articulos 485, 564, 577 y 578 de la ley 3 de 17 de mayo de 1994 (por la que se adopta el codigo de la familia). | 1 | 1995-01-25 to 1995-01-25 |
+| `ley-1995-0008` | Ley 8 de 1995: Modifica el articulo 31 de la ley 1 de 1995. (reforma el codigo judicial y se adoptan otras disposiciones). | 1 | 1995-04-05 to 1995-04-05 |
+| `ley-1995-0017` | Ley 17 de 1995: Autoriza la emision de monedas fraccionarias de circulacion corriente por un valor nominal de b/.12,800,000.00, con las modalidades fiscales descritas en el articulo 1179 del codigo fiscal. | 1 | 1995-05-05 to 1995-05-05 |
+| `ley-1995-0029` | Ley 29 de 1995: Por la cual se modifica el articulo 4 de la ley 8 de 1995, mediante la cual se establece el parque natural metropolitano y los articulos 1 y 2 de la ley 30 de 1992, por la cual se establece el parque nacional camino de cruces. | 1 | 1995-06-28 to 1995-06-28 |
+| `ley-1995-0048` | Ley 48 de 1995: Designa con el nombre de gerardo honorio quintero, a la escuela de los perez ubicada en el distrito de ocu. | 1 | 1995-11-24 to 1995-11-24 |
+| `ley-1996-0005` | Ley 5 de 1996: Se aprueba el convenio por el cual se establece un consejo de cooperacion aduanera y anexo, hecho en bruselas el 15 de diciembre de 1950. | 1 | 1996-01-06 to 1996-01-06 |
+| `ley-1996-0006` | Ley 6 de 1996: Por la cual se aprueba el protocolo para la represion de actos ilicitos de violencia en los aeropuertos que presten servicio a la aviacion civil internacional, complementario del convenio para la represion de actos ilicitos contra la seguridad . . . | 1 | 1996-01-06 to 1996-01-06 |
+| `ley-1996-0007` | Ley 7 de 1996: Se aprueba el convenio sobre la marcacion de explosivos plasticos para los fines de deteccion, hecho en montreal, el 1 de marzo de 1991. | 1 | 1996-01-06 to 1996-01-06 |
+| `ley-1996-0004` | Ley 4 de 1996: Por la cual se aprueba el acta constitutiva de la red de informacion tecnologica latinoamericana (ritla), hecho en brasilia el 26 de octubre de 1983. | 1 | 1996-01-08 to 1996-01-08 |
+| `ley-1996-0028` | Ley 28 de 1996: Por la cual se anulan los pasaportes especiales expedidos con fundamento en la ley 25 de 1992 y se dictan otras disposiciones. | 1 | 1996-02-02 to 1996-02-02 |
+| `ley-1996-0037` | Ley 37 de 1996: Por la cual se declaran historicos varios monumentos. | 1 | 1996-05-27 to 1996-05-27 |
+| `ley-1996-0048` | Ley 48 de 1996: Por la cual se norman en los medios de comunicacion social la publicacion de mensajes en contra de la drogadiccion en cualquiera de sus formas. | 1 | 1996-07-15 to 1996-07-15 |
+| `ley-1996-0057` | Ley 57 de 1996: Por la cual se reforman articulos de la ley 17 de 1984 y se dictan otras disposiciones (universidad tecnologica). | 1 | 1996-07-30 to 1996-07-30 |
+| `ley-1996-0058` | Ley 58 de 1996: Por la cual se reglamenta la expedicion de permisos provisionales para conducir automoviles particulares y motocicletas a los mayores de 16 y 17años. | 1 | 1996-07-30 to 1996-07-30 |
+| `ley-1996-0068` | Ley 68 de 1996: Por la cual se aprueba la enmienda del acuerdo de la organizacion internacional de telecomunicaciones por satelite "intelsat" para aplicar los arreglos de multiples signatarios, aprobada en copenhagen, dinamarca, el 31 de agosto de 1995. | 1 | 1997-01-02 to 1997-01-02 |
+| `ley-1996-0073` | Ley 73 de 1996: Por la cual se aprueba el acuerdo entre la republica de panama y el reino de los paises bajos sobre servicios aereos entre sus respectivos territorios y mas alla de los mismos, hecho en la haya el 5 de julio de 1996. | 1 | 1997-01-02 to 1997-01-02 |
+| `ley-1997-0004` | Ley 4 de 1997: Por la cual se aprueba el convenio de unidroit sobre el arrendamiento financiero internacional, hecho en ottawa el 28 de mayo de 1988. | 1 | 1997-01-20 to 1997-01-20 |
+| `ley-1997-0014` | Ley 14 de 1997: Por la que se elimina el certificado de no defraudacion fiscal. | 1 | 1997-04-18 to 1997-04-18 |
+| `ley-1997-0020` | Ley 20 de 1997: POR LA CUAL SE CONCEDEN FACULTADES EXTRAORDINARIAS AL ORGANO EJECUTIVO CONFORME LO DISPONE EL NUMERAL 16 DEL ARTICULO Nº153 DE LA CONSTITUCION POLITICA. | 1 | 1997-06-30 to 1997-06-30 |
+| `ley-1997-0030` | Ley 30 de 1997: Por la cual se establece la semana nacional de la limpieza y el aseo. | 1 | 1997-08-08 to 1997-08-08 |
+| `ley-1997-0031` | Ley 31 de 1997: Por la cual se designa con el nombre de doctor luis "chicho" fabrega al hospital regional de santiago de veraguas. | 1 | 1997-08-08 to 1997-08-08 |
+| `ley-1997-0032` | Ley 32 de 1997: Por la cual se adoptan medidas para el financiamiento de programas de desarrollo en el distrito de colon. | 1 | 1997-10-22 to 1997-10-22 |
+| `ley-1997-0043` | Ley 43 de 1997: Por la cual se modifica el codigo judicial y se adoptan medidas de interes social en relacion con las personas sujetas a detencion preventiva. | 1 | 1997-11-27 to 1997-11-27 |
+| `ley-1998-0003` | Ley 3 de 1998: Por la cual se crean dos notarias especiales, una en el circuito notarial de panama, que funcionara en balboa, corregimiento de ancon, provincia de panama y otra en el circuito notarial de colon, que funcionara en el corregimiento de cristobal, ... | 1 | 1998-01-15 to 1998-01-15 |
+| `ley-1998-0004` | Ley 4 de 1998: Por la cual se modifican y derogan disposiciones de la ley 56 de 1995. (regula la contratacion publica) | 1 | 1998-01-15 to 1998-01-15 |
+| `ley-1998-0007` | Ley 7 de 1998: Por la cual se designa con el nombre de jose de los santos gutierrez a la escuela primaria de la mata. | 1 | 1998-01-23 to 1998-01-23 |
+| `ley-1998-0008` | Ley 8 de 1998: Por la cual se designa con el nombre de colegio de educacion premedia la inmaculada concepcion, al primer ciclo la concepcion. | 1 | 1998-01-23 to 1998-01-23 |
+| `ley-1998-0010` | Ley 10 de 1998: Establece un procedimiento para que los salarios, vacaciones, decimo tercer mes y cualquier otro derecho acumulado que tengan los servidores publicos que fallezcan sean entregados a sus familiares sin entrar en juicio de sucesion. | 1 | 1998-01-26 to 1998-01-26 |
+| `ley-1998-0014` | Ley 14 de 1998: Por la cual se crea el patronato de la feria internacional del mar, agroecologica y turistica de bocas del toro. | 1 | 1998-02-14 to 1998-02-14 |
+| `ley-1998-0021` | Ley 21 de 1998: Por la cual se derogan y reforman disposiciones del codigo administrativo para adecuarlo al convenio 29 sobre el trabajo forzoso, de la organizacion internacional del trabajo, ratificado en 1930. | 1 | 1998-04-28 to 1998-04-28 |
+| `ley-1998-0027` | Ley 27 de 1998: Por la cual se autoriza la creacion y organizacion de la empresa de utilidad publica coordinadora nacional de salud, y se dictan normas con relacion a esta empresa | 1 | 1998-05-05 to 1998-05-05 |
+| `ley-1998-0024` | Ley 24 de 1998: Por la cual se modifica, adiciona y derogan articulos a la ley n° 16 de 1992 (regula la privatizacion de las empresas), y se dictan otras disposiciones. | 1 | 1998-05-06 to 1998-05-06 |
+| `ley-1998-0026` | Ley 26 de 1998: Por la cual se autoriza la acuñacion de monedas conmemorativas del congreso universal del canal de 1997 y se adiciona, con caracter transitorio, el articulo 1172-q, al codigo fiscal. | 1 | 1998-05-06 to 1998-05-06 |
+| `ley-1998-0029` | Ley 29 de 1998: Por la cual se decreta el 25 de febrero de cada año dia de la revolucion de dule. | 1 | 1998-05-13 to 1998-05-13 |
+| `ley-1998-0030` | Ley 30 de 1998: Por la cual se establece el uso obligatorio de papel desechable para la cubierta de la taza del servicio en sitios publicos. | 1 | 1998-05-28 to 1998-05-28 |
+| `ley-1998-0045` | Ley 45 de 1998: Por la cual se modifica el articulo 452 y se adiciona un paragrafo al articulo 455 del codigo de trabajo. | 1 | 1998-07-08 to 1998-07-08 |
+| `ley-1998-0052` | Ley 52 de 1998: Por la cual se modifica la ley 50 de 1961 y se aumenta el subsidio al festival de la pollera. | 1 | 1998-07-21 to 1998-07-21 |
+| `ley-1998-0055` | Ley 55 de 1998: Por la cual se adiciona el literal d y un paragrafo al articulo 1 de la ley 26 de 1997. | 1 | 1998-07-24 to 1998-07-24 |
+| `ley-1998-0056` | Ley 56 de 1998: Por la cual se adiciona el articulo xxxiv-a al decreto ley 18 de 1948 que crea la zona libre de colon. | 1 | 1998-08-04 to 1998-08-04 |
+| `ley-1998-0057` | Ley 57 de 1998: Por la cual se declara monumento historico nacional el edificio de la escuela presidente porras n°1. | 1 | 1998-08-04 to 1998-08-04 |
+| `ley-1998-0060` | Ley 60 de 1998: Por la cual se dictan medidas para promover la actividad deportiva. | 1 | 1998-08-18 to 1998-08-18 |
+| `ley-1998-0083` | Ley 83 de 1998: Por la cual se adiciona el articulo 764-a al codigo fiscal. | 1 | 1998-12-02 to 1998-12-02 |
+| `ley-1999-0001` | Ley 1 de 1999: Por la cual se adiciona el articulo 12-a a la ley 5 de 1998. | 1 | 1999-01-08 to 1999-01-08 |
+| `ley-1999-0011` | Ley 11 de 1999: Aprueba el protocolo sobre prohibiciones o restricciones del empleo de minas, armas trampa y otros artefactos segun fue enmendado el 3 de mayo de 1996 (protocolo ii segun fue enmendado el 3 de mayo de 1996) ... | 1 | 1999-05-12 to 1999-05-12 |
+| `ley-1999-0017` | Ley 17 de 1999: Por la cual se aprueba el instrumento de enmienda a la constitución de la organización internacional del trabajo, 1997, adoptado por la conferencia general de la organización internacional del trabajo (oit) el 19/jun/1997. | 1 | 1999-06-17 to 1999-06-17 |
+| `ley-1999-0020` | Ley 20 de 1999: Por la cual se deroga el articulo 6 de la ley 28 de 1995, el cual reforma el articulo 702 del codigo fiscal, y se modifican funciones del ministerio de economia y finanzas en materia presupuestaria. | 1 | 1999-06-28 to 1999-06-28 |
+| `ley-1999-0021` | Ley 21 de 1999: Por la cual se crea el patronato denominado casa hogar selma y herbert trisker. | 1 | 1999-06-28 to 1999-06-28 |
+| `ley-1999-0027` | Ley 27 de 1999: Por la cual se conceden facultades extraordinarias al organo ejecutivo conforme lo dispone la constitucion politica de la republica. | 1 | 1999-07-06 to 1999-07-06 |
+| `ley-1999-0026` | Ley 26 de 1999: Por la cual se derogan la ley 11 de 1980 y la ley 19 de 1981, a efecto de disolver la empresa multinacional latinoamericana de comercializacion de fertilizantes,s.a. | 1 | 1999-07-09 to 1999-07-09 |
+| `ley-1999-0029` | Ley 29 de 1999: Que concede una moratoria para el pago del impuesto de inmueble y dicta otras disposiciones. | 1 | 1999-07-22 to 1999-07-22 |
+| `ley-1999-0031` | Ley 31 de 1999: Por la cual se extiende el plazo del articulo 8 de la ley 54 de 1998 sobre la estabilidad juridica de las inversiones y se modifican articulos del decreto ley 7 de 1997 que crea el consejo economico nacional. | 1 | 1999-07-22 to 1999-07-22 |
+| `ley-1999-0036` | Ley 36 de 1999: Por el cual se protegen los creditos originados por la venta de productos agropecuarios de origen nacional que requieran pronto pago. | 1 | 1999-08-12 to 1999-08-12 |
+| `ley-1999-0037` | Ley 37 de 1999: Que modifica el articulo 3 de la ley 20 de 1995, por la cual se crea el fondo fiduciario para el desarrollo, modificado por el decreto ley 1 de 1997. | 1 | 1999-08-20 to 1999-08-20 |
+| `ley-1999-0050` | Ley 50 de 1999: Que modifica la ley 3 de 1985 del regimen de intereses preferenciales en ciertos prestamos hipotecarios, prorrogada por la ley 30 de 1999. | 1 | 1999-10-30 to 1999-10-30 |
+| `ley-1999-0051` | Ley 51 de 1999: QUE DEROGA EL DECRETO LEY Nº8 DE 1997, QUE ESTABLECIO LOS DIAS PUENTES Y MODIFICA EL ARTICULO 46 DEL CODIGO DE TRABAJO. | 1 | 1999-11-01 to 1999-11-01 |
+| `ley-1999-0055` | Ley 55 de 1999: Por la que se derogan la ley 68 de 1978, de la junta tecnica de periodismo, y articulos de la ley 11 de 1978, relativa a los medios de comunicacion social y a la publicacion de material impreso. | 1 | 1999-12-23 to 1999-12-23 |
+| `ley-1999-0056` | Ley 56 de 1999: Que declara dia de fiesta nacional el 31 de diciembre de 1999. | 1 | 1999-12-29 to 1999-12-29 |
+| `ley-1999-0060` | Ley 60 de 1999: Del delito de retencion indebida. | 1 | 2000-01-03 to 2000-01-03 |
+| `ley-2000-0006` | Ley 6 de 2000: Que establece el uso obligatorio del lenguaje, contenido e ilustraciones con perspectiva de genero en las obras y textos escolares. | 1 | 2000-05-05 to 2000-05-05 |
+| `ley-2000-0007` | Ley 7 de 2000: Que adiciona el articulo 233a al codigo de comercio para crear un recargo legal a los deudores morosos en el pago sin financiamiento de bienes al por mayor y servicios. | 1 | 2000-05-19 to 2000-05-19 |
+| `ley-2000-0012` | Ley 12 de 2000: Por la cual se aprueba el convenio de rotterdam para la aplicacion del procedimiento de consentimiento previo a ciertos plaguicidas y productos quimicos peligrosos objeto de comercio internacional, hecho en rotterdam, el 10 de septiembre, 1998 | 1 | 2000-06-19 to 2000-06-19 |
+| `ley-2000-0017` | Ley 17 de 2000: Por la cual se aprueba el convenio sobre la edad minima de admision al empleo (convenio 138) adoptado el 26 de octubre de 1999. | 1 | 2000-06-19 to 2000-06-19 |
+| `ley-2000-0021` | Ley 21 de 2000: Por la cual se modifica el articulo 78 de la ley 1 de 1982, se crean cuatro nuevos corregimientos y se determinan los limites politico-administrativos en el distrito de san miguelito | 1 | 2000-06-28 to 2000-06-28 |
+| `ley-2000-0025` | Ley 25 de 2000: Que establece el idioma español como de obligatorio estudio en todas las carreras universitarias. | 1 | 2000-06-29 to 2000-06-29 |
+| `ley-2000-0026` | Ley 26 de 2000: Que modifica el codigo penal, el codigo judicial y dicta otras disposiciones. | 1 | 2000-06-29 to 2000-06-29 |
+| `ley-2000-0027` | Ley 27 de 2000: Se aprueba el acuerdo relativo al fomento de la inversion entre el gobierno de la republica de panama y el gobierno de los estados unidos de america. | 1 | 2000-07-11 to 2000-07-11 |
+| `ley-2000-0029` | Ley 29 de 2000: Que denomina doctor rafael estevez al hospital regional de la caja del seguro social de aguadulce, provincia de cocle. | 1 | 2000-07-14 to 2000-07-14 |
+| `ley-2000-0031` | Ley 31 de 2000: Que dicta el presupuesto de la autoridad del canal de panama para la vigencia fiscal del 1 de octubre de 2000 al 30 de septiembre de 2001. | 1 | 2000-07-14 to 2000-07-14 |
+| `ley-2000-0032` | Ley 32 de 2000: Que concede prorroga, para condonar intereses y recargos por la morosidad en el pago de la contribucion por valorizacion a los inmuebles. | 1 | 2000-07-21 to 2000-07-21 |
+| `ley-2000-0036` | Ley 36 de 2000: Que denomina gimnasio roberto "mano de piedra duran" al gimnasio nuevo panama | 1 | 2000-07-28 to 2000-07-28 |
+| `ley-2000-0037` | Ley 37 de 2000: Que adiciona el articulo 272-a al codigo penal. (en los casos que tratan los articulos 265, 266, 267 y 270, sera necesario que se acredite el perjuicio causado). | 1 | 2000-07-28 to 2000-07-28 |
+| `ley-2000-0040` | Ley 40 de 2000: Que modifica el articulo 18 de la ley 58 de 1995. (sobre acuicultura) | 1 | 2000-10-03 to 2000-10-03 |
+| `ley-2000-0043` | Ley 43 de 2000: Que modifica los articulos 17, 18 y 27 del decreto de gabinete 366 de 1969, sobre la industria salinera en el pais. | 1 | 2000-10-27 to 2000-10-27 |
+| `ley-2000-0045` | Ley 45 de 2000: Que modifica los articulos 70 y 201 del libro segundo, del procedimiento administrativo general de la ley 38 de 2000. | 1 | 2000-12-01 to 2000-12-01 |
+| `ley-2000-0047` | Ley 47 de 2000: Por el cual se aprueba el protocolo facultativo de la convencion de las naciones unidas sobre los derechos del niño relativo a la venta de niños, la prostitucion infantil y la utilizacion de niños en la pornografia. | 1 | 2000-12-15 to 2000-12-15 |
+| `ley-2000-0048` | Ley 48 de 2000: Por la cual se aprueba el protocolo facultativo de la convencion sobre los derechos del niño relativo a la participacion de niños en los conflictos armados, adoptado por la asamblea general de las naciones unidas, el 25 de mayo de 2000. | 1 | 2000-12-15 to 2000-12-15 |
+| `ley-2000-0049` | Ley 49 de 2000: Por la cual se aprueba el protocolo al convenio para la cooperacion en el marco de la conferencia iberoamericana para la constitucion de la secretaria de cooperacion iberoamericana y sus estatutos, firmado en la ix cumbre iberoamericana. | 1 | 2000-12-15 to 2000-12-15 |
+| `ley-2000-0051` | Ley 51 de 2000: Por la cual se aprueba el acta de fundacion de la organizacion iberoamericana de juventud (o.i.j.), firmada en buenos aires, argentina, el 1 de agosto de 1996. | 1 | 2000-12-15 to 2000-12-15 |
+| `ley-2001-0049` | Ley 49 de 2001: Que modifica la ley 6 de 1993 y establece procedimientos para la comercializacion del ganado bovino y bufalino, procedente de fincas ganaderas libres de tuberculosis bovina de la provincia de bocas del toro, hacia el resto del pais. | 1 | 2001-08-17 to 2001-08-17 |
+| `ley-2001-0050` | Ley 50 de 2001: Que autoriza al banco hipotecario nacional para condonar prestamos de materiales y de vivienda que se otorgaron a las organizaciones campesinas, y dicta otras disposiciones. | 1 | 2001-08-17 to 2001-08-17 |
+| `ley-2002-0016` | Ley 16 de 2002: Que regula el derecho de admision en los establecimientos publicos y dicta medidas para evitar la discriminacion | 1 | 2002-04-12 to 2002-04-12 |
+| `ley-2002-0017` | Ley 17 de 2002: Que modifica el articulo 2 de la ley 19 de 1984, sobre monumentos historicos | 1 | 2002-04-12 to 2002-04-12 |
+| `ley-2002-0032` | Ley 32 de 2002: Por la cual se aprueba el protocolo al tratado centroamericano de telecomunicaciones, firmado en managua, republica de nicaragua, el 25 de agosto de 1995 | 1 | 2002-06-21 to 2002-06-21 |
+| `ley-2003-0002` | Ley 2 de 2003: Que establece la enseñanza obligatoria del idioma ingles en los centros educativos oficiales y particulares del primer y segundo nivel de enseñanza y dicta otras disposiciones | 1 | 2003-01-16 to 2003-01-16 |
+| `ley-2003-0004` | Ley 4 de 2003: Por la cual se aprueba el convenio de tampere sobre el suministro de recursos de telecomunicaciones para la mitigacion de catastrofes y las operaciones de socorro en casos de catastrofe, adoptado en tampere, finlandia, el 18 de junio de 1998. | 1 | 2003-01-24 to 2003-01-24 |
+| `ley-2003-0007` | Ley 7 de 2003: Por la cual se aprueba el acuerdo de cooperacion en materia de turismo entre el gobierno de la republica de panama y el gobierno de la republica de el salvador, hecho en panama, republica de panama, el 12 de diciembre de 2001 | 1 | 2003-01-24 to 2003-01-24 |
+| `ley-2003-0013` | Ley 13 de 2003: Que reintegra al personal docente de los centros educativos dependientes o adscritos al instituto nacional de cultura al regimen de la ley organica de educacion | 1 | 2003-01-28 to 2003-01-28 |
+| `ley-2003-0016` | Ley 16 de 2003: Que modifica el articulo 10 de la ley 63 de 1974, que crea el instituto nacional de cultura | 1 | 2003-01-28 to 2003-01-28 |
+| `ley-2003-0019` | Ley 19 de 2003: Que modifica, adiciona y elimina articulos de la ley 25 de 2001, sobre la politica nacional para la transformacion agropecuaria y su ejecucion | 1 | 2003-01-31 to 2003-01-31 |
+| `ley-2003-0020` | Ley 20 de 2003: Que ordena la preservacion de los bienes revertidos, producto de la ejecucion del tratado del canal de panama de 1977, bajo custodia, aprovechamiento y administracion de la autoridad de la region interoceanica, usados para actividades educativas,... | 1 | 2003-01-31 to 2003-01-31 |
+| `ley-2003-0026` | Ley 26 de 2003: Por la cual se aprueba el protocolo relativo a la contaminacion procedente de las fuentes y actividades terrestres del convenio para la proteccion y desarrollo del medio marino de la region del gran caribe... | 1 | 2003-04-02 to 2003-04-02 |
+| `ley-2003-0028` | Ley 28 de 2003: Por la cual se aprueba el convenio de cooperacion para la proteccion y el desarrollo sostenible en las zonas marinas y costeras del pacifico nordeste, hecho en la ciudad de antigua, guatemala, el 18 de febrero de 2002 | 1 | 2003-04-02 to 2003-04-02 |
+| `ley-2003-0039` | Ley 39 de 2003: Que modifica y adiciona articulos al codigo de la familia, sobre el reconocimiento de la paternidad, y dicta otras disposiciones. | 1 | 2003-05-06 to 2003-05-06 |
+| `ley-2003-0040` | Ley 40 de 2003: Que crea los corregimientos el empalme y las tablas en el distrito de changuinola, provincia de bocas del toro, modifica la ley 1 de 1982 y la ley 5 de 1998 y dicta otras disposiciones. | 1 | 2003-05-06 to 2003-05-06 |
+| `ley-2003-0044` | Ley 44 de 2003: Que autoriza al ministerio de economia y finanzas para que devuelva, a los extrabajadores de la autoridad portuaria nacional, las sumas retenidos en concepto del impuesto sobre la renta de las indemnizaciones por la privatizacion de los puertos de... | 1 | 2003-05-22 to 2003-05-22 |
+| `ley-2003-0045` | Ley 45 de 2003: Que adiciona el capitulo vii, denominado delitos financieros, al titulo xii del libro segundo del codigo penal, modifica articulos de los codigos penal y judicial y del decreto ley 1 de 1999 y dicta otra disposicion. | 1 | 2003-06-09 to 2003-06-09 |
+| `ley-2003-0047` | Ley 47 de 2003: Que denomina eileen marie coparropa aleman a la piscina patria y dicta otras disposiciones | 1 | 2003-06-12 to 2003-06-12 |
+| `ley-2003-0048` | Ley 48 de 2003: Que reglamenta las operaciones de las casas de remesas de dinero. | 1 | 2003-06-26 to 2003-06-26 |
+| `ley-2003-0049` | Ley 49 de 2003: Que dicta el presupuesto de la autoridad del canal de panama para la vigencia fiscal del 1 de octubre de 2003 al 30 de septiembre de 2004. | 1 | 2003-07-07 to 2003-07-07 |
+| `ley-2003-0051` | Ley 51 de 2003: Que reglamenta el ejercicio de la profesion de tecnologo en medica nuclear | 1 | 2003-07-17 to 2003-07-17 |
+| `ley-2003-0052` | Ley 52 de 2003: Que modifica y deroga disposiciones que regulan el ejercicio de la profesion de nutricionista dietista | 1 | 2003-07-24 to 2003-07-24 |
+| `ley-2003-0054` | Ley 54 de 2003: Que incentiva la innovacion y la excelencia educativas en los centros educativos y los docentes de educacion especial, basica general y media oficiales y particulares. | 1 | 2003-07-24 to 2003-07-24 |
+| `ley-2003-0065` | Ley 65 de 2003: Que prorroga la vigencia de la ley 3 de 1985, sobre el regimen de intereses preferenciales, y modifica el articulo 5 de esta ley. | 1 | 2003-11-05 to 2003-11-05 |
+| `ley-2003-0067` | Ley 67 de 2003: Que concede una moratoria para el pago de los tributos administrados por la direccion general de ingresos y dicta otras disposiciones. | 1 | 2003-11-21 to 2003-11-21 |
+| `ley-2003-0070` | Ley 70 de 2003: Por la cual se aprueba el convenio para el establecimiento de la zona de turismo sustentable del caribe, elaborado en la isla de margarita, republica bolivariana de venezuela, el dia 12 del mes de diciembre de 2001. | 1 | 2003-12-09 to 2003-12-09 |
+| `ley-2003-0072` | Ley 72 de 2003: Por la cual se aprueba el acuerdo entre los estados miembros y miembros asociados de la asociacion de estados del caribe para la cooperacion regional en materia de desastres naturales, elaborado en santo domingo de guzman, republica dominicana, el 17... | 1 | 2003-12-09 to 2003-12-09 |
+| `ley-2003-0075` | Ley 75 de 2003: Por la cual se aprueba la convencion interamericana contra el terrorismo, adoptada en bridgetown, barbados, el 3 de junio de 2002. | 1 | 2003-12-09 to 2003-12-09 |
+| `ley-2004-0042` | Ley 42 de 2004: Que autoriza la cancelacion de ajustes salariales a los ex trabajadores del puente de las americas y dicta otras disposiciones | 1 | 2004-07-27 to 2004-07-27 |
+| `ley-2004-0049` | Ley 49 de 2004: Que deroga articulos de la ley 78 de 1941 y la ley 120 de 1943, y dicta otras disposiciones. | 1 | 2004-10-04 to 2004-10-04 |
+| `ley-2004-0050` | Ley 50 de 2004: Que modifica el articulo 34 de la ley 61 de 2002, que dicta medidas de reordenamiento y simplificacion del sistema tributario. | 1 | 2004-10-04 to 2004-10-04 |
+| `ley-2004-0051` | Ley 51 de 2004: Que suspende temporalmente la vigencia del titulo ii de la ley 20 de 2002, sobre medidas de responsabilidad fiscal. | 1 | 2004-10-11 to 2004-10-11 |
+| `ley-2004-0052` | Ley 52 de 2004: Que modifica los literales b y c, adiciona el literal d y modifica el ultimo parrafo del numeral 1 del articulo 3 de la ley 20 de 1995, del fondo fiduciario para el desarrollo. | 1 | 2004-10-21 to 2004-10-21 |
+| `ley-2004-0055` | Ley 55 de 2004: Que autoriza al banco nacional de panama para que adopte medidas relacionadas con el estado de urgencia temporal de la urbanizacion prados del este. | 1 | 2004-11-25 to 2004-11-25 |
+| `ley-2004-0057` | Ley 57 de 2004: Que modifica un articulo de la ley 20 de 1995, del fondo fiduciario para el desarrollo y un articulo de la ley 54 de 2004, que dicta el presupuesto del estado de 2005. | 1 | 2004-12-22 to 2004-12-22 |
 | `codigo-procesal-penal` | Código Procesal Penal (Ley 63 de 2008) | 1 | 2009-09-02 to 2009-09-02 |
 | `codigo-del-trabajo` | Código del Trabajo (Decreto de Gabinete 252 de 1971) | 1 | 2003-06-26 to 2003-06-26 |
 
-The build made 415 commits:
+The build made 601 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 415 | first version of an act |
+| 601 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 414 laws in the record.
-- 827 tags.
+- 600 laws in the record.
+- 1199 tags.
 
 ## Dates
 
@@ -459,9 +646,9 @@ When a law gives no date of its own, the default rule applies: This record dates
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `274ebd304e8e865b5f5997a38406993675dbaaccafac8bda26a898d21d23d386` (8264689 bytes).
+- Corpus: sha256 `756181fae661d69f52961f08e422237ee089ab1e283cbf518465aa0f880ed71a` (9900577 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
@@ -475,6 +662,10 @@ No second build of this corpus has been compared yet.
 - No dated past versions are online, so there is one version, credited to the publisher as "oldest version available" and dated 15 November 2004, the Gaceta Oficial date of the current Texto Unico.
 - Cleaning: page headers and footers, Title and Chapter headings, and the closing date-and-amendments note were removed; line breaks inside a paragraph were joined (hyphenated words rejoined); typographic quotes normalised. The preamble and articles 1 to 328 are kept.
 - [statutes] Código Penal: one version, the Procuraduría's Texto Único incorporating Ley 70 de 2019, credited to the publisher as oldest version available and dated 11 December 2019, the PDF's own creation date (the source states no commencement date for the consolidation; the Code itself took effect one year after its promulgation, art. 458). Headings (Libro, Título, Capítulo) and page headers were removed; wrapped lines were joined.
+- Laws from Legispan (parts 30-acts-*): only laws whose Legispan record lists no affecting norm (no modification, repeal, suspension or regulation recorded) are built, each as one version, the law as enacted, which is then also its text in force; laws Legispan records as affected are left out until their current text can be shown.
+- Laws from Legispan: each is dated by its promulgation in the Gaceta Oficial (the record's Gaceta date); where a law sets a later day for its entry into force, that later day is not modelled.
+- Laws from Legispan: only the Asamblea Nacional's typed edition in the Legispan PDF is read (pages with a text layer after the scanned Gaceta pages); the scanned pages are not read and no OCR is used; a PDF with an invisible OCR layer, or with no typed edition, is left out.
+- Laws from Legispan: the law's own articles are those that start a paragraph at the left margin and are not in quotation marks; a law whose own articles are not numbered 1..N, each once, in order is left out. Headings printed above an article go in its file; the text before Artículo 1 is in encabezado.md and the closing formula with the signatures in firma.md. Running headers (G.O. number, ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ) and page numbers are left out; every other word of the typed edition is kept.
 - Laws from Legispan (parts 30-acts-*): only laws whose Legispan record lists no affecting norm (no modification, repeal, suspension or regulation recorded) are built, each as one version, the law as enacted, which is then also its text in force; laws Legispan records as affected are left out until their current text can be shown.
 - Laws from Legispan: each is dated by its promulgation in the Gaceta Oficial (the record's Gaceta date); where a law sets a later day for its entry into force, that later day is not modelled.
 - Laws from Legispan: only the Asamblea Nacional's typed edition in the Legispan PDF is read (pages with a text layer after the scanned Gaceta pages); the scanned pages are not read and no OCR is used; a PDF with an invisible OCR layer, or with no typed edition, is left out.
@@ -499,6 +690,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - none
