@@ -15,6 +15,12 @@ The Código del Trabajo text is the Ministerio de Trabajo y Desarrollo Laboral /
 Judicial's website (https://www.organojudicial.gob.pa/uploads/wp_repo/uploads/2016/11/c%C3%B3digo-detrabajo.pdf),
 retrieved 30 October 2026 from an archived copy. The site states no licence.
 
+<!-- acts:start -->
+Laws in the folders ley-YYYY-NNNN/: the Asamblea Nacional de Panamá's typed editions of laws in Legispan
+(https://legispan.asamblea.gob.pa/), retrieved November 2026. Legispan states no licence or terms of use (it
+publishes a privacy policy only). The texts are reproduced without change to their wording, as the law of Panama.
+<!-- acts:end -->
+
 Changes made by Lexifina: the text was converted to one Markdown file per article; page headers and footers, title and
 chapter headings and the edition's editorial footnotes were removed; line breaks within a paragraph were joined. The
 wording of the law was not changed. The Asamblea Nacional does not endorse this repository.
