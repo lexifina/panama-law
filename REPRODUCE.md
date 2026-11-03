@@ -9,6 +9,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Asamblea Nacional de Panamá, Constitución Política y Reglamento Orgánico del Régimen Interno (Edición 2024) | <https://asamblea.gob.pa/Uploads/GestorFiles/Reglamento_Organico_del_Regimen_Interno.pdf> | 2026-10-29 | No licence stated on the site |
 | Procuraduría General de la Nación (Ministerio Público), Texto Único del Código Penal de la República de Panamá | <https://ministeriopublico.gob.pa/wp-content/uploads/2016/09/CODIGO-PENAL-2019-FINAL-1.pdf> | 2026-10-30 | No licence stated on the site. |
 | Legispan, Asamblea Nacional de Panamá: Leyes | <https://legispan.asamblea.gob.pa/> | 2026-11-03 | No licence or terms of use stated (the site states only a privacy policy). Laws are official texts, reproduced as published. |
+| Legispan, Asamblea Nacional de Panamá: Leyes | <https://legispan.asamblea.gob.pa/> | 2026-11-03 | No licence or terms of use stated (the site states only a privacy policy). Laws are official texts, reproduced as published. |
 | Órgano Judicial de Panamá: Ley 63 de 2008, Código Procesal Penal (Legispan copy of Gaceta Oficial 26114) | <https://www.organojudicial.gob.pa/uploads/wp_repo/uploads/2016/11/C%C3%B3digo-Procesal-Penal.pdf> | 2026-10-30 | No licence stated; official legal text as published in the Gaceta Oficial. |
 | Órgano Judicial de Panamá: Código del Trabajo (Decreto de Gabinete 252 de 1971, con las modificaciones de la Ley 44 de 1995), edición del Ministerio de Trabajo y Desarrollo Laboral (Proyecto MATAC / OIT) | <https://www.organojudicial.gob.pa/uploads/wp_repo/uploads/2016/11/c%C3%B3digo-detrabajo.pdf> | 2026-10-30 | No licence stated; official legal text. |
 
@@ -325,22 +326,128 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-2019-0117` | Ley 117 de 2019: Que instituye el festival nacional de la flor del espiritu santo y crea su patronato. | 1 | 2019-12-10 to 2019-12-10 |
 | `ley-2019-0118` | Ley 118 de 2019: Que declara el 7 de septiembre de cada año dia civico y de conmemoracion de la firma de los tratados torrijos - carter. | 1 | 2019-12-10 to 2019-12-10 |
 | `ley-2019-0119` | Ley 119 de 2019: Que reestablece la vigencia de un articulo del codigo judicial, relativo a las medidas conservatorias o de proteccion en general. | 1 | 2019-12-10 to 2019-12-10 |
+| `ley-2004-0002` | Ley 2 de 2004: Que denomina estadio nacional rodney carew al estadio nacional. | 1 | 2004-01-19 to 2004-01-19 |
+| `ley-2004-0003` | Ley 3 de 2004: Que prohibe toda forma de clonacion humana y dicta otras disposiciones. | 1 | 2004-01-19 to 2004-01-19 |
+| `ley-2004-0009` | Ley 9 de 2004: Que modifica el articulo 18 de la ley 58 de 1995, sobre agricultura, y dicta otras disposiciones. | 1 | 2004-01-23 to 2004-01-23 |
+| `ley-2004-0012` | Ley 12 de 2004: Que concede una moratoria para el pago de las tasas de turismo y de servicio de hospedaje, administradas por el instituto panameño de turismo | 1 | 2004-02-06 to 2004-02-06 |
+| `ley-2004-0014` | Ley 14 de 2004: Que modifica la ley 24 de 2001, que adopta medidas para apoyar a los productores agropecuarios. | 1 | 2004-03-03 to 2004-03-03 |
+| `ley-2004-0015` | Ley 15 de 2004: Que resalta los valores y aportes de la etnia china | 1 | 2004-04-01 to 2004-04-01 |
+| `ley-2004-0017` | Ley 17 de 2004: Que dicta medidas para la prevencion del cancer de la piel. | 1 | 2004-04-30 to 2004-04-30 |
+| `ley-2004-0020` | Ley 20 de 2004: Por la cual se aprueba el acuerdo sobre los privilegios e inmunidades de la corte penal internacional, dado en nueva york, el 9 de septiembre de 2002 | 1 | 2004-07-15 to 2004-07-15 |
+| `ley-2004-0025` | Ley 25 de 2004: Por la cual se aprueban las enmiendas a los articulos 7, adoptada el 20 de mayo de 1965; 24 y 25, adoptadas el 16 de mayo de 1998 y 74, adoptada el 18 de mayo de 1978 de la constitucion de la organizacion mundial de la salud. | 1 | 2004-07-19 to 2004-07-19 |
+| `ley-2004-0028` | Ley 28 de 2004: Por la cual se aprueba la enmienda del articulo vi del estatuto del organismo internacional de energia atomica, aprobada por la conferencia general el 1 de octubre de 1999. | 1 | 2004-07-19 to 2004-07-19 |
+| `ley-2004-0036` | Ley 36 de 2004: Por la cual se aprueba el instrumento de enmienda a la constitucion de la union internacional de telecomunicaciones (ginegra, 1992), y el instrumento de enmienda al convenio de la union internacional de telecomunicaciones (ginebra, 1992), con las... | 1 | 2004-07-20 to 2004-07-20 |
+| `ley-2004-0037` | Ley 37 de 2004: Por la cual se aprueba el convenio entre la republica de panama y el reino de los paises bajos sobre la exportacion y el control de beneficios de seguridad social, suscrito en la ciudad de panama, republica de panama, el 15 de abril de 2004 | 1 | 2004-07-20 to 2004-07-20 |
+| `ley-2004-0038` | Ley 38 de 2004: Por la cual se aprueba la enmienda a la convencion sobre prohibiciones o restricciones del empleo de ciertas armas convencionales que puedan considerarse excesivamente nocivas o de efectos indiscriminados, adoptada en ginebra, el 21 de diciembre de 2001 | 1 | 2004-07-20 to 2004-07-20 |
+| `ley-2005-0002` | Ley 2 de 2005: Por la cual se aprueba el acuerdo sobre los privilegios e inmunidades del tribunal internacional del derecho del mar, abierto a la firma en nueva york, el 1 de julio de 1997. | 1 | 2005-01-18 to 2005-01-18 |
+| `ley-2005-0008` | Ley 8 de 2005: Que modifica y adiciona articulos a la ley 24 de 2001, para adoptar medidas de apoyo a los productores agropecuarios del rubro arroz. | 1 | 2005-02-15 to 2005-02-15 |
+| `ley-2005-0010` | Ley 10 de 2005: Que rebaja temporalmente el impuesto al consumo de algunos combustibles | 1 | 2005-04-14 to 2005-04-14 |
+| `ley-2005-0011` | Ley 11 de 2005: Que prohibe la discriminacion laboral y adopta otras medidas | 1 | 2005-04-27 to 2005-04-27 |
+| `ley-2005-0012` | Ley 12 de 2005: Que declara el 7 de marzo como dia de la fundacion de la comarca ngobe-bugle y dicta otras disposiciones | 1 | 2005-04-27 to 2005-04-27 |
+| `ley-2005-0020` | Ley 20 de 2005: Que adiciona los articulos 892-a y 892-b al codigo administrativo y dicta otra disposicion. | 1 | 2005-06-16 to 2005-06-16 |
+| `ley-2005-0021` | Ley 21 de 2005: Que reglamenta la profesion de relaciones publicas y deroga la ley 37 de 1980. | 1 | 2005-06-21 to 2005-06-21 |
+| `ley-2005-0022` | Ley 22 de 2005: Que prohibe la imposicion de sanciones por desacato, dicta medidas en relacion con el derecho de replica, rectificacion o respuesta y adopta otras disposiciones. | 1 | 2005-07-06 to 2005-07-06 |
+| `ley-2005-0026` | Ley 26 de 2005: Que dicta presupuesto de la autoridad del canal de panama para la vigencia fiscal del 1 de octubre de 2005 al 30 de septiembre de 2006. | 1 | 2005-07-21 to 2005-07-21 |
+| `ley-2005-0034` | Ley 34 de 2005: Que modifica y adiciona articulos a la ley 6 de 2005, que implementa un programa de equidad fiscal, y dicta otras disposiciones. | 1 | 2005-11-14 to 2005-11-14 |
+| `ley-2005-0035` | Ley 35 de 2005: Que declara monumento historico nacional la colonial iglesia - fortin del distrito de chiman, provincia de panama. | 1 | 2005-11-21 to 2005-11-21 |
+| `ley-2005-0052` | Ley 52 de 2005: Que modifica el articulo 2 de la ley 5 de 1988, que establece y regula el sistema de ejecucion de obras publicas por el sistema de concesion administrativa | 1 | 2005-12-29 to 2005-12-29 |
+| `ley-2005-0056` | Ley 56 de 2005: QUE APRUEBA LA ADENDA No. 1 AL CONTRATO SUSCRITO ENTRE EL ESTASO Y LA SOCIEDAD MOTORES INTERNACIONALES, S.A., AUTORIZADO MEDIANTE LA LEY 31 DE 21 DE DICIEMBRE DE 1993 | 1 | 2005-12-29 to 2005-12-29 |
+| `ley-2005-0060` | Ley 60 de 2005: Que amplia y consolida el programa de alimentacion para los trabajadores, creados por la ley 59 de 2003. | 1 | 2006-01-04 to 2006-01-04 |
+| `ley-2010-0001` | Ley 1 de 2010: Que constituye al hospital san miguel arcangel como una entidad de gestion publica. | 1 | 2010-02-05 to 2010-02-05 |
+| `ley-2010-0002` | Ley 2 de 2010: Que modifica un articulo de la ley 67 de 2009, sobre la certificacion de deposito judicial. | 1 | 2010-02-10 to 2010-02-10 |
+| `ley-2010-0006` | Ley 6 de 2010: Que reforma la ley 40 de 1999, sobre el regimen especial de responsabilidad penal para adolescencia. | 1 | 2010-03-12 to 2010-03-12 |
+| `ley-2010-0007` | Ley 7 de 2010: Que modifica el articulo 27 del codigo judicial. | 1 | 2010-03-12 to 2010-03-12 |
+| `ley-2010-0009` | Ley 9 de 2010: Que adiciona disposiciones al codigo de trabajo relacionadas con las obligaciones de los empleadores. | 1 | 2010-03-16 to 2010-03-16 |
+| `ley-2010-0011` | Ley 11 de 2010: Que deroga el decreto ley 9 de 20 de agosto de 2008, que organiza el consejo de seguridad publica y defensa nacional y crea el servicio nacional de inteligencia y seguridad. | 1 | 2010-03-18 to 2010-03-18 |
+| `ley-2010-0014` | Ley 14 de 2010: Que dicta medidas sobre el certificado de informacion de antecedentes personales, reforma el codigo electoral y adiciona un articulo al codigo penal. (record policivo, revocatoria de mandato y manifestaciones o cierres de calles). | 1 | 2010-04-13 to 2010-04-13 |
+| `ley-2010-0017` | Ley 17 de 2010: Que reconoce los aportes del doctor carlos ivan zuñiga guardia a la nacionalidad panameña. | 1 | 2010-04-21 to 2010-04-21 |
+| `ley-2010-0018` | Ley 18 de 2010: Que establece un regimen especial de adquisicion de obras, bienes y servicios para el ministerio de educacion y adopta otra medida. | 1 | 2010-04-23 to 2010-04-23 |
+| `ley-2010-0020` | Ley 20 de 2010: Que declara el 13 de junio dia del cacique inabaginya quijano. | 1 | 2010-05-26 to 2010-05-26 |
+| `ley-2010-0023` | Ley 23 de 2010: Por la cual se aprueba el acuerdo de asociacion entre la republica de panama y la republica de costa rica, hecho en la ciudad de panama, republica de panama, a los 29 dias del mes de octubre de 2009. | 1 | 2010-06-04 to 2010-06-04 |
+| `ley-2010-0032` | Ley 32 de 2010: Que reforma disposiciones procesales y adopta otras medidas para facilitar la accion del estado contra el delito. | 1 | 2010-06-23 to 2010-06-23 |
+| `ley-2010-0034` | Ley 34 de 2010: Que modifica la ley 23 de 1986, sobre delitos relacionados con drogas e instituye un proceso para la decision anticipada de la situacion juridica de bienes aprehendidos. | 1 | 2010-07-28 to 2010-07-28 |
+| `ley-2010-0036` | Ley 36 de 2010: Que reconoce la profesion de terapia ocupacional. | 1 | 2010-08-02 to 2010-08-02 |
+| `ley-2010-0037` | Ley 37 de 2010: Que declara a la rana dorada simbolo ecologico y cultural y establece el dia de su celebracion. | 1 | 2010-08-05 to 2010-08-05 |
+| `ley-2010-0039` | Ley 39 de 2010: Que suspende la vigencia de articulos de la ley 30 de 2010, relativas a normas laborales, y restablece la vigencia de articulos del codigo de trabajo, por el termino de noventa dias. | 1 | 2010-08-16 to 2010-08-16 |
+| `ley-2010-0041` | Ley 41 de 2010: Que dicta el presupuesto de la autoridad del canal de panama para la vigencia fiscal del 1 de octubre de 2010 al 30 de septiembre de 2011. | 1 | 2010-08-23 to 2010-08-23 |
+| `ley-2010-0042` | Ley 42 de 2010: Que declara el 9 de agosto dia nacional de los pueblos indigenas | 1 | 2010-09-03 to 2010-09-03 |
+| `ley-2010-0043` | Ley 43 de 2010: Que modifica un articulo de la ley 63 de 1974 que crea el instituto nacional de cultura y adopta medida sobre el patrimonio. | 1 | 2010-09-13 to 2010-09-13 |
+| `ley-2010-0044` | Ley 44 de 2010: Por la cual se aprueba el convenio de cooperacion cultural y educativa entre el gobierno de la republica de panama y el gobierno de la republica arabe saharaui democratica dado en la ciudad de panama el 17 de marzo de 2010. | 1 | 2010-09-14 to 2010-09-14 |
+| `ley-2010-0046` | Ley 46 de 2010: Que adiciona un articulo transitorio al codigo fiscal para autorizar la acuñacion de monedas conmemorativas a los ix juegos deportivos centroamericanos. | 1 | 2010-09-17 to 2010-09-17 |
+| `ley-2010-0047` | Ley 47 de 2010: Que adiciona un articulo transitorio al codigo fiscal para autorizar la acuñacion de monedas conmemorativas al septuagesimo quinto aniversario de la universidad de panama. | 1 | 2010-09-17 to 2010-09-17 |
+| `ley-2010-0048` | Ley 48 de 2010: Que modifica la ley 74 de 2009 que autoriza la acuñacion y emision de monedas fraccionarias de circulacion corriente durante el quinquenio 2010-2014. | 1 | 2010-09-17 to 2010-09-17 |
+| `ley-2010-0050` | Ley 50 de 2010: Por la cual se aprueba el protocolo sobre los restos explosivos de guerra adoptado en ginebra el 28 de noviembre de 2003. | 1 | 2010-09-17 to 2010-09-17 |
+| `ley-2010-0052` | Ley 52 de 2010: Por la cual se aprueba el convenio de cooperacion tecnica y cientifca entre el gobierno de la republica de panama y el gobierno de la republica de bolivia, suscrito en la ciudad de san salvador, el salvador, el 30 de octubre de 2008. | 1 | 2010-10-04 to 2010-10-04 |
+| `ley-2010-0053` | Ley 53 de 2010: Por la cual se aprueba el convenio entre la republica de panama y la republica italiana sobre promocion y proteccion de las inversiones, hecho en venecia , italia, el 6 de febrero de 2009. | 1 | 2010-10-04 to 2010-10-04 |
+| `ley-2010-0054` | Ley 54 de 2010: Por la cual se aprueba el convenio entre el gobierno de la republica de panama y el gobierno de la republica de finlandia sobre promocion y proteccion de inversiones, hecho en la ciudad de panama, el 19 de febrero de 2009. | 1 | 2010-10-04 to 2010-10-04 |
+| `ley-2010-0056` | Ley 56 de 2010: Que aprueba el acuerdo entre el gobierno de la republica de panama y el gobierno del estado de israel sobre cooperacion economica y comercial, hecho en la ciudad de jerusalen, el 11 de abril de 2010. | 1 | 2010-10-04 to 2010-10-04 |
+| `ley-2010-0057` | Ley 57 de 2010: Que declara el 12 de agosto dia de la juventud panameña. | 1 | 2010-10-04 to 2010-10-04 |
+| `ley-2010-0058` | Ley 58 de 2010: Que modifica articulos del codigo judicial y del texto unico de la ley 8 de 1982, relativos a los suplentes de magistrados y jueces. | 1 | 2010-10-07 to 2010-10-07 |
+| `ley-2010-0063` | Ley 63 de 2010: Que concede exenciones fiscales a la autoridad del transito y transporte terrestre y a los contratistas y subcontratistas para la ejecucion del diseño, suministro y operacion del nuevo sistema de movilizacion masivo de pasajeros en el area metropolitana. | 1 | 2010-10-15 to 2010-10-15 |
+| `ley-2010-0064` | Ley 64 de 2010: Que modifica un articulo de la ley 24 de 2005, organica de la universidad de panama. (reeleccion del rector.) | 1 | 2010-10-15 to 2010-10-15 |
+| `ley-2010-0066` | Ley 66 de 2010: Que modifica la ley 22 de 2006, que regula la contratacion publica, y dicta otra disposicion. | 1 | 2010-10-27 to 2010-10-27 |
+| `ley-2010-0068` | Ley 68 de 2010: Que modifica articulos del codigo de trabajo y dicta otras disposiciones. (cuota sindical, convecciones colectivas, derecho a huelga, seguridad laboral en las obras de construccion.) | 1 | 2010-10-27 to 2010-10-27 |
+| `ley-2010-0070` | Ley 70 de 2010: Que modifica el articulo 230 de la ley 63 de 2009, que dicta el presupuesto general del estado para la vigencia fiscal de 2010. | 1 | 2010-10-29 to 2010-10-29 |
+| `ley-2010-0073` | Ley 73 de 2010: Por la cual se aprueba el acuerdo entre la republica de panama y la union economica belga-luxemburguesa sobre la promocion y proteccion reciproca de inversiones, efectuado en la ciudad de panama, el 26 de marzo de 2009. | 1 | 2010-10-29 to 2010-10-29 |
+| `ley-2010-0077` | Ley 77 de 2010: Que crea el hospital regional docente 24 de diciembre como entidad de gestion publica. | 1 | 2010-11-15 to 2010-11-15 |
+| `ley-2010-0078` | Ley 78 de 2010: Por la cual se aprueba el protocolo de 2005 relativo al convenio para la represion de actos ilicitos contra la seguridad de la navegacion maritima, hecho en londres el 14 de octubre de 2005 y el protocolo de 2005 relativo al protocolo de las... | 1 | 2010-11-18 to 2010-11-18 |
+| `ley-2010-0079` | Ley 79 de 2010: Por la cual se aprueba el protocolo al tratado centroamericano sobre recuperacion y devolucion de vehiculos hurtados, robados, apropiados o retenidos ilicita o indebidamente, firmado en leon, santiago de los caballeros, nicaragua, a los... | 1 | 2010-11-18 to 2010-11-18 |
+| `ley-2010-0080` | Ley 80 de 2010: Por la cual se aprueba el convenio centroamericano para la proteccion de victimas, testigos, peritos y demas sujetos que intervienen en la investigacion y en el proceso penal, particularmente en la narcoactividad y delincuencia organizada, suscrito en... | 1 | 2010-11-18 to 2010-11-18 |
+| `ley-2010-0081` | Ley 81 de 2010: Por la cual se aprueba el acuerdo entre el gobierno de la republica de panama y el gobierno del estado de israel sobre cooperacion en el campo de la agricultura, hecho en jerusalen, el 3 de marzo de 2010. | 1 | 2010-11-18 to 2010-11-18 |
+| `ley-2010-0082` | Ley 82 de 2010: Por la cual se aprueba el tratado entre la republica de panama y la federacion de rusia sobre asistencia legal reciproca en materia penal, suscrito en la ciudad de panama, el 30 de abril de 2009. | 1 | 2010-11-18 to 2010-11-18 |
+| `ley-2010-0083` | Ley 83 de 2010: Por la cual se aprueba la modificacion del articulo decimo octavo del convenio de cooperacion de 1978, para reestructurar el instituto latinoamericano de la comunicacion educativa (ilce), aprobada por resolucion unica educativa en la ciudad de mexico,... | 1 | 2010-11-18 to 2010-11-18 |
+| `ley-2010-0084` | Ley 84 de 2010: Por la cual se aprueba el convenio entre el gobierno de la republica de panama y el gobierno de la republica de bolivia para la recuperacion de bienes culturales y otros especificos robados, importados o exportados ilicitamente, suscrito en la ciudad... | 1 | 2010-11-18 to 2010-11-18 |
+| `ley-2010-0087` | Ley 87 de 2010: Que modifica un articulo del texto unico de la ley 40 de 1999, sobre el regimen especial de responsabilidad penal para la adolescencia, y crea nuevos despachos dentro de esta jurisdiccion. | 1 | 2010-11-18 to 2010-11-18 |
+| `ley-2011-0021` | Ley 21 de 2011: Por la cual se aprueban el convenio entre la republica de panama y el gran ducado de luxemburgo para evitar la doble imposicion y prevenir la evasion fiscal en materia de impuestos sobre la renta y sobre el patrimonio y su protocolo... | 1 | 2011-03-31 to 2011-03-31 |
+| `ley-2011-0022` | Ley 22 de 2011: Por la cual se aprueban el convenio entre la republica de panama y el reino de españa para evitar la doble imposicion en materia de impuesto sobre la renta y sobre el patrimonio y prevenir la evasion fiscal y su protocolo... | 1 | 2011-03-31 to 2011-03-31 |
+| `ley-2011-0023` | Ley 23 de 2011: Por la cual se aprueban el convenio entre la republica de panama y el reino de los paises bajos para evitar la doble imposicion y prevenir la evasion fiscal en materia de impuestos sobre la renta y su protocolo, hechos en la haya, el 6 de octubre de 2010 | 1 | 2011-03-31 to 2011-03-31 |
+| `ley-2011-0026` | Ley 26 de 2011: Por la cual se aprueba el protocolo facultativo de la convencion contra la tortura y otros tratos o penas crueles, inhumanos o degradantes, adoptado por la asamblea general de las naciones unidas, el 18 de diciembre de 2002. | 1 | 2011-04-01 to 2011-04-01 |
+| `ley-2011-0027` | Ley 27 de 2011: Por la cual se aprueba la convencion internacional para la proteccion de todas las personas contra las desapariciones forzadas, adoptada por la asamblea general de las naciones unidas el 20 de diciembre de 2006. | 1 | 2011-04-01 to 2011-04-01 |
+| `ley-2011-0028` | Ley 28 de 2011: Por la cual se aprueba la convencion sobre el estatuto de los apatridas, hecha en nueva york, el 28 de septiembre de 1954. | 1 | 2011-04-01 to 2011-04-01 |
+| `ley-2011-0029` | Ley 29 de 2011: Por la cual se aprueba la convencion para reducir los casos de apatridia, hecha en nueva york, el 30 de agosto de 1961. | 1 | 2011-04-01 to 2011-04-01 |
+| `ley-2011-0030` | Ley 30 de 2011: Que deroga articulos de la ley 29 de 2010, del regimen especial para el establecimiento y operacion del area economica de baru. | 1 | 2011-04-05 to 2011-04-05 |
+| `ley-2011-0031` | Ley 31 de 2011: Que reforma el codigo fiscal y adopta otras medidas fiscales. | 1 | 2011-04-05 to 2011-04-05 |
+| `ley-2011-0033` | Ley 33 de 2011: Que constituye el hospital regional doctor luis "chicho" fabrega como una entidad de gestion publica. | 1 | 2011-04-07 to 2011-04-07 |
+| `ley-2011-0034` | Ley 34 de 2011: Que constituye el hospital regional doctor joaquin pablo franco sayas como una entidad de gestion publica. | 1 | 2011-04-07 to 2011-04-07 |
+| `ley-2011-0035` | Ley 35 de 2011: Que constituye el hospital regional doctor cecilio castillero como una entidad de gestion publica. | 1 | 2011-04-07 to 2011-04-07 |
+| `ley-2011-0036` | Ley 36 de 2011: Que constituye el hospital regional de azuero anita moreno como una entidad de gestion publica. | 1 | 2011-04-07 to 2011-04-07 |
+| `ley-2011-0037` | Ley 37 de 2011: Que constituye el hospital regional aquilino tejeira como una entidad de gestion publica. | 1 | 2011-04-07 to 2011-04-07 |
+| `ley-2011-0039` | Ley 39 de 2011: Que modifica un articulo de la ley 51 de 2010, que crea la autoridad de aseo urbano y domiciliario, y dicta otras disposiciones. | 1 | 2011-04-07 to 2011-04-07 |
+| `ley-2011-0041` | Ley 41 de 2011: Que declara el 19 de octubre de cada año dia civico y de conmemoracion del sombrero "pintao" y al distrito de la pintada cuna del sombrero "pintao". | 1 | 2011-04-21 to 2011-04-21 |
+| `ley-2011-0062` | Ley 62 de 2011: Que crea el programa nacional para la deteccion temprana del cancer y dicta normas para su implementacion. | 1 | 2011-05-11 to 2011-05-11 |
+| `ley-2011-0047` | Ley 47 de 2011: QUE APRUEBA LA ENMIENDA No. 4 AL CONTRATO DE ASOCIACION ORIGINALMENTE CELEBRADO ENTRE LA REPUBLICA DE PANAMA, NORTHVILLE INDUSTRIES CORP. Y PETROTERMINAL DE PANAMA, S.A. MEDIANTE LA LEY 30 DE 1977, ENMENDADO Y REITERADO MEDIANET LA LEY 14 DE 1981, TAL... | 1 | 2011-05-12 to 2011-05-12 |
+| `ley-2011-0049` | Ley 49 de 2011: Por la cual se aprueba el protocolo de modificacion del convenio entre la republica de panama y la republica federal de alemania sobre fomento y proteccion reciproca de inversiones de capital, firmado el 2 de noviembre de 1983, hecho en la ciudad... | 1 | 2011-05-12 to 2011-05-12 |
+| `ley-2011-0051` | Ley 51 de 2011: Que aprueba el protocolo de enmienda al acuerdo entre el gobierno de la republica de panama y el gobierno del estado de israel sobre cooperacion economica y comercial, dado en la ciudad de panama, el 9 de febrero de 2011. | 1 | 2011-05-12 to 2011-05-12 |
+| `ley-2011-0052` | Ley 52 de 2011: Que aprueba el convenio iberoamericano sobre el uso de la videoconferencia en la cooperacion juridica entre sistemas de justicia. | 1 | 2011-05-12 to 2011-05-12 |
+| `ley-2011-0053` | Ley 53 de 2011: Que modifica la ley 53 de 1999, que declara fiesta folclorica el festival del manito y crea su patronato. | 1 | 2011-05-12 to 2011-05-12 |
+| `ley-2011-0054` | Ley 54 de 2011: Que establece la categoria de residente temporal en calidad de profesional del deporte. | 1 | 2011-05-26 to 2011-05-26 |
+| `ley-2011-0055` | Ley 55 de 2011: Que adopta el codigo agrario de la republica de panama. | 1 | 2011-05-30 to 2011-05-30 |
+| `ley-2011-0059` | Ley 59 de 2011: Que adiciona un articulo a la ley 47 de 1979, que establece la politica salarial de los educadores que laboran en el ministerio de educacion. | 1 | 2011-07-26 to 2011-07-26 |
+| `ley-2011-0064` | Ley 64 de 2011: Que denomina sukunya inabaginya a puerto escoces. | 1 | 2011-08-17 to 2011-08-17 |
+| `ley-2011-0065` | Ley 65 de 2011: Que modifica articulos de la ley 67 de 2008, sobre la jurisdiccion de cuentas. | 1 | 2011-08-17 to 2011-08-17 |
+| `ley-2011-0066` | Ley 66 de 2011: Que modifica un articulo del codigo procesal penal. | 1 | 2011-09-01 to 2011-09-01 |
+| `ley-2011-0068` | Ley 68 de 2011: Que reforma la ley 26 de 1996 y la ley 6 de 1997, que regulan los servicios publicos, para establecer medidas que deben tomar las empresas de distribucion electrica a favor del consumidor. | 1 | 2011-09-02 to 2011-09-02 |
+| `ley-2011-0071` | Ley 71 de 2011: Que modifica un articulo del decreto ley 2 de 1998, que reestructura la junta de control de juegos. | 1 | 2011-09-09 to 2011-09-09 |
+| `ley-2011-0073` | Ley 73 de 2011: Que crea el programa permanente de apoyo a los deportistas pertenecientes a las selecciones nacionales. | 1 | 2011-09-29 to 2011-09-29 |
+| `ley-2011-0076` | Ley 76 de 2011: Por la cual se aprueba el tratado de montevideo 1980, hecho en la ciudad de montevideo, el 12 de agosto de 1980. | 1 | 2011-10-19 to 2011-10-19 |
+| `ley-2011-0080` | Ley 80 de 2011: Que reforma la ley 15 de 2003, que reconoce el ejercicio de la profesion de tecnologia ortopedica y traumatologia. | 1 | 2011-11-25 to 2011-11-25 |
+| `ley-2011-0081` | Ley 81 de 2011: Que establece con caracter excepcional los requisitos para los extranjeros bajo estado humanitario provisional de proteccion apliquen para la categoria migratoria de residente permanente. | 1 | 2011-12-15 to 2011-12-15 |
 | `codigo-procesal-penal` | Código Procesal Penal (Ley 63 de 2008) | 1 | 2009-09-02 to 2009-09-02 |
 | `codigo-del-trabajo` | Código del Trabajo (Decreto de Gabinete 252 de 1971) | 1 | 2003-06-26 to 2003-06-26 |
 
-The build made 309 commits:
+The build made 415 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 309 | first version of an act |
+| 415 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 308 laws in the record.
-- 615 tags.
+- 414 laws in the record.
+- 827 tags.
 
 ## Dates
 
@@ -352,7 +459,7 @@ When a law gives no date of its own, the default rule applies: This record dates
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9709441babee567c12222c5e7501d0f917a6d2c8a5a9023db9fa06fdf526f5cf` (6614437 bytes).
+- Corpus: sha256 `274ebd304e8e865b5f5997a38406993675dbaaccafac8bda26a898d21d23d386` (8264689 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -368,6 +475,10 @@ No second build of this corpus has been compared yet.
 - No dated past versions are online, so there is one version, credited to the publisher as "oldest version available" and dated 15 November 2004, the Gaceta Oficial date of the current Texto Unico.
 - Cleaning: page headers and footers, Title and Chapter headings, and the closing date-and-amendments note were removed; line breaks inside a paragraph were joined (hyphenated words rejoined); typographic quotes normalised. The preamble and articles 1 to 328 are kept.
 - [statutes] Código Penal: one version, the Procuraduría's Texto Único incorporating Ley 70 de 2019, credited to the publisher as oldest version available and dated 11 December 2019, the PDF's own creation date (the source states no commencement date for the consolidation; the Code itself took effect one year after its promulgation, art. 458). Headings (Libro, Título, Capítulo) and page headers were removed; wrapped lines were joined.
+- Laws from Legispan (parts 30-acts-*): only laws whose Legispan record lists no affecting norm (no modification, repeal, suspension or regulation recorded) are built, each as one version, the law as enacted, which is then also its text in force; laws Legispan records as affected are left out until their current text can be shown.
+- Laws from Legispan: each is dated by its promulgation in the Gaceta Oficial (the record's Gaceta date); where a law sets a later day for its entry into force, that later day is not modelled.
+- Laws from Legispan: only the Asamblea Nacional's typed edition in the Legispan PDF is read (pages with a text layer after the scanned Gaceta pages); the scanned pages are not read and no OCR is used; a PDF with an invisible OCR layer, or with no typed edition, is left out.
+- Laws from Legispan: the law's own articles are those that start a paragraph at the left margin and are not in quotation marks; a law whose own articles are not numbered 1..N, each once, in order is left out. Headings printed above an article go in its file; the text before Artículo 1 is in encabezado.md and the closing formula with the signatures in firma.md. Running headers (G.O. number, ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ) and page numbers are left out; every other word of the typed edition is kept.
 - Laws from Legispan (parts 30-acts-*): only laws whose Legispan record lists no affecting norm (no modification, repeal, suspension or regulation recorded) are built, each as one version, the law as enacted, which is then also its text in force; laws Legispan records as affected are left out until their current text can be shown.
 - Laws from Legispan: each is dated by its promulgation in the Gaceta Oficial (the record's Gaceta date); where a law sets a later day for its entry into force, that later day is not modelled.
 - Laws from Legispan: only the Asamblea Nacional's typed edition in the Legispan PDF is read (pages with a text layer after the scanned Gaceta pages); the scanned pages are not read and no OCR is used; a PDF with an invisible OCR layer, or with no typed edition, is left out.
@@ -388,6 +499,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - none
 - none
