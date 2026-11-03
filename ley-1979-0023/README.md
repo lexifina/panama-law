@@ -1,0 +1,16 @@
+# Ley 23 de 1979: Por la cual se crea el juzgado quinto de trabajo de primera seccion y el juzgado tercero de trabajo de segunda seccion.
+
+Ley 23 de 1979 · 1 versions, from 1979-09-26 (latest in force: 1979-09-26) · <https://legispan.asamblea.gob.pa/norms/28fd0ffe-103c-4820-b3da-283f928a7e42>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 1 | [art-001.md](art-001.md) | 0 |  |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Artículo 3 | [art-003.md](art-003.md) | 0 |  |
+| Artículo 4 | [art-004.md](art-004.md) | 0 |  |
+| Artículo 5 | [art-005.md](art-005.md) | 0 |  |
+| Artículo 6 | [art-006.md](art-006.md) | 0 |  |
+| Artículo 7 | [art-007.md](art-007.md) | 0 |  |
+| Artículo 8 | [art-008.md](art-008.md) | 0 |  |
+| Encabezado | [encabezado.md](encabezado.md) | 0 |  |
+| Comuníquese y cúmplase | [firma.md](firma.md) | 0 |  |

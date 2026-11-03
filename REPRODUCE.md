@@ -11,6 +11,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Legispan, Asamblea Nacional de Panamá: Leyes | <https://legispan.asamblea.gob.pa/> | 2026-11-03 | No licence or terms of use stated (the site states only a privacy policy). Laws are official texts, reproduced as published. |
 | Legispan, Asamblea Nacional de Panamá: Leyes | <https://legispan.asamblea.gob.pa/> | 2026-11-03 | No licence or terms of use stated (the site states only a privacy policy). Laws are official texts, reproduced as published. |
 | Legispan, Asamblea Nacional de Panamá: Leyes | <https://legispan.asamblea.gob.pa/> | 2026-11-03 | No licence or terms of use stated (the site states only a privacy policy). Laws are official texts, reproduced as published. |
+| Legispan, Asamblea Nacional de Panamá: Leyes | <https://legispan.asamblea.gob.pa/> | 2026-11-03 | No licence or terms of use stated (the site states only a privacy policy). Laws are official texts, reproduced as published. |
 | Órgano Judicial de Panamá: Ley 63 de 2008, Código Procesal Penal (Legispan copy of Gaceta Oficial 26114) | <https://www.organojudicial.gob.pa/uploads/wp_repo/uploads/2016/11/C%C3%B3digo-Procesal-Penal.pdf> | 2026-10-30 | No licence stated; official legal text as published in the Gaceta Oficial. |
 | Órgano Judicial de Panamá: Código del Trabajo (Decreto de Gabinete 252 de 1971, con las modificaciones de la Ley 44 de 1995), edición del Ministerio de Trabajo y Desarrollo Laboral (Proyecto MATAC / OIT) | <https://www.organojudicial.gob.pa/uploads/wp_repo/uploads/2016/11/c%C3%B3digo-detrabajo.pdf> | 2026-10-30 | No licence stated; official legal text. |
 
@@ -619,22 +620,202 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-2004-0052` | Ley 52 de 2004: Que modifica los literales b y c, adiciona el literal d y modifica el ultimo parrafo del numeral 1 del articulo 3 de la ley 20 de 1995, del fondo fiduciario para el desarrollo. | 1 | 2004-10-21 to 2004-10-21 |
 | `ley-2004-0055` | Ley 55 de 2004: Que autoriza al banco nacional de panama para que adopte medidas relacionadas con el estado de urgencia temporal de la urbanizacion prados del este. | 1 | 2004-11-25 to 2004-11-25 |
 | `ley-2004-0057` | Ley 57 de 2004: Que modifica un articulo de la ley 20 de 1995, del fondo fiduciario para el desarrollo y un articulo de la ley 54 de 2004, que dicta el presupuesto del estado de 2005. | 1 | 2004-12-22 to 2004-12-22 |
+| `ley-1932-0046` | Ley 46 de 1932: Por la cual se crean comisiones permanentes en la asamblea nacional. | 1 | 1932-12-30 to 1932-12-30 |
+| `ley-1959-0018` | Ley 18 de 1959: Por la cual se dictan disposiciones en relacion con las cuentas bancarias cifradas. | 1 | 1959-02-20 to 1959-02-20 |
+| `ley-1972-0004` | Ley 4 de 1972: Por la cual se exonera transitoriamente del pago de impuesto de importacion, los pavos refrigerados y los jamones picnic con hueso. | 1 | 1972-12-11 to 1972-12-11 |
+| `ley-1972-0005` | Ley 5 de 1972: Por la cual se adiciona el arancel de importacion con un nuevo numeral 413- 02-01. | 1 | 1972-12-11 to 1972-12-11 |
+| `ley-1972-0008` | Ley 8 de 1972: Por la cual se autoriza el ajuste de las cuotas de los organismos internacionales. | 1 | 1972-12-28 to 1972-12-28 |
+| `ley-1972-0009` | Ley 9 de 1972: Por la cual se autoriza la conversion de deuda pendiente del gobierno nacional con el banco nacional de panama. | 1 | 1972-12-28 to 1972-12-28 |
+| `ley-1973-0017` | Ley 17 de 1973: Por la cual se modifica el articulo 11 de la ley 50 de 31 de enero de 1963, modificado por el decreto ley no. 14 de 23 de septiembre de 1965. | 1 | 1973-02-28 to 1973-02-28 |
+| `ley-1973-0019` | Ley 19 de 1973: POR LA CUAL SE MODIFICA EL DECRETO DE GABINETE Nº 256 DE 16 DE JULIO DE 1970, MODIFICADO POR EL DECRETO DE GABINETE 345 DE 12 DE NOVIEMBRE DE 1970. | 1 | 1973-03-01 to 1973-03-01 |
+| `ley-1973-0020` | Ley 20 de 1973: POR LA CUAL SE MODIFICAN ALGUNOS ARTICULOS DEL DECRETO DE GABINETE Nº 238 DE 2 DE JULIO DE 1970. | 1 | 1973-03-01 to 1973-03-01 |
+| `ley-1973-0027` | Ley 27 de 1973: POR LA CUAL SE REFORMA EL ACAPITE "L" DEL ARTICULO 14, EL ARTICULO 15 Y SE ADICIONA UN ARTICULO AL DECRETO DE GABINETE Nº 13 DE 22 DE ENERO DE 1969. | 1 | 1973-05-09 to 1973-05-09 |
+| `ley-1973-0039` | Ley 39 de 1973: Por la cual se concede una autorizacion. | 1 | 1973-06-05 to 1973-06-05 |
+| `ley-1973-0087` | Ley 87 de 1973: Por la cual se autoriza emision de bonos agrarios. | 1 | 1973-10-04 to 1973-10-04 |
+| `ley-1973-0088` | Ley 88 de 1973: Por la cual se autoriza la concertacion de un emprestito. | 1 | 1973-10-04 to 1973-10-04 |
+| `ley-1973-0096` | Ley 96 de 1973: Por la cual se modifica el paragrafo del articulo i de la ley n° 64 de 1961. | 1 | 1973-10-22 to 1973-10-22 |
+| `ley-1973-0103` | Ley 103 de 1973: Por la cual se reforman los articulos 7° y 8° de la ley n°10 de 25 de enero de 1973. (crea el banco hipotecario nacional) | 1 | 1973-10-22 to 1973-10-22 |
+| `ley-1973-0104` | Ley 104 de 1973: Por la cual se reforma el articulo 33 del decreto de gabinete 238 de 2 de julio de 1970 (reforma el regimen bancario y se crea la comision bancaria nacional). | 1 | 1973-10-22 to 1973-10-22 |
+| `ley-1974-0017` | Ley 17 de 1974: AUTORIZA AL ORGANO EJE. A CELEBRAR UN CONTRATO CON LA SOCIEDAD ANONIMA DENOMINADA PLARIS,S.A., MEDIANTE EL CUAL SE MODIFICA EL CONTRATO Nº54 DE 10 DE JUNIO DE 1971 CELEBRADO ENTRE LA NACION Y PLARIS,S.A. | 1 | 1974-02-06 to 1974-02-06 |
+| `ley-1974-0021` | Ley 21 de 1974: POR LA CUAL SE MODIFICA EL ARTICULO 2º DE LA LEY Nº 35 DE 29 DE ENERO DE 1963. (QUE REGLAMENTA EL ARTICULO 209, ORDINAL 1º DE LA CONTITUCION NACIONAL DE 1946) | 1 | 1974-02-21 to 1974-02-21 |
+| `ley-1974-0025` | Ley 25 de 1974: Por la cual se elimina un cargo y se crea otro en el ministerio de relacio nes exteriores. | 1 | 1974-03-14 to 1974-03-14 |
+| `ley-1974-0028` | Ley 28 de 1974: Por la cual se modifica y se adiciona articulos (1, 10, 11, 38, 45, 46, 48, 60) de la ley 93 de 4 de octubre de 1973. (sobre arrendamientos y creacion de la direccion general de arrendamiento). | 1 | 1974-03-18 to 1974-03-18 |
+| `ley-1974-0029` | Ley 29 de 1974: Por la cual se modifican los articulos 642, 643, 646, y 647 del codigo fiscal y se dictan otras disposiciones. (agente corredor de aduanas) | 1 | 1974-03-20 to 1974-03-20 |
+| `ley-1974-0030` | Ley 30 de 1974: POR LA CUAL SE MODIFICA EL ORDINAL 2º (IMPUESTO DE EXPORTACION AL GUINEO O BANANO) DEL ARTICULO 585 DEL CODIGO FISCAL. | 1 | 1974-03-28 to 1974-03-28 |
+| `ley-1974-0032` | Ley 32 de 1974: Por la cual se toman medidas sobre remuneraciones en cargos publicos. | 1 | 1974-04-04 to 1974-04-04 |
+| `ley-1974-0036` | Ley 36 de 1974: Mediante la cual se refuerzan la oficina de regulacion de precios, a fin de que pueda ejecutar en forma efectiva el control de precios y salarios. | 1 | 1974-04-09 to 1974-04-09 |
+| `ley-1974-0041` | Ley 41 de 1974: Por la cual se crea un cargo en el servicio exterior. | 1 | 1974-05-10 to 1974-05-10 |
+| `ley-1974-0044` | Ley 44 de 1974: Por la cual se elimina un cargo y se crea otro en el ministerio de relacio nes exteriores. | 1 | 1974-05-13 to 1974-05-13 |
+| `ley-1974-0053` | Ley 53 de 1974: Por la cual se crean tres cargos en el ministerio de relaciones exteriores. | 1 | 1974-06-25 to 1974-06-25 |
+| `ley-1974-0057` | Ley 57 de 1974: Autoriza la celebracion de un contrato con el smithsonian tropical institute | 1 | 1974-06-26 to 1974-06-26 |
+| `ley-1974-0058` | Ley 58 de 1974: MODIFICA EL ARTICULO SEGUNDO DEL DECRETO DE GABINETE Nº36 DEL 24 DE FEBRERO DE 1972 | 1 | 1974-06-27 to 1974-06-27 |
+| `ley-1974-0038` | Ley 38 de 1974: Por la cual se adiciona un parrafo al articulo 956 (impuesto de timbres-disposiciones generales) del codigo fiscal. | 1 | 1974-09-11 to 1974-09-11 |
+| `ley-1974-0081` | Ley 81 de 1974: Por la cual se concede una facultad al organo ejecutivo y se derogan disposiciones del decreto de gabinete n° 68, de 13 de marzo de 1969, y del decreto de gabinete n° 148, de 6 de junio de 1969. | 1 | 1974-10-21 to 1974-10-21 |
+| `ley-1974-0089` | Ley 89 de 1974: Por la cual se modifica el decreto de gabinete 256 de 1970 (crea el fondo de pre-inversion) modificado por decreto de gabinete 345 de 1970 y la ley 19 de 1973. | 1 | 1974-11-26 to 1974-11-26 |
+| `ley-1974-0103` | Ley 103 de 1974: Por la cual se transfiere el ferrocarril nacional de chiriqui al ministerio de obras publicas. | 1 | 1975-01-31 to 1975-01-31 |
+| `ley-1974-0107` | Ley 107 de 1974: Por la cual se modifican los articulos 835 y 1072 del codigo fiscal, y se establece una disposicion transitoria. | 1 | 1975-02-05 to 1975-02-05 |
+| `ley-1974-0111` | Ley 111 de 1974: Por la cual se declara de utilidad publica un area en la peninsula de vacamonte para el desarrollo de un puerto pesquero. | 1 | 1975-02-06 to 1975-02-06 |
+| `ley-1975-0003` | Ley 3 de 1975: Por la cual se autoriza al organo ejecutivo celebrar a nombre de la nacion, contrato con la sociedad denominada "panama exploration, inc. | 1 | 1975-02-26 to 1975-02-26 |
+| `ley-1975-0012` | Ley 12 de 1975: Por la cual se adiciona un paragrafo en el articulo 446 del codigo fiscal. (sobre obligaciones de los cargadores o remitentes que del extranjero envien mercaderias a la republica por conducto distinto del correo) | 1 | 1975-03-20 to 1975-03-20 |
+| `ley-1975-0013` | Ley 13 de 1975: Por la cual se autoriza al organo ejecutivo para emitir una serie de bonos del estado | 1 | 1975-03-24 to 1975-03-24 |
+| `ley-1975-0009` | Ley 9 de 1975: Por la cual se adiciona el ordinal 9 (equipo, instrumentos y aparatos medicos, maquinarias y materiales de construccion para hospitales) al articulo 535 (impuesto de importacion) del codigo fiscal y se dictan otras disposiciones. | 1 | 1975-04-28 to 1975-04-28 |
+| `ley-1975-0014` | Ley 14 de 1975: Autoriza al organo ejecutivo reglamentar actividades y ubicacion de empresas dedicadas a la pesca, procesamiento, almacenamiento, comercializacion del atun, camarones en escala industrial o a la construccion de naves pesqueras. | 1 | 1975-05-02 to 1975-05-02 |
+| `ley-1975-0024` | Ley 24 de 1975: Por la cual se establecen normas tributarias y se otorgan incentivos fiscales a las empresas de la zona libre de colon. | 1 | 1975-05-02 to 1975-05-02 |
+| `ley-1975-0018` | Ley 18 de 1975: Por la cual se adiciona al codigo fiscal el articulo 1172-g transitorio | 1 | 1975-05-07 to 1975-05-07 |
+| `ley-1975-0019` | Ley 19 de 1975: Por la cual se autoriza la acuñacion de monedas numismaticas y se adiciona, con caracter transitorio, los articulos 1172-h y 1179-a al codigo fiscal. | 1 | 1975-05-09 to 1975-05-09 |
+| `ley-1975-0021` | Ley 21 de 1975: Por la cual se autoriza al organo ejecutivo para emitir una serie de bonos del estado. | 1 | 1975-05-15 to 1975-05-15 |
+| `ley-1975-0022` | Ley 22 de 1975: Modifica la ley 104 de 30 de diciembre de 1974. (por la cual se establece un impuesto (5%) de los premios pagados por los bingos nacionales y el hipodromo presidente remon y en los juegos de suerte y azar permitidos por la ley) | 1 | 1975-05-19 to 1975-05-19 |
+| `ley-1975-0017` | Ley 17 de 1975: Por la cual se autoriza a la caja de seguro social, bancos, compañias de seguros autorizadas para operar en el ramo de vida, asociaciones de ahorros y prestamos, para recibir y administrar los aportes para la prima de antiguedad, prevista en... | 1 | 1975-05-26 to 1975-05-26 |
+| `ley-1975-0026` | Ley 26 de 1975: POR LA CUAL SE DEROGAN LOS ARTICULOS 2º, 3º Y 4º DE LA LEY Nº1 DE 3 DE ENERO DE 1949. (LEGISLA LA MATERIA A QUE SE REFIERE DECRETO LEY 21 DE 9 DE SEPTIEMBRE DE 1948, AUTORIZA ENAJENACION DE VARIOS LOTES DE TERRENO) | 1 | 1975-06-16 to 1975-06-16 |
+| `ley-1975-0033` | Ley 33 de 1975: Por la cual se autoriza una emision de pagares del estado. | 1 | 1975-08-01 to 1975-08-01 |
+| `ley-1975-0034` | Ley 34 de 1975: POR LA CUAL SE CONCEDE UNA EXONERACION DE IMPUESTOS, GRAVAMENES, CARGOS, RETENCIONES A LOS PAGOS A CAPITAL, INTERESES O CUALQUIER CANTIDAD ADEUDADA POR RAZON DEL EMPRESTITO AUTORIZADO POR LA RESOLUCION DE GABINETE Nº 15 DE 1975. | 1 | 1975-08-04 to 1975-08-04 |
+| `ley-1975-0037` | Ley 37 de 1975: POR LA CUAL SE SUBROGA EL PARRAFO 1º DEL ARTICULO 12 (COMPOSICION DE LA JUNTA DIRECTIVA) DEL DECRETO DE GABINETE Nº 235 DE 30 DE JULIO DE 1969. (ORGANICA DEL INSTITUTO DE RECURSOS HIDRAULICOS Y ELECTRIFICACION) | 1 | 1975-08-13 to 1975-08-13 |
+| `ley-1975-0038` | Ley 38 de 1975: Por la cual se subroga el articulo 111 de la ley 61 de 1947 ( aprueba el libro primero del codigo judicial- organizacion judicial ) y se adoptan otras medidas. | 1 | 1975-08-13 to 1975-08-13 |
+| `ley-1975-0039` | Ley 39 de 1975: Por el cual se prorroga el plazo para el pago de creditos fiscales vencidos. (hasta el 31 de octubre de 1975, el plazo concedido a los contribuyentes para pagar creditos fiscales no pagado al 1 de enero de 1975). | 1 | 1975-08-13 to 1975-08-13 |
+| `ley-1975-0042` | Ley 42 de 1975: POR LA CUAL SE REFORMAN LOS ARTICULOS 10, 11 DEL DECRETO LEY Nº 22 DEL 15 DE SEPTIEMBRE DE 1960, ORGANICO DEL INSTITUTO PANAMEÑO DE TURISMO. | 1 | 1975-08-19 to 1975-08-19 |
+| `ley-1975-0043` | Ley 43 de 1975: Por la cual se adiciona nuevo numeral al arancel de importacion. (655-06-6 redes para la pesca de atun de cualquier fibra textil...0.25 k.b.11% a. v.) | 1 | 1975-08-19 to 1975-08-19 |
+| `ley-1975-0044` | Ley 44 de 1975: Por la cual se adicionan y modifican varios numerales del arancel de importacion y se toman otras medidas. | 1 | 1975-08-19 to 1975-08-19 |
+| `ley-1975-0046` | Ley 46 de 1975: Por la cual se modifican disposiciones del codigo fiscal y se deroga el articulo primero de la ley 84 de 28 de diciembre de 1961. | 1 | 1975-08-22 to 1975-08-22 |
+| `ley-1975-0048` | Ley 48 de 1975: Por la cual se modifica el articulo 1057-r del codigo fiscal. (del impuesto a las bebidas gaseosas) | 1 | 1975-08-27 to 1975-08-27 |
+| `ley-1975-0050` | Ley 50 de 1975: POR MEDIO DE LA CUAL SE DA UNA AUTORIZACION AL ORGANO EJECUTIVO, SE DICTAN ALGUNAS MEDIDAS, SE APRUEBA UN CONVENIO Y SE DEROGA LA LEY Nº 31 DE 1975. (RECONOCE A PABONIA,S.A. INVERSION POR EXPLORACION MINAS DE CERRO COLORADO) | 1 | 1975-09-04 to 1975-09-04 |
+| `ley-1975-0052` | Ley 52 de 1975: Por la cual se autoriza al organo ejecutivo para emitir y ordenar la acuñacion de monedas fraccionarias de panama hasta por la suma de b/.1,500.000.00 con las modalidades descritas en el articulo 1179 del codigo fiscal. | 1 | 1975-09-11 to 1975-09-11 |
+| `ley-1975-0055` | Ley 55 de 1975: Por la cual se concede una exoneracion de impuestos, gravamenes, cargos, retenciones sobre los pagos a capital, intereses o cualquiera cantidad adeudada por razon del emprestito autorizado por la resolucion de gabinete 21 de 1975 | 1 | 1975-10-02 to 1975-10-02 |
+| `ley-1975-0056` | Ley 56 de 1975: Por medio de la cual se regula el ejercicio de la psicologia en el territorio nacional. | 1 | 1975-10-15 to 1975-10-15 |
+| `ley-1975-0057` | Ley 57 de 1975: Por la cual se modifican y se adiciona algunos numerales en el arancel de importacion. | 1 | 1975-10-16 to 1975-10-16 |
+| `ley-1975-0058` | Ley 58 de 1975: Por la cual se autoriza la construccion de un relleno y se concede la facultad al organo ejecutivo para traspasar el lote que resulte al instituto panameño de turismo (ipat). | 1 | 1975-10-17 to 1975-10-17 |
+| `ley-1975-0060` | Ley 60 de 1975: Por la cual se exonera transitoriamente del pago de impuesto de importacion a los jamones pic-nic con hueso. | 1 | 1975-11-13 to 1975-11-13 |
+| `ley-1975-0061` | Ley 61 de 1975: Autoriza la emision de pagare del estado hasta por b/.3,942.307.06, a un plazo de 12 años, destinados al pago de la segunda partida del decimo tercermes de la vigencia de 1975 al banco hipotecario nacional. | 1 | 1975-11-20 to 1975-11-20 |
+| `ley-1975-0062` | Ley 62 de 1975: Mediante la cual se dictan medidas encaminadas a incrementar la participacion de la republica de panama en el banco interamericano de desarrollo en el fondo de operaciones especiales. | 1 | 1975-11-26 to 1975-11-26 |
+| `ley-1975-0063` | Ley 63 de 1975: POR LA CUAL SE ADICIONA LA LEY Nº90 DE 10 DE OCTUBRE DE 1974.(POR LA CUAL SE DECLARA EL 28 DE NOVIEMBRE COMO DIA DEL BOMBERO) | 1 | 1975-12-01 to 1975-12-01 |
+| `ley-1975-0066` | Ley 66 de 1975: Por la cual se establecen unos incentivos a la industria de la construccion. (extiende por 10 años el plazo de la exoneracion del pago del impuesto de inmueble concedido por el ordinal 10 del articulo 764 del codigo fiscal) | 1 | 1975-12-24 to 1975-12-24 |
+| `ley-1975-0069` | Ley 69 de 1975: POR LA CUAL SE MODIFICA EL ARTICULO 5 DE LA LEY Nº10 DE 25 DE ENERO DE 1973.(POR LA CUAL SE CREA EL BANCO HIPOTECARIO NACIONAL) | 1 | 1975-12-24 to 1975-12-24 |
+| `ley-1975-0073` | Ley 73 de 1975: Autoriza la emision de pagares hasta b/.3,471.328.50 para pagar cuentas al irhe, en concepto de servicios basicos rendidos al gobierno nacional y otras instituciones del estado durante los años 1973, 1974 y hasta octubre de 1975 | 1 | 1975-12-29 to 1975-12-29 |
+| `ley-1975-0067` | Ley 67 de 1975: Por la cual se adiciona se elimina y se modifican algunos numerales del arancel de importacion. | 1 | 1975-12-31 to 1975-12-31 |
+| `ley-1975-0074` | Ley 74 de 1975: El gobierno nacional asumira las obligaciones provenientes de los contratos que se pacten por la direccion de aeronautica civil y el instituto de recursos hidraulicos y electrificacion con el fondo de inversiones de venezuela. | 1 | 1976-01-05 to 1976-01-05 |
+| `ley-1975-0076` | Ley 76 de 1975: Por la cual se autoriza al instituto de recursos hidraulicos y electrificacion a celebrar contratos con a. b. (skanska cementjuteriet, asea, bofors - nohab y (vbb) vattenbyggnadsbyran. | 1 | 1976-02-11 to 1976-02-11 |
+| `ley-1975-0075` | Ley 75 de 1975: Por la cual se modifica el articulo 9 (facultad para contratar emprestitos) del decreto de gabinete 235 de 30 de julio de 1969 (organica del instituto de recursos hidraulicos y electrificacion) | 1 | 1976-02-13 to 1976-02-13 |
+| `ley-1975-0077` | Ley 77 de 1975: Autoriza la negociacion de convenio de credito del irhe con skandinaviskaenskilda banken y otras entidades de credito, para el financiamiento del costo del proyecto hidroelectrico la estrella-los valles en chiriqui. | 1 | 1976-02-13 to 1976-02-13 |
+| `ley-1976-0012` | Ley 12 de 1976: POR LA CUAL SE MODIFICA EL ORDINAL 2º DEL ART. 585 DE CODIGO FISCAL Y DEROGA EN TODAS SUS PARTES LA LEY Nº 4 DE 7 DE ENERO DE 1976. (IMPUESTO DE EXPORTACION DE BANANO) | 1 | 1976-03-31 to 1976-03-31 |
+| `ley-1976-0023` | Ley 23 de 1976: Por la cual se modifican, adicionan y eliminan varios numerales del arancel de importacion y de la ley 87 de 9 de octubre de 1974. | 1 | 1976-04-27 to 1976-04-27 |
+| `ley-1976-0024` | Ley 24 de 1976: Por la cual se da una autorizacion a la empresa estatal de cemento "bayano". | 1 | 1976-05-03 to 1976-05-03 |
+| `ley-1976-0029` | Ley 29 de 1976: Por la cual se modifica el acapite b) del articulo 19 del decreto ley 18 de 17 de junio de 1948 y se deroga el articulo 26 del mismo. | 1 | 1976-06-16 to 1976-06-16 |
+| `ley-1976-0028` | Ley 28 de 1976: Por la cual se adiciona el articulo 585 del codigo fiscal con un nuevo ordinal. | 1 | 1976-06-21 to 1976-06-21 |
+| `ley-1976-0042` | Ley 42 de 1976: Por la cual se modifica el articulo 739 del codigo fiscal. (certificado de paz y salvo con el tesoro nacional y la caja de seguro social, para la autorizacion por funcionarios publicos o particulares de ciertos actos o contratos) | 1 | 1976-08-10 to 1976-08-10 |
+| `ley-1976-0046` | Ley 46 de 1976: Por la cual se concede una autorizacion especial al instituto de recursos hidraulicos y electrificacion, para contratar en forma directa el suministro, montaje y financiamiento de lineas de transmision y subestaciones. | 1 | 1976-08-24 to 1976-08-24 |
+| `ley-1976-0051` | Ley 51 de 1976: Por la cual se autoriza la emision de pagares. | 1 | 1976-09-14 to 1976-09-14 |
+| `ley-1976-0050` | Ley 50 de 1976: POR LA CUAL SE SUBROGA EL ARTICULO 9º DE LA LEY 8 DE 1925 (ESTABLECE PROCEDIMIENTO PARA LA NACIONALIZACION Y ARQUEO DE NAVES Y SE DICTAN OTRAS DISPOSICIONES) Y SE ADICIONA UN ARTICULO | 1 | 1976-09-15 to 1976-09-15 |
+| `ley-1976-0055` | Ley 55 de 1976: Por la cual se modifican los articulos 5 y 6 de la ley 97 de 1973, los articulos 10 y 64 de la ley 93 de 1973 y se toman otras medidas. | 1 | 1976-10-01 to 1976-10-01 |
+| `ley-1976-0048` | Ley 48 de 1976: Por la cual se modifica el numeral 656-01-01 (bolsas y sacos para empacar de cualquier fibra textil, con y sin impresiones, nuevos o usados...b/1.00 k.b. o 60% a.v, y se elimina el numeral 656-01-02 del arancel de importacion. | 1 | 1976-10-04 to 1976-10-04 |
+| `ley-1976-0066` | Ley 66 de 1976: Por medio de la cual se reglamenta la fortificacion de la azucar refinada y turbinada con vitamina "a". | 1 | 1976-12-21 to 1976-12-21 |
+| `ley-1976-0069` | Ley 69 de 1976: Mediante la cual se establece un regimen especial provisional de depreciacion provisional de activos fijos, para las empresas que construyan o contraten la construccion de edificaciones y cumplan los requisitos de esta ley. | 1 | 1976-12-30 to 1976-12-30 |
+| `ley-1976-0070` | Ley 70 de 1976: Mediante la cual se otorgan incentivos a la capitalizacion de utilidades retenidas. | 1 | 1976-12-30 to 1976-12-30 |
+| `ley-1976-0071` | Ley 71 de 1976: Se modifican articulos de la ley 108 de 30 de diciembre de 1974. (por la cual se otorga incentivos a la exportacion y se crean los certificados de abono tributario) | 1 | 1976-12-30 to 1976-12-30 |
+| `ley-1976-0077` | Ley 77 de 1976: Por la cual se adiciona el articulo 318-a al codigo fiscal. (tasa unica anual de sociedades anonimas) | 1 | 1976-12-31 to 1976-12-31 |
+| `ley-1976-0082` | Ley 82 de 1976: POR LA CUAL SE MODIFICA EL ARTICULO SEGUNDO DEL DECRETO DE GABINETE Nº 36 DEL 12 DE FEBRERO DE 1970. | 1 | 1976-12-31 to 1976-12-31 |
+| `ley-1976-0083` | Ley 83 de 1976: Por la cual se adoptan normas que introducen modificaciones relativas al regimen organico del instituto panameño de turismo. | 1 | 1976-12-31 to 1976-12-31 |
+| `ley-1976-0089` | Ley 89 de 1976: Por la cual se adoptan medidas para el ajuste de precios en el valor de las obras o actividades de construccion. | 1 | 1976-12-31 to 1976-12-31 |
+| `ley-1976-0092` | Ley 92 de 1976: POR LA CUAL SE MODIFICA EL ARTICULO 36 DEL DECRETO DE GABINETE No. 413 DE 30 DE DICIEMBRE DE 1970 MODIFICADO POR EL ARTICULO 19 DEL DECRETO DE GABINETE No. 172 DE AGOSTO DE 1971. | 1 | 1976-12-31 to 1976-12-31 |
+| `ley-1976-0096` | Ley 96 de 1976: Por la cual se modifican algunos numerales del arancel de importacion. (gasolina de 87 y 95 octano) | 1 | 1977-01-18 to 1977-01-18 |
+| `ley-1977-0005` | Ley 5 de 1977: POR LA CUAL SE MODIFICA EL ARTICULO 4º DEL DECRETO DE GABINETE Nº71 DE 13 DEMARZO DE 1969. (POR EL CUAL SE TRASPASA A TITULO ONEROSO UN LOTE DE TERRENO A LA ASOCIACION PANAMEÑA DE EJECUTIVOS DE EMPRESA) | 1 | 1977-02-08 to 1977-02-08 |
+| `ley-1977-0007` | Ley 7 de 1977: Por la cual se modifica el paragrafo del articulo 535 del codigo fiscal (impuesto de importacion) y se adiciona un paragrafo al articulo 879 (impuesto de fabricacion de licores) de dicha excerta legal. | 1 | 1977-02-15 to 1977-02-15 |
+| `ley-1977-0008` | Ley 8 de 1977: Por la cual se autoriza la constitucion y funcionamiento de la comercializadora multinacional de banano, s.a. (comunbana). | 1 | 1977-02-28 to 1977-02-28 |
+| `ley-1977-0010` | Ley 10 de 1977: Por la cual se modifica un articulo de la ley numero 3 de 20 de enero de 1977. | 1 | 1977-03-18 to 1977-03-18 |
+| `ley-1977-0046` | Ley 46 de 1977: Por la cual se crea la corporacion agroindustrial de azuero. | 1 | 1977-12-12 to 1977-12-12 |
+| `ley-1978-0007` | Ley 7 de 1978: POR LA CUAL SE DEROGA EL DECRETO DE GABINETE Nº343 DEL 31 DE OCTUBRE DE 1969, SOBRE EJERCICIO DE LA LIBERTAD DE EXPRESION Y RESPONSABILIDAD QUE ENGENDRA. | 1 | 1978-02-14 to 1978-02-14 |
+| `ley-1978-0010` | Ley 10 de 1978: Por la cual se declara de utilidad publica la construccion de la autopista arraijan - la chorrera. | 1 | 1978-02-15 to 1978-02-15 |
+| `ley-1978-0015` | Ley 15 de 1978: Por la cual se autoriza al dr. nicolas ardito barleta, ministro de planificacion y politica economica, o el embajador de la republica de panama ante el reino unido de gran bretaña e irlanda del norte, para la contratacion de un emprestito en el... | 1 | 1978-02-22 to 1978-02-22 |
+| `ley-1978-0001` | Ley 1 de 1978: POR LA CUAL SE DICTA EL PRESUPUESTO DEL GOBIERNO CENTRAL PARA EL AÑO FISCAL COMPRENDIDO ENTRE EL 1º DE ENERO Y EL 31 DE DICIEMBRE DE 1978. | 1 | 1978-02-23 to 1978-02-23 |
+| `ley-1978-0014` | Ley 14 de 1978: Por la cual se crea un fondo especial para el servicio telegrafico. | 1 | 1978-02-28 to 1978-02-28 |
+| `ley-1978-0017` | Ley 17 de 1978: POR LA CUAL SE REFORMA EL ARTICULO 24 DE LA LEY Nº 5 DE 10 DE FEBRERO DE 1978. | 1 | 1978-02-28 to 1978-02-28 |
+| `ley-1978-0016` | Ley 16 de 1978: Por la cual se autoriza la emision de pagare del estado. | 1 | 1978-03-01 to 1978-03-01 |
+| `ley-1978-0023` | Ley 23 de 1978: Por la cual se declara dia de fiesta nacional el 18 de abril de 1978. | 1 | 1978-05-05 to 1978-05-05 |
+| `ley-1978-0026` | Ley 26 de 1978: Por la cual se reconoce una exoneracion de impuesto. (a f. l. smidth & co. a / s de copenhague, dinamarca por contrato para la construccion de la fabrica estatal de cemento en calzada larga, chilibre). | 1 | 1978-05-23 to 1978-05-23 |
+| `ley-1978-0029` | Ley 29 de 1978: Por la cual se autoriza al instituto panameño de turismo para que efectue sobre la playa en el corregimiento de san felipe un relleno y se faculta al organo ejecutivo para traspasar el lote que resulte al ipat. | 1 | 1978-06-13 to 1978-06-13 |
+| `ley-1978-0032` | Ley 32 de 1978: Por la cual se adiciona el articulo 11a al codigo de comercio. (fusion de sociedades constituidas en panama con sociedades extranjeras para constituir una sola sociedad) | 1 | 1978-07-17 to 1978-07-17 |
+| `ley-1978-0037` | Ley 37 de 1978: Por la cual se crea la empresa nacional de maquinarias agricola y se determinan su organizacion y funciones. | 1 | 1978-08-09 to 1978-08-09 |
+| `ley-1978-0047` | Ley 47 de 1978: Por la cual se crea el fondo de fomento, para brindar financiamiento, efectuar aportes de capital o garantizar operaciones de credito a empresas que realicen proyectos de alto riesgo. | 1 | 1978-08-23 to 1978-08-23 |
+| `ley-1978-0050` | Ley 50 de 1978: Se modifica el articulo 1083-a (los consules privativos de la marina mercante quedan facultados para recibir y tramitar solicitudes de inscripcion preliminar de los titulos de la propiedad de las naves) del codigo de comercio. | 1 | 1978-09-12 to 1978-09-12 |
+| `ley-1978-0051` | Ley 51 de 1978: Por la cual se conceden exenciones a los organismos cooperativos internacionales de asesoria, promocion o fomento del cooperativismo. | 1 | 1978-09-12 to 1978-09-12 |
+| `ley-1978-0053` | Ley 53 de 1978: Por la cual se modifican los articulos 1, 4 y 5 y se deroga el articulo 2 de la ley 71 de 20 de septiembre de 1973. (por la cual se dictan medidas sobre areas contiguas a carreteras o caminos) | 1 | 1978-09-13 to 1978-09-13 |
+| `ley-1978-0059` | Ley 59 de 1978: Por la cual se aumenta la pension a los soldados de la independencia y a sus viudas o compañeros. | 1 | 1978-09-25 to 1978-09-25 |
+| `ley-1978-0062` | Ley 62 de 1978: POR LA CUAL SE REFORMA EL ARTICULO 1º DE LA LEY 68 DE 6 DE FEBRERO DE 1963. (SOLDADOS DE COTO). | 1 | 1978-09-25 to 1978-09-25 |
+| `ley-1978-0063` | Ley 63 de 1978: POR LA CUAL SE ADICIONA UN PARAGRAFO AL ORDINAL 10 DEL ARTICULO 2º DEL CODIGO DE COMERCIO. | 1 | 1978-09-25 to 1978-09-25 |
+| `ley-1978-0073` | Ley 73 de 1978: Por la cual se adiciona al codigo fiscal el articulo 1172 - j, transitorio. (monedas) | 1 | 1978-09-26 to 1978-09-26 |
+| `ley-1978-0065` | Ley 65 de 1978: Por la cual se presenta a la asamblea nacional de representante de corregimientos, reformas a los articulo 181 y 217 de la constitucion politica de la republica de panama. | 1 | 1978-09-29 to 1978-09-29 |
+| `ley-1978-0064` | Ley 64 de 1978: POR LA CUAL SE MODIFICAN LOS ARTICULOS 3,4,6, Y SE ADICIONA UN ARTICULO NUE VO A LA LEY Nº99 DE 30 DE DICIEMBRE DE 1974, ORGANICA DE LA EMPRESA ESTATAL DE CEMENTO "BAYANO". | 1 | 1978-10-04 to 1978-10-04 |
+| `ley-1978-0060` | Ley 60 de 1978: Por la cual se reglamenta la visa especial para marinos extranjero que ingrese como tal a la republica de panama, lo hara mediante una visa especial para marinos valida por 30 dias expedida por el departamento de migracion (mgyj) | 1 | 1978-10-17 to 1978-10-17 |
+| `ley-1978-0070` | Ley 70 de 1978: POR LA CUAL SE MODIFICA LA CLAUSULA SEXTA DEL CONTRATO Nº69 DE 5 DE SEPTIEMBRE DE 1973, AUTORIZADA MEDIANTE LA LEY 61 DE 1973. (CON LA SOCIEDAD COBRE PANAMA, S.A. PARA LA EXPLORACION DE MINERALES DE COBRE Y OTROS EN COLON) | 1 | 1978-10-18 to 1978-10-18 |
+| `ley-1978-0076` | Ley 76 de 1978: POR LA CUAL SE MODIFICA LA LEY Nº 20 DE 22 DE ABRIL DE 1975 (POR LA CUAL SE REORGANIZA EL BANCO NACIONAL DE PANAMA), REFORMADA POR LEY Nº 17 DE 9 DE ABRIL DE 1976. | 1 | 1978-10-19 to 1978-10-19 |
+| `ley-1978-0079` | Ley 79 de 1978: Por la cual se reforma la ley 53 de 1951. (por la cual se crea el instituto de panameño de habilitacion especial). | 1 | 1978-10-20 to 1978-10-20 |
+| `ley-1979-0010` | Ley 10 de 1979: Por la cual se toman medidas de aumentos de salarios | 1 | 1979-05-31 to 1979-05-31 |
+| `ley-1979-0011` | Ley 11 de 1979: Por la cual se exonera a la cruz roja nacional del pago de telefonos, gas, luz y agua. | 1 | 1979-06-29 to 1979-06-29 |
+| `ley-1979-0014` | Ley 14 de 1979: Por la cual se autoriza la acuñacion de monedas de interes numismatico y se adiciona, con caracter transitorio el articulo 1172-n al codigo fiscal. | 1 | 1979-07-20 to 1979-07-20 |
+| `ley-1979-0018` | Ley 18 de 1979: POR LA CUAL SE DEROGA EL ARTICULO 20 DEL DECRETO DE GABINETE Nº2 DEL 13 DE ENERO DE 1972, Y SE DICTA OTRA DISPOSICION RELATIVA A LOS CORREGIMIENTOS DE CRISTOBAL Y ANCON, CREADOS MEDIANTE LEY Nº1 DE 17 DE AGOSTO DE 1979. | 1 | 1979-09-21 to 1979-09-21 |
+| `ley-1979-0020` | Ley 20 de 1979: POR LA CUAL SE MODIFICA LA LEY Nº112 DE 30 DE DICIEMBRE DE 1974, SOBRE JUSTICIA ADMINISTRATIVA POLICIAL. | 1 | 1979-09-21 to 1979-09-21 |
+| `ley-1979-0022` | Ley 22 de 1979: Por la cual se crea los juzgados y agencias del ministerio publico en el area del canal de panama. | 1 | 1979-09-24 to 1979-09-24 |
+| `ley-1979-0024` | Ley 24 de 1979: Por la cual se reglamenta la inscripcion de las organizaciones sociales de trabajadores existentes en el area del canal de panama. | 1 | 1979-09-24 to 1979-09-24 |
+| `ley-1979-0025` | Ley 25 de 1979: Por la cual se dictan medidas laborales relacionadas con la entrada en vigencia del tratado del canal de panama. | 1 | 1979-09-24 to 1979-09-24 |
+| `ley-1979-0026` | Ley 26 de 1979: Por la cual se reglamenta los permisos provisionales de trabajo para extranjeros en el area del canal de panama. | 1 | 1979-09-24 to 1979-09-24 |
+| `ley-1979-0019` | Ley 19 de 1979: Por la cual se adiciona el articulo 2067 y se modifica el articulo 2090 del codigo judicial. | 1 | 1979-09-25 to 1979-09-25 |
+| `ley-1979-0023` | Ley 23 de 1979: Por la cual se crea el juzgado quinto de trabajo de primera seccion y el juzgado tercero de trabajo de segunda seccion. | 1 | 1979-09-26 to 1979-09-26 |
+| `ley-1979-0028` | Ley 28 de 1979: Por la cual se reglamenta un permiso temporal de residencia. | 1 | 1979-09-26 to 1979-09-26 |
+| `ley-1979-0030` | Ley 30 de 1979: Por la cual se autoriza la acuñacion de monedas de interes numismatico y se adiciona, con caracter transitorio, el articulo 1172-o al codigo fiscal. | 1 | 1979-10-16 to 1979-10-16 |
+| `ley-1979-0038` | Ley 38 de 1979: Por la cual se otorga derecho a los servidores publicos del ferrocarril de panama para construir una organizacion sindical. | 1 | 1979-10-16 to 1979-10-16 |
+| `ley-1979-0042` | Ley 42 de 1979: Por la cual se regula el transito de buques extranjeros por el mar territorial panameño. | 1 | 1979-10-26 to 1979-10-26 |
+| `ley-1979-0045` | Ley 45 de 1979: POR LA CUAL SE MODIFICA EL ARTICULO 4º DE LA LEY Nº39 DE 8 DE JULIO DE 1976 Y SE ADICIONAN OTROS ARTICULOS AL MISMO TEXTO LEGAL. | 1 | 1979-11-13 to 1979-11-13 |
+| `ley-1979-0049` | Ley 49 de 1979: Por la cual se modifica el articulo 33 de la ley 36 de 27 de septiembre de 1979 | 1 | 1979-12-01 to 1979-12-01 |
+| `ley-1979-0050` | Ley 50 de 1979: Por la cual el sistema estatal de radiodifusion y otros medios de comunicacion social del estado transmitiran las sesiones del consejo nacional de legislacion y de la asamblea nacional de representantes de corregimientos. | 1 | 1979-12-17 to 1979-12-17 |
+| `ley-1979-0052` | Ley 52 de 1979: POR LA CUAL SE LE ADICIONA UN PARAGRAFO A LOS ARTICULOS 8 Y 10 DE LA LEY No. 100 DE 4 DE OCTUBRE DE 1973. | 1 | 1979-12-17 to 1979-12-17 |
+| `ley-1979-0051` | Ley 51 de 1979: POR LA CUAL SE MODIFICA Y ADICIONA ARTICULOS DE LA LEY Nº 94 DE 4 DE OCTUBRE DE 1973. SE ESTABLECE Y REGLAMENTA LA CONTRIBUCION DE MEJORAS POR VALORIZACION. | 1 | 1980-01-23 to 1980-01-23 |
+| `ley-1980-0001` | Ley 1 de 1980: Por la cual se modifica el articulo 5 de la ley 97 de 4 de octubre de 1973. (se establece el descuento obligatorio para el pago de vivienda). | 1 | 1980-02-04 to 1980-02-04 |
+| `ley-1980-0004` | Ley 4 de 1980: Por la cual se crea el fondo de credito para el educador. | 1 | 1980-02-14 to 1980-02-14 |
+| `ley-1980-0005` | Ley 5 de 1980: Por la cual se reconocen los años de servicio en instituciones educativas particulares a educadores que no dependen del ministerio de educacion y se toman otras medidas. | 1 | 1980-02-14 to 1980-02-14 |
+| `ley-1980-0008` | Ley 8 de 1980: Por el cual se otorgan incentivos fiscales a la industria de la construccion | 1 | 1980-03-24 to 1980-03-24 |
+| `ley-1980-0012` | Ley 12 de 1980: Por la cual se dictan medidas sobre aumentos de salarios para los trabajadores de empresas particulares. | 1 | 1980-05-16 to 1980-05-16 |
+| `ley-1980-0016` | Ley 16 de 1980: Por la cual se autoriza la acuñacion de monedas de interes numismatico y se adiciona con caracter transitorio,el articulo 1172-p al codigo fiscal. | 1 | 1980-06-24 to 1980-06-24 |
+| `ley-1980-0018` | Ley 18 de 1980: Por la cual se modifican las leyes 94 de 4 de octubre de 1973 y 51 de 27 de noviembre de 1979. | 1 | 1980-07-08 to 1980-07-08 |
+| `ley-1980-0023` | Ley 23 de 1980: Por la cual se excluye del dominio publico un area de terreno. | 1 | 1980-07-28 to 1980-07-28 |
+| `ley-1980-0026` | Ley 26 de 1980: POR LA CUAL SE ADICIONA EL LITERAL K, AL PARRAFO 8º DEL ARTICULO 1057-V, EL CODIGO FISCAL. | 1 | 1980-08-18 to 1980-08-18 |
+| `ley-1980-0027` | Ley 27 de 1980: Por la cual se modifican unas disposiciones del decreto ley 22 de 1966. | 1 | 1980-09-09 to 1980-09-09 |
+| `ley-1980-0050` | Ley 50 de 1980: Por la cual se modifican los paragrafos 1 y 2 del art. 966 del codigo fiscal, cuya vigencia fue restablecida por el decreto de gabinete 44 de 12 de febrero de 1970. | 1 | 1980-12-04 to 1980-12-04 |
+| `ley-1980-0052` | Ley 52 de 1980: Por la cual se señalan en quinientos balboas (b/. 500.00), los emolumentos que recibiran los honorables representantes de corregimientos. | 1 | 1980-12-04 to 1980-12-04 |
+| `ley-1980-0051` | Ley 51 de 1980: Por medio de la cual la nacion traspasa una finca a la caja de ahorros para la ejecucion de un proyecto de desarrollo urbano en colon. | 1 | 1980-12-09 to 1980-12-09 |
+| `ley-1980-0053` | Ley 53 de 1980: Por la cual se otorgan autorizaciones al organo ejecutivo y al banco nacional de panama, relativas al fondo monetario internacional. | 1 | 1980-12-31 to 1980-12-31 |
+| `ley-1980-0054` | Ley 54 de 1980: POR LA CUAL SE MODIFICAN LOS ARTICULOS 1º Y 186 DE LA LEY 1 DE 26 DE DICIEMBRE DE 1978. | 1 | 1980-12-31 to 1980-12-31 |
+| `ley-1981-0003` | Ley 3 de 1981: Por el cual se toman medidas en torno a la problematica laboral en el territorio nacional. | 1 | 1981-03-05 to 1981-03-05 |
+| `ley-1981-0006` | Ley 6 de 1981: Por la cual se crean dos juzgados de circuito y una agencia del ministerio publico en el circuito judicial de panama y se dictan otras disposiciones. | 1 | 1981-04-20 to 1981-04-20 |
+| `ley-1981-0008` | Ley 8 de 1981: Por la cual se deroga la ley 95 de 31 de diciembre de 1976 (por la cual se modifican algunos articulos del codigo de trabajo) y se dictan otras disposiciones. | 1 | 1981-05-05 to 1981-05-05 |
+| `ley-1981-0007` | Ley 7 de 1981: Por la cual se regula el ejercicio de la profesion de economista en todo el territorio nacional. | 1 | 1981-05-06 to 1981-05-06 |
+| `ley-1981-0009` | Ley 9 de 1981: Por la cual se suspenden transitoriamente algunos articulos de la ley 72 de 15 de diciembre de 1975 y se dictan otras medidas relacionadas con el fondo de cesantia de la construccion. | 1 | 1981-05-08 to 1981-05-08 |
+| `ley-1981-0010` | Ley 10 de 1981: Por la cual se modifica el articulo 46 del codigo de trabajo, incluyendo el 10 y 28 de noviembre como dias de descanso obligatorio por fiesta nacional. | 1 | 1981-06-09 to 1981-06-09 |
+| `ley-1981-0015` | Ley 15 de 1981: Por la cual se le asigna a la hidroelectrica construida sobre el rio bayano, el nombre de: (hidroelectrica ascanio villalaz paz). | 1 | 1981-07-08 to 1981-07-08 |
+| `ley-1981-0001` | Ley 1 de 1981: Por el cual se modifica el articulo n°14 del capitulo ii, del titulo ii, de la ley n°14 de 30 de octubre de 1979. (dicta el reglamento interno de la asamblea nacional de representantes de corregimientos). | 1 | 1981-07-24 to 1981-07-24 |
+| `ley-1982-0003` | Ley 3 de 1982: Se excluye del dominio publico un area de terreno ubicado al sureste de la interseccion entre la carretera a la represa y la carretera boyd roosevelt en la provincia de colon y, se concede una autorizacion al organo ejecutivo | 1 | 1982-03-09 to 1982-03-09 |
+| `ley-1982-0007` | Ley 7 de 1982: Por la cual se modifica el articulo 4 de la ley 18 de 13 de agosto de 1981, que crea la universidad tecnologica de panama. | 1 | 1982-03-25 to 1982-03-25 |
+| `ley-1982-0016` | Ley 16 de 1982: Por la cual se toman medidas sobre salarios para los trabajadores de las empresas constructoras que se rigen por convencion colectiva de trabajo. | 1 | 1982-06-10 to 1982-06-10 |
+| `ley-1982-0017` | Ley 17 de 1982: Por la cual se da el nombre de ernesto j. castillero r., a la biblioteca nacional de panama. | 1 | 1982-07-19 to 1982-07-19 |
+| `ley-1983-0013` | Ley 13 de 1983: Por la cual se declara area de emergencia y de peligro inminente la que comprende los inmuebles condenados por la oficina de seguridad del cuerpo de bomberos y el ministerio de vivienda, situados en las calles 17,18,19, 20 y 21 este, las calles... | 1 | 1983-08-24 to 1983-08-24 |
+| `ley-1983-0014` | Ley 14 de 1983: POR LA CUAL SE MODIFICA EL ARTICULO 13 DE LA LEY Nº11 DE 8 DE JUNIO DE 1981. (LA CUAL REORGANIZA LA UNIVERSIDAD DE PANAMA) | 1 | 1983-08-24 to 1983-08-24 |
+| `ley-1983-0015` | Ley 15 de 1983: Por la cual se crea un juzgado nocturno para el distrito de david. | 1 | 1983-08-29 to 1983-08-29 |
+| `ley-1983-0021` | Ley 21 de 1983: Por la cual se asigna al proyecto hidroelectrico la fortuna el nombre de central hidroelectrica arquitecto edwin fabrega. | 1 | 1983-10-17 to 1983-10-17 |
+| `ley-1983-0027` | Ley 27 de 1983: POR MEDIO DEL CUAL SE MODIFICA EL DECRETO DE GABINETE Nº 189 DE 2 DE SEPTIEMBRE DE 1971. | 1 | 1983-11-25 to 1983-11-25 |
+| `ley-1983-0022` | Ley 22 de 1983: Por la cual se crea la comarca embera de darien. | 1 | 1984-01-17 to 1984-01-17 |
 | `codigo-procesal-penal` | Código Procesal Penal (Ley 63 de 2008) | 1 | 2009-09-02 to 2009-09-02 |
 | `codigo-del-trabajo` | Código del Trabajo (Decreto de Gabinete 252 de 1971) | 1 | 2003-06-26 to 2003-06-26 |
 
-The build made 601 commits:
+The build made 781 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 601 | first version of an act |
+| 781 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
-- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 600 laws in the record.
-- 1199 tags.
+- 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 780 laws in the record.
+- 1559 tags.
 
 ## Dates
 
@@ -646,7 +827,7 @@ When a law gives no date of its own, the default rule applies: This record dates
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `756181fae661d69f52961f08e422237ee089ab1e283cbf518465aa0f880ed71a` (9900577 bytes).
+- Corpus: sha256 `2ed882563a4862c60fe8fd43c325ad4202b03292d22870736b1199f7961e822b` (10949013 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -662,6 +843,10 @@ No second build of this corpus has been compared yet.
 - No dated past versions are online, so there is one version, credited to the publisher as "oldest version available" and dated 15 November 2004, the Gaceta Oficial date of the current Texto Unico.
 - Cleaning: page headers and footers, Title and Chapter headings, and the closing date-and-amendments note were removed; line breaks inside a paragraph were joined (hyphenated words rejoined); typographic quotes normalised. The preamble and articles 1 to 328 are kept.
 - [statutes] Código Penal: one version, the Procuraduría's Texto Único incorporating Ley 70 de 2019, credited to the publisher as oldest version available and dated 11 December 2019, the PDF's own creation date (the source states no commencement date for the consolidation; the Code itself took effect one year after its promulgation, art. 458). Headings (Libro, Título, Capítulo) and page headers were removed; wrapped lines were joined.
+- Laws from Legispan (parts 30-acts-*): only laws whose Legispan record lists no affecting norm (no modification, repeal, suspension or regulation recorded) are built, each as one version, the law as enacted, which is then also its text in force; laws Legispan records as affected are left out until their current text can be shown.
+- Laws from Legispan: each is dated by its promulgation in the Gaceta Oficial (the record's Gaceta date); where a law sets a later day for its entry into force, that later day is not modelled.
+- Laws from Legispan: only the Asamblea Nacional's typed edition in the Legispan PDF is read (pages with a text layer after the scanned Gaceta pages); the scanned pages are not read and no OCR is used; a PDF with an invisible OCR layer, or with no typed edition, is left out.
+- Laws from Legispan: the law's own articles are those that start a paragraph at the left margin and are not in quotation marks; a law whose own articles are not numbered 1..N, each once, in order is left out. Headings printed above an article go in its file; the text before Artículo 1 is in encabezado.md and the closing formula with the signatures in firma.md. Running headers (G.O. number, ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ) and page numbers are left out; every other word of the typed edition is kept.
 - Laws from Legispan (parts 30-acts-*): only laws whose Legispan record lists no affecting norm (no modification, repeal, suspension or regulation recorded) are built, each as one version, the law as enacted, which is then also its text in force; laws Legispan records as affected are left out until their current text can be shown.
 - Laws from Legispan: each is dated by its promulgation in the Gaceta Oficial (the record's Gaceta date); where a law sets a later day for its entry into force, that later day is not modelled.
 - Laws from Legispan: only the Asamblea Nacional's typed edition in the Legispan PDF is read (pages with a text layer after the scanned Gaceta pages); the scanned pages are not read and no OCR is used; a PDF with an invisible OCR layer, or with no typed edition, is left out.
@@ -690,6 +875,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.

@@ -8388,6 +8388,2526 @@
    ]
   },
   {
+   "slug": "ley-1932-0046",
+   "short": "Ley 46 de 1932",
+   "title": "Ley 46 de 1932: Por la cual se crean comisiones permanentes en la asamblea nacional.",
+   "url": "https://legispan.asamblea.gob.pa/norms/c65a5617-4d2c-4b52-ab8a-9508c0b16a6f",
+   "versions": [
+    {
+     "from": "1932-12-30",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1930/1932/LEY/Administrador%20Legispan_06481_1932_12_30_ASAMBLEA%20NACIONAL_46.pdf",
+     "sha256": "b438e7cc5f21069c68bcc215b6cb3c0738fda6c619a21346fe64f3fb0c4b4aa0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1959-0018",
+   "short": "Ley 18 de 1959",
+   "title": "Ley 18 de 1959: Por la cual se dictan disposiciones en relacion con las cuentas bancarias cifradas.",
+   "url": "https://legispan.asamblea.gob.pa/norms/81780a31-a6ef-42ca-ae12-9d96d7941aff",
+   "versions": [
+    {
+     "from": "1959-02-20",
+     "units": 13,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1950/1959/LEY/Administrador%20Legispan_13766_1959_2_20_ASAMBLEA%20NACIONAL_18.pdf",
+     "sha256": "75525516f8767bb82777c90cfb7e8f1c715938bc9ce024aa914e08d62c38d29c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1972-0004",
+   "short": "Ley 4 de 1972",
+   "title": "Ley 4 de 1972: Por la cual se exonera transitoriamente del pago de impuesto de importacion, los pavos refrigerados y los jamones picnic con hueso.",
+   "url": "https://legispan.asamblea.gob.pa/norms/7af50cbc-ce85-439b-86be-c6415da22702",
+   "versions": [
+    {
+     "from": "1972-12-11",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1972/LEY/Administrador%20Legispan_17240_1972_12_11_CONSEJO%20NACIONAL%20DE%20LEGISLACION_4.pdf",
+     "sha256": "3760e1e09cf4ff7e3b340e716955ba4661d4c1ba4280e9c12b9f4d04e237513f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1972-0005",
+   "short": "Ley 5 de 1972",
+   "title": "Ley 5 de 1972: Por la cual se adiciona el arancel de importacion con un nuevo numeral 413- 02-01.",
+   "url": "https://legispan.asamblea.gob.pa/norms/9a869f0b-937d-4be5-9f4c-439cef8dd94c",
+   "versions": [
+    {
+     "from": "1972-12-11",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1972/LEY/Administrador%20Legispan_17240_1972_12_11_CONSEJO%20NACIONAL%20DE%20LEGISLACION_5.pdf",
+     "sha256": "e98cbecd6e152693c0a30a690b5b4387373a65e33ebd5327708df8a60b34da30"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1972-0008",
+   "short": "Ley 8 de 1972",
+   "title": "Ley 8 de 1972: Por la cual se autoriza el ajuste de las cuotas de los organismos internacionales.",
+   "url": "https://legispan.asamblea.gob.pa/norms/9d8734a8-0829-4115-baf9-1794180c01ac",
+   "versions": [
+    {
+     "from": "1972-12-28",
+     "units": 3,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1972/LEY/Administrador%20Legispan_17252_1972_12_28_CONSEJO%20NACIONAL%20DE%20LEGISLACION_8.pdf",
+     "sha256": "7c4a92ee474eab44f4b5d3af0f3e92a4dd6510e9145d7db640fc4f1626c0d956"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1972-0009",
+   "short": "Ley 9 de 1972",
+   "title": "Ley 9 de 1972: Por la cual se autoriza la conversion de deuda pendiente del gobierno nacional con el banco nacional de panama.",
+   "url": "https://legispan.asamblea.gob.pa/norms/6b434cd8-2ad4-45fd-9be2-3fc3b5ebe8a3",
+   "versions": [
+    {
+     "from": "1972-12-28",
+     "units": 8,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1972/LEY/Administrador%20Legispan_17252_1972_12_28_CONSEJO%20NACIONAL%20DE%20LEGISLACION_9.pdf",
+     "sha256": "dbaaa84a3ee423d763f13ecf141f2954c1eb444e7001889ccc1440169f7aad8a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1973-0017",
+   "short": "Ley 17 de 1973",
+   "title": "Ley 17 de 1973: Por la cual se modifica el articulo 11 de la ley 50 de 31 de enero de 1963, modificado por el decreto ley no. 14 de 23 de septiembre de 1965.",
+   "url": "https://legispan.asamblea.gob.pa/norms/8eee5f3d-7e91-4763-9071-83e498a89628",
+   "versions": [
+    {
+     "from": "1973-02-28",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1973/LEY/Administrador%20Legispan_17294_1973_2_28_CONSEJO%20NACIONAL%20DE%20LEGISLACION_17.pdf",
+     "sha256": "8b8a21a88bdef4afcd754e19be7e225d8d5fdf807896ccd0d45718c560dc769a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1973-0019",
+   "short": "Ley 19 de 1973",
+   "title": "Ley 19 de 1973: POR LA CUAL SE MODIFICA EL DECRETO DE GABINETE Nº 256 DE 16 DE JULIO DE 1970, MODIFICADO POR EL DECRETO DE GABINETE 345 DE 12 DE NOVIEMBRE DE 1970.",
+   "url": "https://legispan.asamblea.gob.pa/norms/5fef9e24-d02b-4600-b54c-77f3ed50e32a",
+   "versions": [
+    {
+     "from": "1973-03-01",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1973/LEY/Administrador%20Legispan_17295_1973_3_1_CONSEJO%20NACIONAL%20DE%20LEGISLACION_19.pdf",
+     "sha256": "412039d8d74492a9770e8e8df3ca36011bbceaf45dc802ad7bc4e39d65c56229"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1973-0020",
+   "short": "Ley 20 de 1973",
+   "title": "Ley 20 de 1973: POR LA CUAL SE MODIFICAN ALGUNOS ARTICULOS DEL DECRETO DE GABINETE Nº 238 DE 2 DE JULIO DE 1970.",
+   "url": "https://legispan.asamblea.gob.pa/norms/27d3e3a6-5bc9-43be-b0f8-47d1b130c9f4",
+   "versions": [
+    {
+     "from": "1973-03-01",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1973/LEY/Administrador%20Legispan_17295_1973_3_1_CONSEJO%20NACIONAL%20DE%20LEGISLACION_20.pdf",
+     "sha256": "023c3cd9225f993bbc32483c89b72d5e97a0d6f75c6587308bf20cf87b945a5a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1973-0027",
+   "short": "Ley 27 de 1973",
+   "title": "Ley 27 de 1973: POR LA CUAL SE REFORMA EL ACAPITE \"L\" DEL ARTICULO 14, EL ARTICULO 15 Y SE ADICIONA UN ARTICULO AL DECRETO DE GABINETE Nº 13 DE 22 DE ENERO DE 1969.",
+   "url": "https://legispan.asamblea.gob.pa/norms/2b296649-2536-4d52-b04e-e4faa5813c73",
+   "versions": [
+    {
+     "from": "1973-05-09",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1973/LEY/Administrador%20Legispan_17341_1973_5_9_CONSEJO%20NACIONAL%20DE%20LEGISLACION_27.pdf",
+     "sha256": "6b1fa0eaca3cb72d11c82b4a5f70cb7bf3d957fa5f1d0bd3033031930c1f379c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1973-0039",
+   "short": "Ley 39 de 1973",
+   "title": "Ley 39 de 1973: Por la cual se concede una autorizacion.",
+   "url": "https://legispan.asamblea.gob.pa/norms/28780409-15f5-4b60-8f55-fdcbea5ea1d4",
+   "versions": [
+    {
+     "from": "1973-06-05",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1973/LEY/Administrador%20Legispan_17360_1973_6_5_CONSEJO%20NACIONAL%20DE%20LEGISLACION_39.pdf",
+     "sha256": "b9090620d96b6198b4feaa7680f614b77cf5984b07682185fcc20d4fbf42c187"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1973-0087",
+   "short": "Ley 87 de 1973",
+   "title": "Ley 87 de 1973: Por la cual se autoriza emision de bonos agrarios.",
+   "url": "https://legispan.asamblea.gob.pa/norms/b7378bb9-1eb0-4355-8a14-2acb3658b184",
+   "versions": [
+    {
+     "from": "1973-10-04",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1973/LEY/Administrador%20Legispan_17446_1973_10_4_CONSEJO%20NACIONAL%20DE%20LEGISLACION_87.pdf",
+     "sha256": "87acc6417e20d7ee1bca9810ec4045ea168aaefcbb1d33bc9471d28ce7bb15fe"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1973-0088",
+   "short": "Ley 88 de 1973",
+   "title": "Ley 88 de 1973: Por la cual se autoriza la concertacion de un emprestito.",
+   "url": "https://legispan.asamblea.gob.pa/norms/6278ec4b-d1d8-4a7b-89be-57045a13be81",
+   "versions": [
+    {
+     "from": "1973-10-04",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1973/LEY/Administrador%20Legispan_17446_1973_10_4_CONSEJO%20NACIONAL%20DE%20LEGISLACION_88.pdf",
+     "sha256": "9f587be75ebc683f3caaf5eb2105763919e15d9d7318e230e800e60d6e055c5f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1973-0096",
+   "short": "Ley 96 de 1973",
+   "title": "Ley 96 de 1973: Por la cual se modifica el paragrafo del articulo i de la ley n° 64 de 1961.",
+   "url": "https://legispan.asamblea.gob.pa/norms/344f4cd6-7b6a-409e-ae26-0ca7c971a21e",
+   "versions": [
+    {
+     "from": "1973-10-22",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1973/LEY/Administrador%20Legispan_17456_1973_10_22_CONSEJO%20NACIONAL%20DE%20LEGISLACION_96.pdf",
+     "sha256": "d81d90421d9e4f368217bb6054f8d0f84330d6abc4186cd2f9528d0f1973dcde"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1973-0103",
+   "short": "Ley 103 de 1973",
+   "title": "Ley 103 de 1973: Por la cual se reforman los articulos 7° y 8° de la ley n°10 de 25 de enero de 1973. (crea el banco hipotecario nacional)",
+   "url": "https://legispan.asamblea.gob.pa/norms/26ac46ab-adc1-4e04-8fa0-e1900783296f",
+   "versions": [
+    {
+     "from": "1973-10-22",
+     "units": 3,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1973/LEY/Administrador%20Legispan_17456_1973_10_22_CONSEJO%20NACIONAL%20DE%20LEGISLACION_103.pdf",
+     "sha256": "a301be4f39758d712bd62f7871aa1211682614aa6bd16300245ebd9d235d6284"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1973-0104",
+   "short": "Ley 104 de 1973",
+   "title": "Ley 104 de 1973: Por la cual se reforma el articulo 33 del decreto de gabinete 238 de 2 de julio de 1970 (reforma el regimen bancario y se crea la comision bancaria nacional).",
+   "url": "https://legispan.asamblea.gob.pa/norms/3d222dc9-8eab-433b-8585-ac02499d1ca9",
+   "versions": [
+    {
+     "from": "1973-10-22",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1973/LEY/Administrador%20Legispan_17456_1973_10_22_CONSEJO%20NACIONAL%20DE%20LEGISLACION_104.pdf",
+     "sha256": "ae8efe4d2104eb0b4295fa3d0b543694b3922277d9ffdd126472251485f13ebd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0017",
+   "short": "Ley 17 de 1974",
+   "title": "Ley 17 de 1974: AUTORIZA AL ORGANO EJE. A CELEBRAR UN CONTRATO CON LA SOCIEDAD ANONIMA DENOMINADA PLARIS,S.A., MEDIANTE EL CUAL SE MODIFICA EL CONTRATO Nº54 DE 10 DE JUNIO DE 1971 CELEBRADO ENTRE LA NACION Y PLARIS,S.A.",
+   "url": "https://legispan.asamblea.gob.pa/norms/5e246b6c-4e70-4cdd-96e0-fde24d94b4ee",
+   "versions": [
+    {
+     "from": "1974-02-06",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17528_1974_2_6_CONSEJO%20NACIONAL%20DE%20LEGISLACION_17.pdf",
+     "sha256": "b2b120b7e8a5201a90d38174a81c8b1b07eaa69b391d8434b4288d9cd470085c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0021",
+   "short": "Ley 21 de 1974",
+   "title": "Ley 21 de 1974: POR LA CUAL SE MODIFICA EL ARTICULO 2º DE LA LEY Nº 35 DE 29 DE ENERO DE 1963. (QUE REGLAMENTA EL ARTICULO 209, ORDINAL 1º DE LA CONTITUCION NACIONAL DE 1946)",
+   "url": "https://legispan.asamblea.gob.pa/norms/085cfe5a-01dc-41fb-ba21-727d4e070d08",
+   "versions": [
+    {
+     "from": "1974-02-21",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17539_1974_2_21_CONSEJO%20NACIONAL%20DE%20LEGISLACION_21.pdf",
+     "sha256": "36600b5001ec13b5f28550bc9f6b96f59911e2f968e2c7371368d5dcddee619a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0025",
+   "short": "Ley 25 de 1974",
+   "title": "Ley 25 de 1974: Por la cual se elimina un cargo y se crea otro en el ministerio de relacio nes exteriores.",
+   "url": "https://legispan.asamblea.gob.pa/norms/f6fd38bc-01c2-46cf-905c-6c776389be8e",
+   "versions": [
+    {
+     "from": "1974-03-14",
+     "units": 8,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17552_1974_3_14_CONSEJO%20NACIONAL%20DE%20LEGISLACION_25.pdf",
+     "sha256": "2a4ff249a00adf41bb3a181896e66715f28e842c4cd86bd2c7918e2c43a7cce0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0028",
+   "short": "Ley 28 de 1974",
+   "title": "Ley 28 de 1974: Por la cual se modifica y se adiciona articulos (1, 10, 11, 38, 45, 46, 48, 60) de la ley 93 de 4 de octubre de 1973. (sobre arrendamientos y creacion de la direccion general de arrendamiento).",
+   "url": "https://legispan.asamblea.gob.pa/norms/87167f41-40a3-40fc-81ef-804a68270b7f",
+   "versions": [
+    {
+     "from": "1974-03-18",
+     "units": 11,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17554_1974_3_18_CONSEJO%20NACIONAL%20DE%20LEGISLACION_28.pdf",
+     "sha256": "2e45be3c3165b94a4fedeb0d191fb2d702a0e443a6994b53d9c579fae701b5b7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0029",
+   "short": "Ley 29 de 1974",
+   "title": "Ley 29 de 1974: Por la cual se modifican los articulos 642, 643, 646, y 647 del codigo fiscal y se dictan otras disposiciones. (agente corredor de aduanas)",
+   "url": "https://legispan.asamblea.gob.pa/norms/8ed301ac-a868-4123-b911-c43b49cf97d9",
+   "versions": [
+    {
+     "from": "1974-03-20",
+     "units": 8,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17556_1974_3_20_CONSEJO%20NACIONAL%20DE%20LEGISLACION_29.pdf",
+     "sha256": "26f31d2045ee91303e538d879b64ee4066c636cc4f146bd6d9d1ef3fc7c9f708"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0030",
+   "short": "Ley 30 de 1974",
+   "title": "Ley 30 de 1974: POR LA CUAL SE MODIFICA EL ORDINAL 2º (IMPUESTO DE EXPORTACION AL GUINEO O BANANO) DEL ARTICULO 585 DEL CODIGO FISCAL.",
+   "url": "https://legispan.asamblea.gob.pa/norms/deaa1feb-c66b-42c6-99f3-48a4a10485c3",
+   "versions": [
+    {
+     "from": "1974-03-28",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17562_1974_3_28_CONSEJO%20NACIONAL%20DE%20LEGISLACION_30.pdf",
+     "sha256": "511d96324894e28bc5d764d33bfb20bfdda16944699750acbb6926d8629ff5a9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0032",
+   "short": "Ley 32 de 1974",
+   "title": "Ley 32 de 1974: Por la cual se toman medidas sobre remuneraciones en cargos publicos.",
+   "url": "https://legispan.asamblea.gob.pa/norms/1d03236b-b191-4c28-9db4-b4978d3462ce",
+   "versions": [
+    {
+     "from": "1974-04-04",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17567_1974_4_4_CONSEJO%20NACIONAL%20DE%20LEGISLACION_32.pdf",
+     "sha256": "566d7acd5a24aeadad420658b5612ed2a49c00b4a38c0f5ab9dbb5bba79988f7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0036",
+   "short": "Ley 36 de 1974",
+   "title": "Ley 36 de 1974: Mediante la cual se refuerzan la oficina de regulacion de precios, a fin de que pueda ejecutar en forma efectiva el control de precios y salarios.",
+   "url": "https://legispan.asamblea.gob.pa/norms/ea3a8383-997d-4408-8563-373f172861af",
+   "versions": [
+    {
+     "from": "1974-04-09",
+     "units": 8,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17570_1974_4_9_CONSEJO%20NACIONAL%20DE%20LEGISLACION_36.pdf",
+     "sha256": "9b381761b62f45547da71eae00df00aaabe07f1251a657e8775e41a728fc1576"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0041",
+   "short": "Ley 41 de 1974",
+   "title": "Ley 41 de 1974: Por la cual se crea un cargo en el servicio exterior.",
+   "url": "https://legispan.asamblea.gob.pa/norms/2e5f99d6-9845-4cd7-86fe-9f2077e947a7",
+   "versions": [
+    {
+     "from": "1974-05-10",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17590_1974_5_10_CONSEJO%20NACIONAL%20DE%20LEGISLACION_41.pdf",
+     "sha256": "b052788157b35963c0180897efe9af79fcb593225c3e8356147c81a35da22f29"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0044",
+   "short": "Ley 44 de 1974",
+   "title": "Ley 44 de 1974: Por la cual se elimina un cargo y se crea otro en el ministerio de relacio nes exteriores.",
+   "url": "https://legispan.asamblea.gob.pa/norms/2a2056eb-8f27-4d27-a02f-61db20ef2d3e",
+   "versions": [
+    {
+     "from": "1974-05-13",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17591_1974_5_13_CONSEJO%20NACIONAL%20DE%20LEGISLACION_44.pdf",
+     "sha256": "a69a9b31cb8757192c7e21498cae3343d181aa39dd7aefc2cb3fab826a01e952"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0053",
+   "short": "Ley 53 de 1974",
+   "title": "Ley 53 de 1974: Por la cual se crean tres cargos en el ministerio de relaciones exteriores.",
+   "url": "https://legispan.asamblea.gob.pa/norms/4a7518c7-fcee-4c5e-b2e3-ef166c66bb3c",
+   "versions": [
+    {
+     "from": "1974-06-25",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17622_1974_6_25_CONSEJO%20NACIONAL%20DE%20LEGISLACION_53.pdf",
+     "sha256": "7c3853aa1af3fd8b896277f475c7259f0311920386d55de341de68fa10f65af4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0057",
+   "short": "Ley 57 de 1974",
+   "title": "Ley 57 de 1974: Autoriza la celebracion de un contrato con el smithsonian tropical institute",
+   "url": "https://legispan.asamblea.gob.pa/norms/84f1617a-1e00-47a5-9b89-381c28a17ed6",
+   "versions": [
+    {
+     "from": "1974-06-26",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17623_1974_6_26_CONSEJO%20NACIONAL%20DE%20LEGISLACION_57.pdf",
+     "sha256": "8b82193181bf271e5eef0883dc3fd929372d0727fc97821531eddc045d18dfcc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0058",
+   "short": "Ley 58 de 1974",
+   "title": "Ley 58 de 1974: MODIFICA EL ARTICULO SEGUNDO DEL DECRETO DE GABINETE Nº36 DEL 24 DE FEBRERO DE 1972",
+   "url": "https://legispan.asamblea.gob.pa/norms/18339412-cf55-422d-9322-bb2e351c2ebc",
+   "versions": [
+    {
+     "from": "1974-06-27",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17624_1974_6_27_CONSEJO%20NACIONAL%20DE%20LEGISLACION_58.pdf",
+     "sha256": "e24edc87756c3ad4fb6da5069042208787e74884d41b9c241131690b77f8369c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0038",
+   "short": "Ley 38 de 1974",
+   "title": "Ley 38 de 1974: Por la cual se adiciona un parrafo al articulo 956 (impuesto de timbres-disposiciones generales) del codigo fiscal.",
+   "url": "https://legispan.asamblea.gob.pa/norms/8439cb23-a2f1-4ab4-be36-e2fd4c790c8e",
+   "versions": [
+    {
+     "from": "1974-09-11",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17677_1974_9_11_CONSEJO%20NACIONAL%20DE%20LEGISLACION_38.pdf",
+     "sha256": "a4e70431dbc5438c291c387536bb3bbc3474e8e1f3c541021f6caeeb93c32b56"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0081",
+   "short": "Ley 81 de 1974",
+   "title": "Ley 81 de 1974: Por la cual se concede una facultad al organo ejecutivo y se derogan disposiciones del decreto de gabinete n° 68, de 13 de marzo de 1969, y del decreto de gabinete n° 148, de 6 de junio de 1969.",
+   "url": "https://legispan.asamblea.gob.pa/norms/d56875d6-5f6d-4ed8-b3f5-e702b8147223",
+   "versions": [
+    {
+     "from": "1974-10-21",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17704_1974_10_21_CONSEJO%20NACIONAL%20DE%20LEGISLACION_81.pdf",
+     "sha256": "69108319a2d18fcd25698a60596f7910e4d6505049029c3f6e39f6f9c89df32d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0089",
+   "short": "Ley 89 de 1974",
+   "title": "Ley 89 de 1974: Por la cual se modifica el decreto de gabinete 256 de 1970 (crea el fondo de pre-inversion) modificado por decreto de gabinete 345 de 1970 y la ley 19 de 1973.",
+   "url": "https://legispan.asamblea.gob.pa/norms/6d7c6e5f-72a1-4746-9dab-2207a950312c",
+   "versions": [
+    {
+     "from": "1974-11-26",
+     "units": 10,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17729_1974_11_26_CONSEJO%20NACIONAL%20DE%20LEGISLACION_89.pdf",
+     "sha256": "5be1d955dfb63119990c73baff694c16a82da02b2301a469f46a1dfa7547e7a1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0103",
+   "short": "Ley 103 de 1974",
+   "title": "Ley 103 de 1974: Por la cual se transfiere el ferrocarril nacional de chiriqui al ministerio de obras publicas.",
+   "url": "https://legispan.asamblea.gob.pa/norms/18cd3d75-dbd7-4cad-b777-3e2c7558da4f",
+   "versions": [
+    {
+     "from": "1975-01-31",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17772_1975_1_31_CONSEJO%20NACIONAL%20DE%20LEGISLACION_103.pdf",
+     "sha256": "147eb5c245ef9aedc9f4870472c86e81080855bb2c34ecbfeabd66a4bf27260c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0107",
+   "short": "Ley 107 de 1974",
+   "title": "Ley 107 de 1974: Por la cual se modifican los articulos 835 y 1072 del codigo fiscal, y se establece una disposicion transitoria.",
+   "url": "https://legispan.asamblea.gob.pa/norms/3bd60ed1-4795-44d2-bff9-dbe751680db4",
+   "versions": [
+    {
+     "from": "1975-02-05",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17775_1975_2_5_CONSEJO%20NACIONAL%20DE%20LEGISLACION_107.pdf",
+     "sha256": "016daf48fcaaa955bb3d00278c4dcd95458799d5c287ed04e2f8ddc55f053cdd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1974-0111",
+   "short": "Ley 111 de 1974",
+   "title": "Ley 111 de 1974: Por la cual se declara de utilidad publica un area en la peninsula de vacamonte para el desarrollo de un puerto pesquero.",
+   "url": "https://legispan.asamblea.gob.pa/norms/5d9720d7-3ba1-4c50-bd48-3a5f382197df",
+   "versions": [
+    {
+     "from": "1975-02-06",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1974/LEY/Administrador%20Legispan_17776_1975_2_6_CONSEJO%20NACIONAL%20DE%20LEGISLACION_111.pdf",
+     "sha256": "0f95310cc02f10d8bfb27552c4cc60a01c69a7db41d2d97620aa7d0733980589"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0003",
+   "short": "Ley 3 de 1975",
+   "title": "Ley 3 de 1975: Por la cual se autoriza al organo ejecutivo celebrar a nombre de la nacion, contrato con la sociedad denominada \"panama exploration, inc.",
+   "url": "https://legispan.asamblea.gob.pa/norms/a45510af-29d2-490c-ac7f-8f38259c7801",
+   "versions": [
+    {
+     "from": "1975-02-26",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17787_1975_2_26_CONSEJO%20NACIONAL%20DE%20LEGISLACION_3.pdf",
+     "sha256": "032dafe82b6162662ab14582796a8ced7dce8b5959f11dfc14b0d24929734bf1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0012",
+   "short": "Ley 12 de 1975",
+   "title": "Ley 12 de 1975: Por la cual se adiciona un paragrafo en el articulo 446 del codigo fiscal. (sobre obligaciones de los cargadores o remitentes que del extranjero envien mercaderias a la republica por conducto distinto del correo)",
+   "url": "https://legispan.asamblea.gob.pa/norms/69c09538-3a60-4d7d-a7b3-d6e92693a3d0",
+   "versions": [
+    {
+     "from": "1975-03-20",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17803_1975_3_20_CONSEJO%20NACIONAL%20DE%20LEGISLACION_12.pdf",
+     "sha256": "3c7b3bd1f404a82e62551cf3b8577c0bb241706697e3c04c4f470f736b84a63d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0013",
+   "short": "Ley 13 de 1975",
+   "title": "Ley 13 de 1975: Por la cual se autoriza al organo ejecutivo para emitir una serie de bonos del estado",
+   "url": "https://legispan.asamblea.gob.pa/norms/fff4f673-a77e-4dd0-9f24-0a4d127b0f8a",
+   "versions": [
+    {
+     "from": "1975-03-24",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17805_1975_3_24_CONSEJO%20NACIONAL%20DE%20LEGISLACION_13.pdf",
+     "sha256": "d09853766d5579c01d788ae0322b37f83220b1b941a81c4da650e1da8e65c843"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0009",
+   "short": "Ley 9 de 1975",
+   "title": "Ley 9 de 1975: Por la cual se adiciona el ordinal 9 (equipo, instrumentos y aparatos medicos, maquinarias y materiales de construccion para hospitales) al articulo 535 (impuesto de importacion) del codigo fiscal y se dictan otras disposiciones.",
+   "url": "https://legispan.asamblea.gob.pa/norms/940b0ccf-4ac9-4193-ad89-50fd7c20ea82",
+   "versions": [
+    {
+     "from": "1975-04-28",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17828_1975_4_28_CONSEJO%20NACIONAL%20DE%20LEGISLACION_9.pdf",
+     "sha256": "edeef838e3cc659bf53638c811e09f808cd8702c6e0b20fc00096648ebbce49f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0014",
+   "short": "Ley 14 de 1975",
+   "title": "Ley 14 de 1975: Autoriza al organo ejecutivo reglamentar actividades y ubicacion de empresas dedicadas a la pesca, procesamiento, almacenamiento, comercializacion del atun, camarones en escala industrial o a la construccion de naves pesqueras.",
+   "url": "https://legispan.asamblea.gob.pa/norms/abc16efe-315c-4699-978a-91ae201e2b58",
+   "versions": [
+    {
+     "from": "1975-05-02",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17831_1975_5_2_CONSEJO%20NACIONAL%20DE%20LEGISLACION_14.pdf",
+     "sha256": "0a154ceb91cecd78e8d72c138bff203559bf6db15a29b544b015e88fd6ac893c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0024",
+   "short": "Ley 24 de 1975",
+   "title": "Ley 24 de 1975: Por la cual se establecen normas tributarias y se otorgan incentivos fiscales a las empresas de la zona libre de colon.",
+   "url": "https://legispan.asamblea.gob.pa/norms/3c0d6ba0-a708-4402-bbec-7b02bc6c3c9f",
+   "versions": [
+    {
+     "from": "1975-05-02",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17831_1975_5_2_CONSEJO%20NACIONAL%20DE%20LEGISLACION_24.pdf",
+     "sha256": "7cc4f91abcef214f9dd00085a6f967e2c5d38e9ad172493e405506b291ae02b9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0018",
+   "short": "Ley 18 de 1975",
+   "title": "Ley 18 de 1975: Por la cual se adiciona al codigo fiscal el articulo 1172-g transitorio",
+   "url": "https://legispan.asamblea.gob.pa/norms/44880cec-04dd-449b-b3d9-135ccda5d248",
+   "versions": [
+    {
+     "from": "1975-05-07",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17834_1975_5_7_CONSEJO%20NACIONAL%20DE%20LEGISLACION_18.pdf",
+     "sha256": "46a14a1e36f2336e7eba5f2da1e5841bec9080220a67bbb1e8e70d87f0baf083"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0019",
+   "short": "Ley 19 de 1975",
+   "title": "Ley 19 de 1975: Por la cual se autoriza la acuñacion de monedas numismaticas y se adiciona, con caracter transitorio, los articulos 1172-h y 1179-a al codigo fiscal.",
+   "url": "https://legispan.asamblea.gob.pa/norms/18f2ef24-4ccc-477d-8156-3daefedc4adb",
+   "versions": [
+    {
+     "from": "1975-05-09",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17836_1975_5_9_CONSEJO%20NACIONAL%20DE%20LEGISLACION_19.pdf",
+     "sha256": "78b6247a4146a61735b2a85b8e6610bbe3b8a9346ecff50a2ce2b6d5df949c6e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0021",
+   "short": "Ley 21 de 1975",
+   "title": "Ley 21 de 1975: Por la cual se autoriza al organo ejecutivo para emitir una serie de bonos del estado.",
+   "url": "https://legispan.asamblea.gob.pa/norms/b8a652aa-9ea2-449a-8ac6-9a4d84e750b2",
+   "versions": [
+    {
+     "from": "1975-05-15",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17840_1975_5_15_CONSEJO%20NACIONAL%20DE%20LEGISLACION_21.pdf",
+     "sha256": "5e96e4778b942cbe2c4a9441056d7a8b8ffa53f1fa4be9f3682d929e8976c611"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0022",
+   "short": "Ley 22 de 1975",
+   "title": "Ley 22 de 1975: Modifica la ley 104 de 30 de diciembre de 1974. (por la cual se establece un impuesto (5%) de los premios pagados por los bingos nacionales y el hipodromo presidente remon y en los juegos de suerte y azar permitidos por la ley)",
+   "url": "https://legispan.asamblea.gob.pa/norms/93976c81-87f9-4014-a69c-cfb98ad3e6f9",
+   "versions": [
+    {
+     "from": "1975-05-19",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17842_1975_5_19_CONSEJO%20NACIONAL%20DE%20LEGISLACION_22.pdf",
+     "sha256": "b3fb289750a268ff66855720efeb55dca24e27d3ff57677948508d171db8753d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0017",
+   "short": "Ley 17 de 1975",
+   "title": "Ley 17 de 1975: Por la cual se autoriza a la caja de seguro social, bancos, compañias de seguros autorizadas para operar en el ramo de vida, asociaciones de ahorros y prestamos, para recibir y administrar los aportes para la prima de antiguedad, prevista en...",
+   "url": "https://legispan.asamblea.gob.pa/norms/ba5db3a4-a3b2-4c0b-bd9a-b5caf17ecb16",
+   "versions": [
+    {
+     "from": "1975-05-26",
+     "units": 27,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17847_1975_5_26_CONSEJO%20NACIONAL%20DE%20LEGISLACION_17.pdf",
+     "sha256": "58a892196d5d3dbf4258ea4da87e2589f8952e9cdef7e15b0ee437e640e769ce"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0026",
+   "short": "Ley 26 de 1975",
+   "title": "Ley 26 de 1975: POR LA CUAL SE DEROGAN LOS ARTICULOS 2º, 3º Y 4º DE LA LEY Nº1 DE 3 DE ENERO DE 1949. (LEGISLA LA MATERIA A QUE SE REFIERE DECRETO LEY 21 DE 9 DE SEPTIEMBRE DE 1948, AUTORIZA ENAJENACION DE VARIOS LOTES DE TERRENO)",
+   "url": "https://legispan.asamblea.gob.pa/norms/2ceabedd-38e0-46af-ba1d-4f9d500bab53",
+   "versions": [
+    {
+     "from": "1975-06-16",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17862_1975_6_16_CONSEJO%20NACIONAL%20DE%20LEGISLACION_26.pdf",
+     "sha256": "54654a6164439b7a323eeddfb89c794efe603f864033f2f434c63944e5017c5d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0033",
+   "short": "Ley 33 de 1975",
+   "title": "Ley 33 de 1975: Por la cual se autoriza una emision de pagares del estado.",
+   "url": "https://legispan.asamblea.gob.pa/norms/9aef06d3-5d42-4a24-9986-39cda082d226",
+   "versions": [
+    {
+     "from": "1975-08-01",
+     "units": 9,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17896_1975_8_1_CONSEJO%20NACIONAL%20DE%20LEGISLACION_33.pdf",
+     "sha256": "4ee07b16f932dd44b4e7524f3d414b1bf9ccb49a1333795176c5158c4d600e29"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0034",
+   "short": "Ley 34 de 1975",
+   "title": "Ley 34 de 1975: POR LA CUAL SE CONCEDE UNA EXONERACION DE IMPUESTOS, GRAVAMENES, CARGOS, RETENCIONES A LOS PAGOS A CAPITAL, INTERESES O CUALQUIER CANTIDAD ADEUDADA POR RAZON DEL EMPRESTITO AUTORIZADO POR LA RESOLUCION DE GABINETE Nº 15 DE 1975.",
+   "url": "https://legispan.asamblea.gob.pa/norms/faaff5eb-7af0-4957-8661-544053d466da",
+   "versions": [
+    {
+     "from": "1975-08-04",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17897_1975_8_4_CONSEJO%20NACIONAL%20DE%20LEGISLACION_34.pdf",
+     "sha256": "eb05121819931696e235e5f44f1ba7f7bae2def59306715ddef61e66225c644b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0037",
+   "short": "Ley 37 de 1975",
+   "title": "Ley 37 de 1975: POR LA CUAL SE SUBROGA EL PARRAFO 1º DEL ARTICULO 12 (COMPOSICION DE LA JUNTA DIRECTIVA) DEL DECRETO DE GABINETE Nº 235 DE 30 DE JULIO DE 1969. (ORGANICA DEL INSTITUTO DE RECURSOS HIDRAULICOS Y ELECTRIFICACION)",
+   "url": "https://legispan.asamblea.gob.pa/norms/31fc3400-b0f7-4f15-973c-667cb9e9d58d",
+   "versions": [
+    {
+     "from": "1975-08-13",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17904_1975_8_13_CONSEJO%20NACIONAL%20DE%20LEGISLACION_37.pdf",
+     "sha256": "70032a71cdb511c5ce78bde8c43b66ff19cfb7b307ac81aa0648c4949722fc10"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0038",
+   "short": "Ley 38 de 1975",
+   "title": "Ley 38 de 1975: Por la cual se subroga el articulo 111 de la ley 61 de 1947 ( aprueba el libro primero del codigo judicial- organizacion judicial ) y se adoptan otras medidas.",
+   "url": "https://legispan.asamblea.gob.pa/norms/05339d37-5f8b-429b-a4ce-98f7233ec34a",
+   "versions": [
+    {
+     "from": "1975-08-13",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17904_1975_8_13_CONSEJO%20NACIONAL%20DE%20LEGISLACION_38.pdf",
+     "sha256": "c989bee0934e6ad94074d753f249886b07adcd0157d134270286fe1161d5d788"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0039",
+   "short": "Ley 39 de 1975",
+   "title": "Ley 39 de 1975: Por el cual se prorroga el plazo para el pago de creditos fiscales vencidos. (hasta el 31 de octubre de 1975, el plazo concedido a los contribuyentes para pagar creditos fiscales no pagado al 1 de enero de 1975).",
+   "url": "https://legispan.asamblea.gob.pa/norms/ca33100d-5c8c-447a-97f3-005108ab19bb",
+   "versions": [
+    {
+     "from": "1975-08-13",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17904_1975_8_13_CONSEJO%20NACIONAL%20DE%20LEGISLACION_39.pdf",
+     "sha256": "68a6982d81456f4b5f5f3cb8efdcaf159e1c0de40b317b83b2cd4786a324abd7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0042",
+   "short": "Ley 42 de 1975",
+   "title": "Ley 42 de 1975: POR LA CUAL SE REFORMAN LOS ARTICULOS 10, 11 DEL DECRETO LEY Nº 22 DEL 15 DE SEPTIEMBRE DE 1960, ORGANICO DEL INSTITUTO PANAMEÑO DE TURISMO.",
+   "url": "https://legispan.asamblea.gob.pa/norms/2c8dd600-2158-437a-840f-6e1effe4b955",
+   "versions": [
+    {
+     "from": "1975-08-19",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17907_1975_8_19_CONSEJO%20NACIONAL%20DE%20LEGISLACION_42.pdf",
+     "sha256": "5a40c1404bf28b85405b10ee6f657d145c0c738980abdd640164050664d07cf2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0043",
+   "short": "Ley 43 de 1975",
+   "title": "Ley 43 de 1975: Por la cual se adiciona nuevo numeral al arancel de importacion. (655-06-6 redes para la pesca de atun de cualquier fibra textil...0.25 k.b.11% a. v.)",
+   "url": "https://legispan.asamblea.gob.pa/norms/07a4a8ca-ec9b-4a7f-93c8-fb567ccd8c07",
+   "versions": [
+    {
+     "from": "1975-08-19",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17907_1975_8_19_CONSEJO%20NACIONAL%20DE%20LEGISLACION_43.pdf",
+     "sha256": "2670c70ed6d85ac823847606e8eaf70723573513c507beb6a2904b85dc8b4246"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0044",
+   "short": "Ley 44 de 1975",
+   "title": "Ley 44 de 1975: Por la cual se adicionan y modifican varios numerales del arancel de importacion y se toman otras medidas.",
+   "url": "https://legispan.asamblea.gob.pa/norms/e806ce03-57ff-4e5a-b837-4b44e4ebb2cb",
+   "versions": [
+    {
+     "from": "1975-08-19",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17907_1975_8_19_CONSEJO%20NACIONAL%20DE%20LEGISLACION_44.pdf",
+     "sha256": "ef3cc69cf764cc55b54375ef951b2ee77057db56401bff94c91a85e734773f22"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0046",
+   "short": "Ley 46 de 1975",
+   "title": "Ley 46 de 1975: Por la cual se modifican disposiciones del codigo fiscal y se deroga el articulo primero de la ley 84 de 28 de diciembre de 1961.",
+   "url": "https://legispan.asamblea.gob.pa/norms/7f1d4fd7-3866-437b-9a84-91365f4a3352",
+   "versions": [
+    {
+     "from": "1975-08-22",
+     "units": 9,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17910_1975_8_22_CONSEJO%20NACIONAL%20DE%20LEGISLACION_46.pdf",
+     "sha256": "7513711b7ccb7f4b096d2562dfb33e417aaa337a09a0ef9c593f2fbfb4b3b8a6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0048",
+   "short": "Ley 48 de 1975",
+   "title": "Ley 48 de 1975: Por la cual se modifica el articulo 1057-r del codigo fiscal. (del impuesto a las bebidas gaseosas)",
+   "url": "https://legispan.asamblea.gob.pa/norms/fd52cee8-f165-4427-94c7-b0ee277f7ee5",
+   "versions": [
+    {
+     "from": "1975-08-27",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17913_1975_8_27_CONSEJO%20NACIONAL%20DE%20LEGISLACION_48.pdf",
+     "sha256": "77594e647f014711bb927a39a2aa7b7dcb5222cb35669bf203feeab99cba0744"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0050",
+   "short": "Ley 50 de 1975",
+   "title": "Ley 50 de 1975: POR MEDIO DE LA CUAL SE DA UNA AUTORIZACION AL ORGANO EJECUTIVO, SE DICTAN ALGUNAS MEDIDAS, SE APRUEBA UN CONVENIO Y SE DEROGA LA LEY Nº 31 DE 1975. (RECONOCE A PABONIA,S.A. INVERSION POR EXPLORACION MINAS DE CERRO COLORADO)",
+   "url": "https://legispan.asamblea.gob.pa/norms/988829ff-ac64-4902-8437-144776957614",
+   "versions": [
+    {
+     "from": "1975-09-04",
+     "units": 13,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17919_1975_9_4_CONSEJO%20NACIONAL%20DE%20LEGISLACION_50.pdf",
+     "sha256": "b5404203690f78f98102fff1205dcb4af01152d4ec1613af0c762e4ced8d9303"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0052",
+   "short": "Ley 52 de 1975",
+   "title": "Ley 52 de 1975: Por la cual se autoriza al organo ejecutivo para emitir y ordenar la acuñacion de monedas fraccionarias de panama hasta por la suma de b/.1,500.000.00 con las modalidades descritas en el articulo 1179 del codigo fiscal.",
+   "url": "https://legispan.asamblea.gob.pa/norms/727fcb35-021f-461e-b202-b37747b59809",
+   "versions": [
+    {
+     "from": "1975-09-11",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17924_1975_9_11_CONSEJO%20NACIONAL%20DE%20LEGISLACION_52.pdf",
+     "sha256": "a44e524132221119329a7b1a502b063837eb5b82c3a1f128520cc1086722e282"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0055",
+   "short": "Ley 55 de 1975",
+   "title": "Ley 55 de 1975: Por la cual se concede una exoneracion de impuestos, gravamenes, cargos, retenciones sobre los pagos a capital, intereses o cualquiera cantidad adeudada por razon del emprestito autorizado por la resolucion de gabinete 21 de 1975",
+   "url": "https://legispan.asamblea.gob.pa/norms/d2e56ae2-cb6d-48d3-9d3f-cd84123cfd0c",
+   "versions": [
+    {
+     "from": "1975-10-02",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17939_1975_10_2_CONSEJO%20NACIONAL%20DE%20LEGISLACION_55.pdf",
+     "sha256": "ae95fde1676162892099cc3edb69c1f4db1ec89eb8824272012e86c3cd998d4c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0056",
+   "short": "Ley 56 de 1975",
+   "title": "Ley 56 de 1975: Por medio de la cual se regula el ejercicio de la psicologia en el territorio nacional.",
+   "url": "https://legispan.asamblea.gob.pa/norms/409b0a6b-409f-40c7-b8eb-e0fc167151bb",
+   "versions": [
+    {
+     "from": "1975-10-15",
+     "units": 10,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17948_1975_10_15_CONSEJO%20NACIONAL%20DE%20LEGISLACION_56.pdf",
+     "sha256": "0f9e1e67eaf3b0a7a72234a0e9d90bf622b208092e3ba6c45876ce6ca417b456"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0057",
+   "short": "Ley 57 de 1975",
+   "title": "Ley 57 de 1975: Por la cual se modifican y se adiciona algunos numerales en el arancel de importacion.",
+   "url": "https://legispan.asamblea.gob.pa/norms/1b5d6877-18fa-4395-a079-a276b81348f9",
+   "versions": [
+    {
+     "from": "1975-10-16",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17949_1975_10_16_CONSEJO%20NACIONAL%20DE%20LEGISLACION_57.pdf",
+     "sha256": "84a9162c1ee812de1fd2789fa444f3a68f47ee9fa4262fd70334885b8e32ee2e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0058",
+   "short": "Ley 58 de 1975",
+   "title": "Ley 58 de 1975: Por la cual se autoriza la construccion de un relleno y se concede la facultad al organo ejecutivo para traspasar el lote que resulte al instituto panameño de turismo (ipat).",
+   "url": "https://legispan.asamblea.gob.pa/norms/16c1d2c3-c89a-4a1c-a873-c15820274e4c",
+   "versions": [
+    {
+     "from": "1975-10-17",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17950_1975_10_17_CONSEJO%20NACIONAL%20DE%20LEGISLACION_58.pdf",
+     "sha256": "f0cbbc202c67f144565d07e3630c4a687eb58cb41448632a161eb18416daaba1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0060",
+   "short": "Ley 60 de 1975",
+   "title": "Ley 60 de 1975: Por la cual se exonera transitoriamente del pago de impuesto de importacion a los jamones pic-nic con hueso.",
+   "url": "https://legispan.asamblea.gob.pa/norms/a36a7abe-4d05-48f1-8afd-903fc0e74f34",
+   "versions": [
+    {
+     "from": "1975-11-13",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17967_1975_11_13_CONSEJO%20NACIONAL%20DE%20LEGISLACION_60.pdf",
+     "sha256": "b8bf8a987d0d92b80588bb81acd74b83d96905d6f248472cffb3f90142d4f111"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0061",
+   "short": "Ley 61 de 1975",
+   "title": "Ley 61 de 1975: Autoriza la emision de pagare del estado hasta por b/.3,942.307.06, a un plazo de 12 años, destinados al pago de la segunda partida del decimo tercermes de la vigencia de 1975 al banco hipotecario nacional.",
+   "url": "https://legispan.asamblea.gob.pa/norms/df99b197-518c-4a26-baff-04755b2d6c4e",
+   "versions": [
+    {
+     "from": "1975-11-20",
+     "units": 9,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17972_1975_11_20_CONSEJO%20NACIONAL%20DE%20LEGISLACION_61.pdf",
+     "sha256": "201708b94377532e1c1a9881158fa81b78381be011e9a771fcf00751c1adaeb5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0062",
+   "short": "Ley 62 de 1975",
+   "title": "Ley 62 de 1975: Mediante la cual se dictan medidas encaminadas a incrementar la participacion de la republica de panama en el banco interamericano de desarrollo en el fondo de operaciones especiales.",
+   "url": "https://legispan.asamblea.gob.pa/norms/37b5216e-81bd-4430-9b4c-98e608456a7a",
+   "versions": [
+    {
+     "from": "1975-11-26",
+     "units": 9,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17976_1975_11_26_CONSEJO%20NACIONAL%20DE%20LEGISLACION_62.pdf",
+     "sha256": "ddbfca0c926193d6d433f1523b823da70225bb48fe73c5dd42ddd8ff5b03d020"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0063",
+   "short": "Ley 63 de 1975",
+   "title": "Ley 63 de 1975: POR LA CUAL SE ADICIONA LA LEY Nº90 DE 10 DE OCTUBRE DE 1974.(POR LA CUAL SE DECLARA EL 28 DE NOVIEMBRE COMO DIA DEL BOMBERO)",
+   "url": "https://legispan.asamblea.gob.pa/norms/885a476c-44e4-41b8-a91d-e881dffc8545",
+   "versions": [
+    {
+     "from": "1975-12-01",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17978_1975_12_1_CONSEJO%20NACIONAL%20DE%20LEGISLACION_63.pdf",
+     "sha256": "c7f856bb376d8de805a0a1c568ed4f2907d4efed92e07b64616b465506a4535f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0066",
+   "short": "Ley 66 de 1975",
+   "title": "Ley 66 de 1975: Por la cual se establecen unos incentivos a la industria de la construccion. (extiende por 10 años el plazo de la exoneracion del pago del impuesto de inmueble concedido por el ordinal 10 del articulo 764 del codigo fiscal)",
+   "url": "https://legispan.asamblea.gob.pa/norms/44c09092-7f4a-4f85-b49c-88de71b6b0d4",
+   "versions": [
+    {
+     "from": "1975-12-24",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17994_1975_12_24_CONSEJO%20NACIONAL%20DE%20LEGISLACION_66.pdf",
+     "sha256": "a56bdd8fdc1a6c37403afe8c500323fcde2368cc4e1357901c4d8ba05400bf2a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0069",
+   "short": "Ley 69 de 1975",
+   "title": "Ley 69 de 1975: POR LA CUAL SE MODIFICA EL ARTICULO 5 DE LA LEY Nº10 DE 25 DE ENERO DE 1973.(POR LA CUAL SE CREA EL BANCO HIPOTECARIO NACIONAL)",
+   "url": "https://legispan.asamblea.gob.pa/norms/e9d15ca1-5149-4c7a-9811-5f6aed8dad6e",
+   "versions": [
+    {
+     "from": "1975-12-24",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17994_1975_12_24_CONSEJO%20NACIONAL%20DE%20LEGISLACION_69.pdf",
+     "sha256": "2b42cd9725f86b035b984edfae09dfc0ed07b07b7c5b333c4e5c9f8dec574682"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0073",
+   "short": "Ley 73 de 1975",
+   "title": "Ley 73 de 1975: Autoriza la emision de pagares hasta b/.3,471.328.50 para pagar cuentas al irhe, en concepto de servicios basicos rendidos al gobierno nacional y otras instituciones del estado durante los años 1973, 1974 y hasta octubre de 1975",
+   "url": "https://legispan.asamblea.gob.pa/norms/56109bdf-a48a-4022-8a44-d95ae7e31457",
+   "versions": [
+    {
+     "from": "1975-12-29",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17996_1975_12_29_CONSEJO%20NACIONAL%20DE%20LEGISLACION_73.pdf",
+     "sha256": "4551189835dc844090283a36cc91ca6af9b1a8f1be3d869bd0e3853578427790"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0067",
+   "short": "Ley 67 de 1975",
+   "title": "Ley 67 de 1975: Por la cual se adiciona se elimina y se modifican algunos numerales del arancel de importacion.",
+   "url": "https://legispan.asamblea.gob.pa/norms/0b368254-7050-4b5f-8675-71e14235b531",
+   "versions": [
+    {
+     "from": "1975-12-31",
+     "units": 8,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17998_1975_12_31_CONSEJO%20NACIONAL%20DE%20LEGISLACION_67.pdf",
+     "sha256": "0597129eed5107f32e63b2fe33b5c6995f47682ba36cf89ece58d27326531078"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0074",
+   "short": "Ley 74 de 1975",
+   "title": "Ley 74 de 1975: El gobierno nacional asumira las obligaciones provenientes de los contratos que se pacten por la direccion de aeronautica civil y el instituto de recursos hidraulicos y electrificacion con el fondo de inversiones de venezuela.",
+   "url": "https://legispan.asamblea.gob.pa/norms/94cfc463-f8e7-4300-8d69-2481e7ec4990",
+   "versions": [
+    {
+     "from": "1976-01-05",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_17999_1976_1_5_CONSEJO%20NACIONAL%20DE%20LEGISLACION_74.pdf",
+     "sha256": "7598dea448a99bbf38019e49c2c10ae22f586149a6761d1163c87c0c77d2eb18"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0076",
+   "short": "Ley 76 de 1975",
+   "title": "Ley 76 de 1975: Por la cual se autoriza al instituto de recursos hidraulicos y electrificacion a celebrar contratos con a. b. (skanska cementjuteriet, asea, bofors - nohab y (vbb) vattenbyggnadsbyran.",
+   "url": "https://legispan.asamblea.gob.pa/norms/c9ac213c-1ed7-4410-aa6b-215bddd61e45",
+   "versions": [
+    {
+     "from": "1976-02-11",
+     "units": 8,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_18025_1976_2_11_CONSEJO%20NACIONAL%20DE%20LEGISLACION_76.pdf",
+     "sha256": "0d1cd2e23f4e05429700583a5fb9f32b4a44097afeb34c055a52c4f927356213"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0075",
+   "short": "Ley 75 de 1975",
+   "title": "Ley 75 de 1975: Por la cual se modifica el articulo 9 (facultad para contratar emprestitos) del decreto de gabinete 235 de 30 de julio de 1969 (organica del instituto de recursos hidraulicos y electrificacion)",
+   "url": "https://legispan.asamblea.gob.pa/norms/0b4550b9-d4dd-48f4-a619-ce4d6b4d332a",
+   "versions": [
+    {
+     "from": "1976-02-13",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_18027_1976_2_13_CONSEJO%20NACIONAL%20DE%20LEGISLACION_75.pdf",
+     "sha256": "c4cbce04070d30833ee4636e551eedf0a5519ee3d1ae81faa70b629f6e33914e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1975-0077",
+   "short": "Ley 77 de 1975",
+   "title": "Ley 77 de 1975: Autoriza la negociacion de convenio de credito del irhe con skandinaviskaenskilda banken y otras entidades de credito, para el financiamiento del costo del proyecto hidroelectrico la estrella-los valles en chiriqui.",
+   "url": "https://legispan.asamblea.gob.pa/norms/a437c221-3b1a-4a4d-b69e-35e7323f3c21",
+   "versions": [
+    {
+     "from": "1976-02-13",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1975/LEY/Administrador%20Legispan_18027_1976_12_13_CONSEJO%20NACIONAL%20DE%20LEGISLACION_77.pdf",
+     "sha256": "5a258b30f747822c104aac78415d9c16def3a7440262b6de9b88faeafb06a06f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0012",
+   "short": "Ley 12 de 1976",
+   "title": "Ley 12 de 1976: POR LA CUAL SE MODIFICA EL ORDINAL 2º DEL ART. 585 DE CODIGO FISCAL Y DEROGA EN TODAS SUS PARTES LA LEY Nº 4 DE 7 DE ENERO DE 1976. (IMPUESTO DE EXPORTACION DE BANANO)",
+   "url": "https://legispan.asamblea.gob.pa/norms/5806b042-7b72-4e93-b165-985bef928901",
+   "versions": [
+    {
+     "from": "1976-03-31",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18057_1976_3_31_CONSEJO%20NACIONAL%20DE%20LEGISLACION_12.pdf",
+     "sha256": "35ac93cb8fc37a89f3cd33b578151e9959a4a7c34fdaee228acf27345071e719"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0023",
+   "short": "Ley 23 de 1976",
+   "title": "Ley 23 de 1976: Por la cual se modifican, adicionan y eliminan varios numerales del arancel de importacion y de la ley 87 de 9 de octubre de 1974.",
+   "url": "https://legispan.asamblea.gob.pa/norms/5f7f70ac-997c-4768-becc-70dd6b0cb3b8",
+   "versions": [
+    {
+     "from": "1976-04-27",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18074_1976_4_27_CONSEJO%20NACIONAL%20DE%20LEGISLACION_23.pdf",
+     "sha256": "5fd0e481a4f5bbec11f07f0aa7c3138ed275b62a256ade27ee8551515dcae29a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0024",
+   "short": "Ley 24 de 1976",
+   "title": "Ley 24 de 1976: Por la cual se da una autorizacion a la empresa estatal de cemento \"bayano\".",
+   "url": "https://legispan.asamblea.gob.pa/norms/f8431220-c2dd-463b-b8ea-cb36c6d1682e",
+   "versions": [
+    {
+     "from": "1976-05-03",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18078_1976_5_3_CONSEJO%20NACIONAL%20DE%20LEGISLACION_24.pdf",
+     "sha256": "33766e14ccdce69527f15484defb57a74e53f8df42f657bafaa4c72b4f4f9944"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0029",
+   "short": "Ley 29 de 1976",
+   "title": "Ley 29 de 1976: Por la cual se modifica el acapite b) del articulo 19 del decreto ley 18 de 17 de junio de 1948 y se deroga el articulo 26 del mismo.",
+   "url": "https://legispan.asamblea.gob.pa/norms/d592e06c-e123-4780-a00c-299c5a77f119",
+   "versions": [
+    {
+     "from": "1976-06-16",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18110_1976_6_16_CONSEJO%20NACIONAL%20DE%20LEGISLACION_29.pdf",
+     "sha256": "a02856c24cb53d581528371fa7dd30016d4db4765e271e328b8b31c069b6df49"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0028",
+   "short": "Ley 28 de 1976",
+   "title": "Ley 28 de 1976: Por la cual se adiciona el articulo 585 del codigo fiscal con un nuevo ordinal.",
+   "url": "https://legispan.asamblea.gob.pa/norms/f4eac610-d296-4071-b33d-5f91a5dd4744",
+   "versions": [
+    {
+     "from": "1976-06-21",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18113_1976_6_21_CONSEJO%20NACIONAL%20DE%20LEGISLACION_28.pdf",
+     "sha256": "1d86fe20f85e858356cc32dd290c51546d1eba5c1a949b11eb6dd7df522b4883"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0042",
+   "short": "Ley 42 de 1976",
+   "title": "Ley 42 de 1976: Por la cual se modifica el articulo 739 del codigo fiscal. (certificado de paz y salvo con el tesoro nacional y la caja de seguro social, para la autorizacion por funcionarios publicos o particulares de ciertos actos o contratos)",
+   "url": "https://legispan.asamblea.gob.pa/norms/6ed37995-7eaa-4160-af9d-f9d17ffba012",
+   "versions": [
+    {
+     "from": "1976-08-10",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18148_1976_8_10_CONSEJO%20NACIONAL%20DE%20LEGISLACION_42.pdf",
+     "sha256": "fb2b4aede4af9bd896b2591c9d4689e275f1de06a65c150698a52cc3abacb701"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0046",
+   "short": "Ley 46 de 1976",
+   "title": "Ley 46 de 1976: Por la cual se concede una autorizacion especial al instituto de recursos hidraulicos y electrificacion, para contratar en forma directa el suministro, montaje y financiamiento de lineas de transmision y subestaciones.",
+   "url": "https://legispan.asamblea.gob.pa/norms/66243a8d-a847-4542-afe1-d4781a27d0fb",
+   "versions": [
+    {
+     "from": "1976-08-24",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18158_1976_8_24_CONSEJO%20NACIONAL%20DE%20LEGISLACION_46.pdf",
+     "sha256": "9641157d91c5235c4bccdec82ea009e230259089af7e5fdae6adffb50aa584de"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0051",
+   "short": "Ley 51 de 1976",
+   "title": "Ley 51 de 1976: Por la cual se autoriza la emision de pagares.",
+   "url": "https://legispan.asamblea.gob.pa/norms/e6a00775-2910-4da4-a3c9-dbbfb6fe53d0",
+   "versions": [
+    {
+     "from": "1976-09-14",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18173_1976_9_14_CONSEJO%20NACIONAL%20DE%20LEGISLACION_51.pdf",
+     "sha256": "b6c2637dc1c4d28442e49d7122716b985577708746f616740291048e4ab31a09"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0050",
+   "short": "Ley 50 de 1976",
+   "title": "Ley 50 de 1976: POR LA CUAL SE SUBROGA EL ARTICULO 9º DE LA LEY 8 DE 1925 (ESTABLECE PROCEDIMIENTO PARA LA NACIONALIZACION Y ARQUEO DE NAVES Y SE DICTAN OTRAS DISPOSICIONES) Y SE ADICIONA UN ARTICULO",
+   "url": "https://legispan.asamblea.gob.pa/norms/1bf3e62b-4a4d-44e7-9d04-977cc52bd5a0",
+   "versions": [
+    {
+     "from": "1976-09-15",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18174_1976_9_15_CONSEJO%20NACIONAL%20DE%20LEGISLACION_50.pdf",
+     "sha256": "b5a4d6dd901d7282d649c1f0177f7da8bb7bb02156df2d471c4d38c72adcfc46"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0055",
+   "short": "Ley 55 de 1976",
+   "title": "Ley 55 de 1976: Por la cual se modifican los articulos 5 y 6 de la ley 97 de 1973, los articulos 10 y 64 de la ley 93 de 1973 y se toman otras medidas.",
+   "url": "https://legispan.asamblea.gob.pa/norms/18b1b572-66ae-4e9e-8ce1-7fa988386167",
+   "versions": [
+    {
+     "from": "1976-10-01",
+     "units": 14,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18186_1976_10_1_CONSEJO%20NACIONAL%20DE%20LEGISLACION_55.pdf",
+     "sha256": "041938d2d4dc9589d9b5366997c84ad0728636fe31671e705992f4ed99516efb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0048",
+   "short": "Ley 48 de 1976",
+   "title": "Ley 48 de 1976: Por la cual se modifica el numeral 656-01-01 (bolsas y sacos para empacar de cualquier fibra textil, con y sin impresiones, nuevos o usados...b/1.00 k.b. o 60% a.v, y se elimina el numeral 656-01-02 del arancel de importacion.",
+   "url": "https://legispan.asamblea.gob.pa/norms/1c6e6a36-482f-422b-8fb5-04cc58c9e58f",
+   "versions": [
+    {
+     "from": "1976-10-04",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18187_1976_10_4_CONSEJO%20NACIONAL%20DE%20LEGISLACION_48.pdf",
+     "sha256": "d9d663b0dcd69f359dcd27ee8a545249194b00613f2ca0f6571ebb0bfd77b0e7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0066",
+   "short": "Ley 66 de 1976",
+   "title": "Ley 66 de 1976: Por medio de la cual se reglamenta la fortificacion de la azucar refinada y turbinada con vitamina \"a\".",
+   "url": "https://legispan.asamblea.gob.pa/norms/878a9dc1-af1f-4cf0-9e51-5b02b2467b02",
+   "versions": [
+    {
+     "from": "1976-12-21",
+     "units": 17,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18237_1976_12_21_CONSEJO%20NACIONAL%20DE%20LEGISLACION_66.pdf",
+     "sha256": "8778565d6e51f3bf5898f6d4ffd1fc134f72650c7b6b948bb23bc88d2f29ca0f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0069",
+   "short": "Ley 69 de 1976",
+   "title": "Ley 69 de 1976: Mediante la cual se establece un regimen especial provisional de depreciacion provisional de activos fijos, para las empresas que construyan o contraten la construccion de edificaciones y cumplan los requisitos de esta ley.",
+   "url": "https://legispan.asamblea.gob.pa/norms/5718d6d3-4ae5-4e19-b8c3-a19d73de5337",
+   "versions": [
+    {
+     "from": "1976-12-30",
+     "units": 16,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18244_1976_12_30_CONSEJO%20NACIONAL%20DE%20LEGISLACION_69.pdf",
+     "sha256": "64f18f5a3dafc15207bf0e4c39b5f4c275bed3d34fbcf77c80525454b6a63322"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0070",
+   "short": "Ley 70 de 1976",
+   "title": "Ley 70 de 1976: Mediante la cual se otorgan incentivos a la capitalizacion de utilidades retenidas.",
+   "url": "https://legispan.asamblea.gob.pa/norms/00b16c19-c8f4-41b4-8aa4-55fd1de6808a",
+   "versions": [
+    {
+     "from": "1976-12-30",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18244_1976_12_30_CONSEJO%20NACIONAL%20DE%20LEGISLACION_70.pdf",
+     "sha256": "4d3d56afd254eb4f9a850361297accf9bd984b7e3d512fae916044732e23c690"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0071",
+   "short": "Ley 71 de 1976",
+   "title": "Ley 71 de 1976: Se modifican articulos de la ley 108 de 30 de diciembre de 1974. (por la cual se otorga incentivos a la exportacion y se crean los certificados de abono tributario)",
+   "url": "https://legispan.asamblea.gob.pa/norms/a3cb7baf-3cfb-49d0-b76b-929eba95fa02",
+   "versions": [
+    {
+     "from": "1976-12-30",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18244_1976_12_30_CONSEJO%20NACIONAL%20DE%20LEGISLACION_71.pdf",
+     "sha256": "ca59a19547fce9095c6f209013aa3aac400488e0f9cc0689c3d5a3f3235b6cd2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0077",
+   "short": "Ley 77 de 1976",
+   "title": "Ley 77 de 1976: Por la cual se adiciona el articulo 318-a al codigo fiscal. (tasa unica anual de sociedades anonimas)",
+   "url": "https://legispan.asamblea.gob.pa/norms/b66260ef-5daa-4995-87ea-41472c1a2b2e",
+   "versions": [
+    {
+     "from": "1976-12-31",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18245_1976_12_31_CONSEJO%20NACIONAL%20DE%20LEGISLACION_77.pdf",
+     "sha256": "f8eb7d21ab661b5c9da48f717e1748bf9c56b2870c96791fca00dd0aab3516e2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0082",
+   "short": "Ley 82 de 1976",
+   "title": "Ley 82 de 1976: POR LA CUAL SE MODIFICA EL ARTICULO SEGUNDO DEL DECRETO DE GABINETE Nº 36 DEL 12 DE FEBRERO DE 1970.",
+   "url": "https://legispan.asamblea.gob.pa/norms/46a2cbf6-99a9-4795-89c9-a119e810a5c3",
+   "versions": [
+    {
+     "from": "1976-12-31",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18245_1976_12_31_CONSEJO%20NACIONAL%20DE%20LEGISLACION_82.pdf",
+     "sha256": "178b6a32e6b9359b112c9792ddec0ae3bd910a0164a860fa63fad8c0fd476a86"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0083",
+   "short": "Ley 83 de 1976",
+   "title": "Ley 83 de 1976: Por la cual se adoptan normas que introducen modificaciones relativas al regimen organico del instituto panameño de turismo.",
+   "url": "https://legispan.asamblea.gob.pa/norms/bb73043a-bf40-4763-8e51-3781554d3b4f",
+   "versions": [
+    {
+     "from": "1976-12-31",
+     "units": 14,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18245_1976_12_31_CONSEJO%20NACIONAL%20DE%20LEGISLACION_83.pdf",
+     "sha256": "27a75a1fac2ef3de33380788016e7d910bd0a12308d15d174b19937aef4d4ab3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0089",
+   "short": "Ley 89 de 1976",
+   "title": "Ley 89 de 1976: Por la cual se adoptan medidas para el ajuste de precios en el valor de las obras o actividades de construccion.",
+   "url": "https://legispan.asamblea.gob.pa/norms/c71a324f-58c9-4bf4-9a36-75dba05a9374",
+   "versions": [
+    {
+     "from": "1976-12-31",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18245_1976_12_31_CONSEJO%20NACIONAL%20DE%20LEGISLACION_89.pdf",
+     "sha256": "46b9c70e13f382c0a8635e9a4351c93dd19e350ca4e149b206b3db485d899292"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0092",
+   "short": "Ley 92 de 1976",
+   "title": "Ley 92 de 1976: POR LA CUAL SE MODIFICA EL ARTICULO 36 DEL DECRETO DE GABINETE No. 413 DE 30 DE DICIEMBRE DE 1970 MODIFICADO POR EL ARTICULO 19 DEL DECRETO DE GABINETE No. 172 DE AGOSTO DE 1971.",
+   "url": "https://legispan.asamblea.gob.pa/norms/e84e703f-8643-4c2b-86c8-dc195205789c",
+   "versions": [
+    {
+     "from": "1976-12-31",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18245_1976_12_31_CONSEJO%20NACIONAL%20DE%20LEGISLACION_92.pdf",
+     "sha256": "9f263f52658af88c6bac80230dae8ad25a51d20c94f3c42e721a8d82d51fab56"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1976-0096",
+   "short": "Ley 96 de 1976",
+   "title": "Ley 96 de 1976: Por la cual se modifican algunos numerales del arancel de importacion. (gasolina de 87 y 95 octano)",
+   "url": "https://legispan.asamblea.gob.pa/norms/92653172-e947-4e6e-bdf0-ef5d58ec8354",
+   "versions": [
+    {
+     "from": "1977-01-18",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1976/LEY/Administrador%20Legispan_18256_1977_1_18_CONSEJO%20NACIONAL%20DE%20LEGISLACION_96.pdf",
+     "sha256": "f409e7b9236766cd8a3a0afd4325857497e2c39a58a4c95849e462bee905b742"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1977-0005",
+   "short": "Ley 5 de 1977",
+   "title": "Ley 5 de 1977: POR LA CUAL SE MODIFICA EL ARTICULO 4º DEL DECRETO DE GABINETE Nº71 DE 13 DEMARZO DE 1969. (POR EL CUAL SE TRASPASA A TITULO ONEROSO UN LOTE DE TERRENO A LA ASOCIACION PANAMEÑA DE EJECUTIVOS DE EMPRESA)",
+   "url": "https://legispan.asamblea.gob.pa/norms/bf669faa-9c04-49f9-b507-5616be54e748",
+   "versions": [
+    {
+     "from": "1977-02-08",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1977/LEY/Administrador%20Legispan_18271_1977_2_8_CONSEJO%20NACIONAL%20DE%20LEGISLACION_5.pdf",
+     "sha256": "c96b5cc05abfb73d8a40b2261ef1265f68be96ed0ed4e581a74a74d7f3905952"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1977-0007",
+   "short": "Ley 7 de 1977",
+   "title": "Ley 7 de 1977: Por la cual se modifica el paragrafo del articulo 535 del codigo fiscal (impuesto de importacion) y se adiciona un paragrafo al articulo 879 (impuesto de fabricacion de licores) de dicha excerta legal.",
+   "url": "https://legispan.asamblea.gob.pa/norms/dccf553b-1cc8-405d-8cb9-77550a61f7e9",
+   "versions": [
+    {
+     "from": "1977-02-15",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1977/LEY/Administrador%20Legispan_18276_1977_2_15_CONSEJO%20NACIONAL%20DE%20LEGISLACION_7.pdf",
+     "sha256": "48489b60a6c180554831feec607bcd9df4aea54b9038c3cbe3f988ee93528cc1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1977-0008",
+   "short": "Ley 8 de 1977",
+   "title": "Ley 8 de 1977: Por la cual se autoriza la constitucion y funcionamiento de la comercializadora multinacional de banano, s.a. (comunbana).",
+   "url": "https://legispan.asamblea.gob.pa/norms/e6eb31eb-8f49-472c-af70-452af7d86f07",
+   "versions": [
+    {
+     "from": "1977-02-28",
+     "units": 8,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1977/LEY/Administrador%20Legispan_18282_1977_2_28_CONSEJO%20NACIONAL%20DE%20LEGISLACION_8.pdf",
+     "sha256": "bbd420f338aaaa52ba88c499950a52e5d3b7d8513e92a8b5ce07f18c3f7a9f44"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1977-0010",
+   "short": "Ley 10 de 1977",
+   "title": "Ley 10 de 1977: Por la cual se modifica un articulo de la ley numero 3 de 20 de enero de 1977.",
+   "url": "https://legispan.asamblea.gob.pa/norms/50cfcc2b-1316-4c17-90b3-5ac469dd0bfe",
+   "versions": [
+    {
+     "from": "1977-03-18",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1977/LEY/Administrador%20Legispan_18296_1977_3_18_CONSEJO%20NACIONAL%20DE%20LEGISLACION_10.pdf",
+     "sha256": "04e4324d7d5537354361c83a2b1992021d20e330e6d8809eb3763912e3185354"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1977-0046",
+   "short": "Ley 46 de 1977",
+   "title": "Ley 46 de 1977: Por la cual se crea la corporacion agroindustrial de azuero.",
+   "url": "https://legispan.asamblea.gob.pa/norms/0de218db-d039-4fd3-a4b7-daa7a03c365a",
+   "versions": [
+    {
+     "from": "1977-12-12",
+     "units": 3,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1977/LEY/Administrador%20Legispan_18475_1977_12_12_CONSEJO%20NACIONAL%20DE%20LEGISLACION_46.pdf",
+     "sha256": "eb41c6a39b75c4c01189c081239031a39666c6e4b4aacd246b1a76221ece80c6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0007",
+   "short": "Ley 7 de 1978",
+   "title": "Ley 7 de 1978: POR LA CUAL SE DEROGA EL DECRETO DE GABINETE Nº343 DEL 31 DE OCTUBRE DE 1969, SOBRE EJERCICIO DE LA LIBERTAD DE EXPRESION Y RESPONSABILIDAD QUE ENGENDRA.",
+   "url": "https://legispan.asamblea.gob.pa/norms/9940eee0-b596-4a5b-9b3f-4b086b4d82ef",
+   "versions": [
+    {
+     "from": "1978-02-14",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18516_1978_2_14_CONSEJO%20NACIONAL%20DE%20LEGISLACION_7.pdf",
+     "sha256": "cacf19b402e0ce2d02537f696ec59e69720b0e6c6472a1c636cbcdea45c9c9eb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0010",
+   "short": "Ley 10 de 1978",
+   "title": "Ley 10 de 1978: Por la cual se declara de utilidad publica la construccion de la autopista arraijan - la chorrera.",
+   "url": "https://legispan.asamblea.gob.pa/norms/f1f67285-a89c-4024-a957-fc9066be0ac2",
+   "versions": [
+    {
+     "from": "1978-02-15",
+     "units": 10,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18517_1978_2_15_CONSEJO%20NACIONAL%20DE%20LEGISLACION_10.pdf",
+     "sha256": "b06fd14eb359aadf80bb87c6edf3ab3c31deaeb5848f8bdf5eafeb2a070f1b7b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0015",
+   "short": "Ley 15 de 1978",
+   "title": "Ley 15 de 1978: Por la cual se autoriza al dr. nicolas ardito barleta, ministro de planificacion y politica economica, o el embajador de la republica de panama ante el reino unido de gran bretaña e irlanda del norte, para la contratacion de un emprestito en el...",
+   "url": "https://legispan.asamblea.gob.pa/norms/271c8bf3-fe7e-499d-8abf-e9dfc060dd05",
+   "versions": [
+    {
+     "from": "1978-02-22",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18522_1978_2_22_CONSEJO%20NACIONAL%20DE%20LEGISLACION_15.pdf",
+     "sha256": "6e286043e73803ebd88ba3326c11a94a7ec1a2449aa561310b83b671d3c6e306"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0001",
+   "short": "Ley 1 de 1978",
+   "title": "Ley 1 de 1978: POR LA CUAL SE DICTA EL PRESUPUESTO DEL GOBIERNO CENTRAL PARA EL AÑO FISCAL COMPRENDIDO ENTRE EL 1º DE ENERO Y EL 31 DE DICIEMBRE DE 1978.",
+   "url": "https://legispan.asamblea.gob.pa/norms/b4aea04e-57eb-4e47-ae4d-9ddff859c3a0",
+   "versions": [
+    {
+     "from": "1978-02-23",
+     "units": 47,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18523_1978_2_23_CONSEJO%20NACIONAL%20DE%20LEGISLACION_1.pdf",
+     "sha256": "9ed8d93fa7a595683bf72fec846970612bb84c12cc0f535f9c569d6428772aad"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0014",
+   "short": "Ley 14 de 1978",
+   "title": "Ley 14 de 1978: Por la cual se crea un fondo especial para el servicio telegrafico.",
+   "url": "https://legispan.asamblea.gob.pa/norms/12edcee1-4502-49fc-8835-e04f7b2dd3d4",
+   "versions": [
+    {
+     "from": "1978-02-28",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18526_1978_2_28_CONSEJO%20NACIONAL%20DE%20LEGISLACION_14.pdf",
+     "sha256": "452461cb732dcaa5c96208f5dbcd273477a1ae4eec54fd061bd5ab9f7480b5af"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0017",
+   "short": "Ley 17 de 1978",
+   "title": "Ley 17 de 1978: POR LA CUAL SE REFORMA EL ARTICULO 24 DE LA LEY Nº 5 DE 10 DE FEBRERO DE 1978.",
+   "url": "https://legispan.asamblea.gob.pa/norms/6efd9055-76f6-4f6d-8f0a-dc60ae7b9b0c",
+   "versions": [
+    {
+     "from": "1978-02-28",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18526_1978_2_28_CONSEJO%20NACIONAL%20DE%20LEGISLACION_17.pdf",
+     "sha256": "b456309a514488cad212d559c47d80c0f8ba9ca84fb3e006ca071dacc6daacf7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0016",
+   "short": "Ley 16 de 1978",
+   "title": "Ley 16 de 1978: Por la cual se autoriza la emision de pagare del estado.",
+   "url": "https://legispan.asamblea.gob.pa/norms/88deed5e-0886-4915-a97b-0703a6ac9d28",
+   "versions": [
+    {
+     "from": "1978-03-01",
+     "units": 12,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18527_1978_3_1_CONSEJO%20NACIONAL%20DE%20LEGISLACION_16.pdf",
+     "sha256": "587ecbd4d7ac97fd92fc3a1416fdd17d5ed80dc796905ce3fd7f27dcc22a717c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0023",
+   "short": "Ley 23 de 1978",
+   "title": "Ley 23 de 1978: Por la cual se declara dia de fiesta nacional el 18 de abril de 1978.",
+   "url": "https://legispan.asamblea.gob.pa/norms/5915959e-d032-4ea2-922f-baf746a33578",
+   "versions": [
+    {
+     "from": "1978-05-05",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18570_1978_5_5_CONSEJO%20NACIONAL%20DE%20LEGISLACION_23.pdf",
+     "sha256": "721d333ddc6949230297cef3625b9fe8661f6bf29b0f7d299128afba1d4e557f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0026",
+   "short": "Ley 26 de 1978",
+   "title": "Ley 26 de 1978: Por la cual se reconoce una exoneracion de impuesto. (a f. l. smidth & co. a / s de copenhague, dinamarca por contrato para la construccion de la fabrica estatal de cemento en calzada larga, chilibre).",
+   "url": "https://legispan.asamblea.gob.pa/norms/257b03b0-0d14-48c6-ae70-8dfa2b37b82f",
+   "versions": [
+    {
+     "from": "1978-05-23",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18582_1978_5_23_CONSEJO%20NACIONAL%20DE%20LEGISLACION_26.pdf",
+     "sha256": "512253eac1881fdcb95e5da561326a4fce1868a58d4ede365b1283e2325ef740"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0029",
+   "short": "Ley 29 de 1978",
+   "title": "Ley 29 de 1978: Por la cual se autoriza al instituto panameño de turismo para que efectue sobre la playa en el corregimiento de san felipe un relleno y se faculta al organo ejecutivo para traspasar el lote que resulte al ipat.",
+   "url": "https://legispan.asamblea.gob.pa/norms/b790c507-f259-441f-a81e-11b688962513",
+   "versions": [
+    {
+     "from": "1978-06-13",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18597_1978_6_13_CONSEJO%20NACIONAL%20DE%20LEGISLACION_29.pdf",
+     "sha256": "5e90b2be9f29da3c783f8d55a4dee0153d98fb67c6d6d9e98101d3410dcf0fc6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0032",
+   "short": "Ley 32 de 1978",
+   "title": "Ley 32 de 1978: Por la cual se adiciona el articulo 11a al codigo de comercio. (fusion de sociedades constituidas en panama con sociedades extranjeras para constituir una sola sociedad)",
+   "url": "https://legispan.asamblea.gob.pa/norms/1431c5aa-b82e-4cb1-aea6-233b78efeee6",
+   "versions": [
+    {
+     "from": "1978-07-17",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18621_1978_7_17_CONSEJO%20NACIONAL%20DE%20LEGISLACION_32.pdf",
+     "sha256": "923fdc95ca9e7e7310fbfa6e19241d316e9238ad9bf6d28af90dc8891ef0099f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0037",
+   "short": "Ley 37 de 1978",
+   "title": "Ley 37 de 1978: Por la cual se crea la empresa nacional de maquinarias agricola y se determinan su organizacion y funciones.",
+   "url": "https://legispan.asamblea.gob.pa/norms/17227996-254f-4bf3-aee4-84cd782d0458",
+   "versions": [
+    {
+     "from": "1978-08-09",
+     "units": 25,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18638_1978_8_9_CONSEJO%20NACIONAL%20DE%20LEGISLACION_37.pdf",
+     "sha256": "7cc9d0889e58d16229094edeeb793816f321885aa2224598755910f2dceed615"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0047",
+   "short": "Ley 47 de 1978",
+   "title": "Ley 47 de 1978: Por la cual se crea el fondo de fomento, para brindar financiamiento, efectuar aportes de capital o garantizar operaciones de credito a empresas que realicen proyectos de alto riesgo.",
+   "url": "https://legispan.asamblea.gob.pa/norms/1264e6e4-6707-4a89-ab34-968ca13a5e2f",
+   "versions": [
+    {
+     "from": "1978-08-23",
+     "units": 8,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18647_1978_8_23_CONSEJO%20NACIONAL%20DE%20LEGISLACION_47.pdf",
+     "sha256": "b8eb10310bb8528b9cc719f1f929e6f84dca704184623dd06937805c66271b84"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0050",
+   "short": "Ley 50 de 1978",
+   "title": "Ley 50 de 1978: Se modifica el articulo 1083-a (los consules privativos de la marina mercante quedan facultados para recibir y tramitar solicitudes de inscripcion preliminar de los titulos de la propiedad de las naves) del codigo de comercio.",
+   "url": "https://legispan.asamblea.gob.pa/norms/864f5fd1-3b6f-473f-bad4-fa1fa7052181",
+   "versions": [
+    {
+     "from": "1978-09-12",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18661_1978_9_12_CONSEJO%20NACIONAL%20DE%20LEGISLACION_50.pdf",
+     "sha256": "00511730ace0fb9e719f2840fd64ed649fcc0fa76c8848d60660e05d99193087"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0051",
+   "short": "Ley 51 de 1978",
+   "title": "Ley 51 de 1978: Por la cual se conceden exenciones a los organismos cooperativos internacionales de asesoria, promocion o fomento del cooperativismo.",
+   "url": "https://legispan.asamblea.gob.pa/norms/dcba7bf1-22c5-45a6-a921-11c2058ef75c",
+   "versions": [
+    {
+     "from": "1978-09-12",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18661_1978_9_12_CONSEJO%20NACIONAL%20DE%20LEGISLACION_51.pdf",
+     "sha256": "c313da8900113a87b8c892465e2a0b23ba0dad9d6236be28cc4b0b7747d1d778"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0053",
+   "short": "Ley 53 de 1978",
+   "title": "Ley 53 de 1978: Por la cual se modifican los articulos 1, 4 y 5 y se deroga el articulo 2 de la ley 71 de 20 de septiembre de 1973. (por la cual se dictan medidas sobre areas contiguas a carreteras o caminos)",
+   "url": "https://legispan.asamblea.gob.pa/norms/4ebbcdd1-a0cf-45a6-919f-2a8865f14053",
+   "versions": [
+    {
+     "from": "1978-09-13",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18662_1978_9_13_CONSEJO%20NACIONAL%20DE%20LEGISLACION_53.pdf",
+     "sha256": "dfdb315f53114b8bf0ec2a0fce2d3ab0b3c1570108b1594f60a966820d1352cf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0059",
+   "short": "Ley 59 de 1978",
+   "title": "Ley 59 de 1978: Por la cual se aumenta la pension a los soldados de la independencia y a sus viudas o compañeros.",
+   "url": "https://legispan.asamblea.gob.pa/norms/25aa4265-bfdb-4231-8880-7acf25d3b3ff",
+   "versions": [
+    {
+     "from": "1978-09-25",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18670_1978_9_25_CONSEJO%20NACIONAL%20DE%20LEGISLACION_59.pdf",
+     "sha256": "f140affca7c3427491da40bbfa7024d97bf4999e2184e607f932139d85b9f739"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0062",
+   "short": "Ley 62 de 1978",
+   "title": "Ley 62 de 1978: POR LA CUAL SE REFORMA EL ARTICULO 1º DE LA LEY 68 DE 6 DE FEBRERO DE 1963. (SOLDADOS DE COTO).",
+   "url": "https://legispan.asamblea.gob.pa/norms/9130d3f0-1656-428b-9cb7-43650dbd2126",
+   "versions": [
+    {
+     "from": "1978-09-25",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18670_1978_9_25_CONSEJO%20NACIONAL%20DE%20LEGISLACION_62.pdf",
+     "sha256": "c57e452635a87db3b52d88db5492721ab97d351a35f57bbf31004a08e5271e6b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0063",
+   "short": "Ley 63 de 1978",
+   "title": "Ley 63 de 1978: POR LA CUAL SE ADICIONA UN PARAGRAFO AL ORDINAL 10 DEL ARTICULO 2º DEL CODIGO DE COMERCIO.",
+   "url": "https://legispan.asamblea.gob.pa/norms/2f5005c8-89b6-4484-b333-2ebadf04a3d0",
+   "versions": [
+    {
+     "from": "1978-09-25",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18670_1978_9_25_CONSEJO%20NACIONAL%20DE%20LEGISLACION_63.pdf",
+     "sha256": "ab777c9aa63c751ccb62333a847a3486d59a0a21761e8b9bc4cf324d01c8b632"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0073",
+   "short": "Ley 73 de 1978",
+   "title": "Ley 73 de 1978: Por la cual se adiciona al codigo fiscal el articulo 1172 - j, transitorio. (monedas)",
+   "url": "https://legispan.asamblea.gob.pa/norms/19f1e244-a4f7-41c6-95e3-9aa994ed9ff8",
+   "versions": [
+    {
+     "from": "1978-09-26",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18671_1978_9_26_CONSEJO%20NACIONAL%20DE%20LEGISLACION_73.pdf",
+     "sha256": "2bcc0186cfc02f80d12c28040dd7e3e265371efd0e65566b13e8d40ebaa53908"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0065",
+   "short": "Ley 65 de 1978",
+   "title": "Ley 65 de 1978: Por la cual se presenta a la asamblea nacional de representante de corregimientos, reformas a los articulo 181 y 217 de la constitucion politica de la republica de panama.",
+   "url": "https://legispan.asamblea.gob.pa/norms/17736c0c-2b31-445f-99ab-fe16d1760dce",
+   "versions": [
+    {
+     "from": "1978-09-29",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18674_1978_9_29_CONSEJO%20NACIONAL%20DE%20LEGISLACION_65.pdf",
+     "sha256": "a66007852ea5d8579eea9afcc8f4187ade5b50993ee6bf47f52806b32761deaa"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0064",
+   "short": "Ley 64 de 1978",
+   "title": "Ley 64 de 1978: POR LA CUAL SE MODIFICAN LOS ARTICULOS 3,4,6, Y SE ADICIONA UN ARTICULO NUE VO A LA LEY Nº99 DE 30 DE DICIEMBRE DE 1974, ORGANICA DE LA EMPRESA ESTATAL DE CEMENTO \"BAYANO\".",
+   "url": "https://legispan.asamblea.gob.pa/norms/47288799-48c9-4a28-a143-ff6c070f5d66",
+   "versions": [
+    {
+     "from": "1978-10-04",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18677_1978_10_4_CONSEJO%20NACIONAL%20DE%20LEGISLACION_64.pdf",
+     "sha256": "f8755e6ebc37f9649de6c5ac1303b9c3a95f215ac6276dc493199bc9e08a704f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0060",
+   "short": "Ley 60 de 1978",
+   "title": "Ley 60 de 1978: Por la cual se reglamenta la visa especial para marinos extranjero que ingrese como tal a la republica de panama, lo hara mediante una visa especial para marinos valida por 30 dias expedida por el departamento de migracion (mgyj)",
+   "url": "https://legispan.asamblea.gob.pa/norms/8a57474b-e332-4d7a-b6fa-f69bcacc7f2d",
+   "versions": [
+    {
+     "from": "1978-10-17",
+     "units": 13,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18684_1978_10_17_CONSEJO%20NACIONAL%20DE%20LEGISLACION_60.pdf",
+     "sha256": "86ff530cbeaf43bfe2876ad761efb419e634f0550e630f1c36c18262f18bec7e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0070",
+   "short": "Ley 70 de 1978",
+   "title": "Ley 70 de 1978: POR LA CUAL SE MODIFICA LA CLAUSULA SEXTA DEL CONTRATO Nº69 DE 5 DE SEPTIEMBRE DE 1973, AUTORIZADA MEDIANTE LA LEY 61 DE 1973. (CON LA SOCIEDAD COBRE PANAMA, S.A. PARA LA EXPLORACION DE MINERALES DE COBRE Y OTROS EN COLON)",
+   "url": "https://legispan.asamblea.gob.pa/norms/f12fd8cb-f19f-4a47-8a71-21c5f497d765",
+   "versions": [
+    {
+     "from": "1978-10-18",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18685_1978_10_18_CONSEJO%20NACIONAL%20DE%20LEGISLACION_70.pdf",
+     "sha256": "3f38019e78bf1857f520d38299db535ee9ec5619f594b06f7d7e5fb3526b107c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0076",
+   "short": "Ley 76 de 1978",
+   "title": "Ley 76 de 1978: POR LA CUAL SE MODIFICA LA LEY Nº 20 DE 22 DE ABRIL DE 1975 (POR LA CUAL SE REORGANIZA EL BANCO NACIONAL DE PANAMA), REFORMADA POR LEY Nº 17 DE 9 DE ABRIL DE 1976.",
+   "url": "https://legispan.asamblea.gob.pa/norms/a4940133-7620-455a-aac4-c716e97aab78",
+   "versions": [
+    {
+     "from": "1978-10-19",
+     "units": 8,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18686_1978_10_19_CONSEJO%20NACIONAL%20DE%20LEGISLACION_76.pdf",
+     "sha256": "67f0c644dfa7734f925080f70caa7ae363b731c5a814140a4118729e9e3cbdcd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1978-0079",
+   "short": "Ley 79 de 1978",
+   "title": "Ley 79 de 1978: Por la cual se reforma la ley 53 de 1951. (por la cual se crea el instituto de panameño de habilitacion especial).",
+   "url": "https://legispan.asamblea.gob.pa/norms/2027f6e4-32e9-45e5-bf56-63e053284601",
+   "versions": [
+    {
+     "from": "1978-10-20",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1978/LEY/Administrador%20Legispan_18687_1978_10_20_CONSEJO%20NACIONAL%20DE%20LEGISLACION_79.pdf",
+     "sha256": "92982238b7641b28e9e39fe0f2ba473bdbdceb36bcf6b0bfb7ecf5511bf63b5c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0010",
+   "short": "Ley 10 de 1979",
+   "title": "Ley 10 de 1979: Por la cual se toman medidas de aumentos de salarios",
+   "url": "https://legispan.asamblea.gob.pa/norms/612833c9-e59c-414d-8834-0b48e91bec12",
+   "versions": [
+    {
+     "from": "1979-05-31",
+     "units": 16,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18835_1979_5_31_CONSEJO%20NACIONAL%20DE%20LEGISLACION_10.pdf",
+     "sha256": "74d9caf472497e188a6321d05e95c30728584ce26d145ca383b5c5637511c5fe"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0011",
+   "short": "Ley 11 de 1979",
+   "title": "Ley 11 de 1979: Por la cual se exonera a la cruz roja nacional del pago de telefonos, gas, luz y agua.",
+   "url": "https://legispan.asamblea.gob.pa/norms/ef176871-9515-4e87-8e6d-487ec6c67c68",
+   "versions": [
+    {
+     "from": "1979-06-29",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18856_1979_6_29_CONSEJO%20NACIONAL%20DE%20LEGISLACION_11.pdf",
+     "sha256": "8e7ef3a4474b6d31ecb2cf7ce764dd3b82992d3e23409268ff0896f038450aae"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0014",
+   "short": "Ley 14 de 1979",
+   "title": "Ley 14 de 1979: Por la cual se autoriza la acuñacion de monedas de interes numismatico y se adiciona, con caracter transitorio el articulo 1172-n al codigo fiscal.",
+   "url": "https://legispan.asamblea.gob.pa/norms/de9400ff-66d3-4dcb-94dd-a4829df9661b",
+   "versions": [
+    {
+     "from": "1979-07-20",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18871_1979_7_20_CONSEJO%20NACIONAL%20DE%20LEGISLACION_14.pdf",
+     "sha256": "362fb191e69a36c4ea414cd1857f3657d60abc21bfcf44393356fa61790e768c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0018",
+   "short": "Ley 18 de 1979",
+   "title": "Ley 18 de 1979: POR LA CUAL SE DEROGA EL ARTICULO 20 DEL DECRETO DE GABINETE Nº2 DEL 13 DE ENERO DE 1972, Y SE DICTA OTRA DISPOSICION RELATIVA A LOS CORREGIMIENTOS DE CRISTOBAL Y ANCON, CREADOS MEDIANTE LEY Nº1 DE 17 DE AGOSTO DE 1979.",
+   "url": "https://legispan.asamblea.gob.pa/norms/6e68ef3b-7406-470f-bd7d-ec348b469428",
+   "versions": [
+    {
+     "from": "1979-09-21",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18914_1979_9_21_CONSEJO%20NACIONAL%20DE%20LEGISLACION_18.pdf",
+     "sha256": "e49477ac23a7c0199bf58f649654195d1a24818721b372396c6f9a7101f491e7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0020",
+   "short": "Ley 20 de 1979",
+   "title": "Ley 20 de 1979: POR LA CUAL SE MODIFICA LA LEY Nº112 DE 30 DE DICIEMBRE DE 1974, SOBRE JUSTICIA ADMINISTRATIVA POLICIAL.",
+   "url": "https://legispan.asamblea.gob.pa/norms/8a61fcfb-2209-4c62-880f-74ef9b21ecfd",
+   "versions": [
+    {
+     "from": "1979-09-21",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18914_1979_9_21_CONSEJO%20NACIONAL%20DE%20LEGISLACION_20.pdf",
+     "sha256": "fdaf37e9841b85387474af28288862626bc02c8524547914562efc4ed27642c1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0022",
+   "short": "Ley 22 de 1979",
+   "title": "Ley 22 de 1979: Por la cual se crea los juzgados y agencias del ministerio publico en el area del canal de panama.",
+   "url": "https://legispan.asamblea.gob.pa/norms/f093b77c-c0e7-4258-a280-d595c067c5e0",
+   "versions": [
+    {
+     "from": "1979-09-24",
+     "units": 23,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18915_1979_9_24_CONSEJO%20NACIONAL%20DE%20LEGISLACION_22.pdf",
+     "sha256": "357570447ea5f1320a17424b2913cc60ed139b3e4e6d6b8cc7b3e840d00ee2e6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0024",
+   "short": "Ley 24 de 1979",
+   "title": "Ley 24 de 1979: Por la cual se reglamenta la inscripcion de las organizaciones sociales de trabajadores existentes en el area del canal de panama.",
+   "url": "https://legispan.asamblea.gob.pa/norms/48166579-4bc8-4823-8329-39436b5f0c7e",
+   "versions": [
+    {
+     "from": "1979-09-24",
+     "units": 23,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18915_1979_9_24_CONSEJO%20NACIONAL%20DE%20LEGISLACION_24.pdf",
+     "sha256": "70fa73cb916b3e9f65fad845d119cde8d2f5546520628a93dd6d13af53828bac"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0025",
+   "short": "Ley 25 de 1979",
+   "title": "Ley 25 de 1979: Por la cual se dictan medidas laborales relacionadas con la entrada en vigencia del tratado del canal de panama.",
+   "url": "https://legispan.asamblea.gob.pa/norms/f1dec411-3ab9-44b9-9661-421ab302097a",
+   "versions": [
+    {
+     "from": "1979-09-24",
+     "units": 8,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18915_1979_9_24_CONSEJO%20NACIONAL%20DE%20LEGISLACION_25.pdf",
+     "sha256": "0d3db956b37f0686390264690f1937286e8cd08692fc7ac70f382cf4fa1352b1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0026",
+   "short": "Ley 26 de 1979",
+   "title": "Ley 26 de 1979: Por la cual se reglamenta los permisos provisionales de trabajo para extranjeros en el area del canal de panama.",
+   "url": "https://legispan.asamblea.gob.pa/norms/0f6d724f-7b0a-4424-a2f1-36266fea3b57",
+   "versions": [
+    {
+     "from": "1979-09-24",
+     "units": 9,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18915_1979_9_24_CONSEJO%20NACIONAL%20DE%20LEGISLACION_26.pdf",
+     "sha256": "08b7f943cf0be7f7e4c9fe54c1471b2fbba977109f57ec5c00ffadbc04fe0198"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0019",
+   "short": "Ley 19 de 1979",
+   "title": "Ley 19 de 1979: Por la cual se adiciona el articulo 2067 y se modifica el articulo 2090 del codigo judicial.",
+   "url": "https://legispan.asamblea.gob.pa/norms/faf1e5bb-ebda-43fa-97d8-7c56aa6957ff",
+   "versions": [
+    {
+     "from": "1979-09-25",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18916_1979_9_25_CONSEJO%20NACIONAL%20DE%20LEGISLACION_19.pdf",
+     "sha256": "965e811a6763ca5f8b38bfd96c82664d9041896b9ed2e9b952234e486eb75dfe"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0023",
+   "short": "Ley 23 de 1979",
+   "title": "Ley 23 de 1979: Por la cual se crea el juzgado quinto de trabajo de primera seccion y el juzgado tercero de trabajo de segunda seccion.",
+   "url": "https://legispan.asamblea.gob.pa/norms/28fd0ffe-103c-4820-b3da-283f928a7e42",
+   "versions": [
+    {
+     "from": "1979-09-26",
+     "units": 10,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18917_1979_9_26_CONSEJO%20NACIONAL%20DE%20LEGISLACION_23.pdf",
+     "sha256": "27942bbff238e04dcb45e5fee8af95f8dfa5f6bd88ca41a1f3761469a75036b1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0028",
+   "short": "Ley 28 de 1979",
+   "title": "Ley 28 de 1979: Por la cual se reglamenta un permiso temporal de residencia.",
+   "url": "https://legispan.asamblea.gob.pa/norms/ae56ff96-50f5-4d65-8a0c-aacc030cdac2",
+   "versions": [
+    {
+     "from": "1979-09-26",
+     "units": 13,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18917_1979_9_26_CONSEJO%20NACIONAL%20DE%20LEGISLACION_28.pdf",
+     "sha256": "9668445ba13ecac1f07c95de4077497feed1591bfad1fee8858806080a4a47a1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0030",
+   "short": "Ley 30 de 1979",
+   "title": "Ley 30 de 1979: Por la cual se autoriza la acuñacion de monedas de interes numismatico y se adiciona, con caracter transitorio, el articulo 1172-o al codigo fiscal.",
+   "url": "https://legispan.asamblea.gob.pa/norms/7d152973-a373-4273-8ac5-7ba6b45dc544",
+   "versions": [
+    {
+     "from": "1979-10-16",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18927_1979_10_16_CONSEJO%20NACIONAL%20DE%20LEGISLACION_30.pdf",
+     "sha256": "0e119142ab53a231c37c56c2397f36e6c7bc931b91c38b6aa807fbfe48fc72a8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0038",
+   "short": "Ley 38 de 1979",
+   "title": "Ley 38 de 1979: Por la cual se otorga derecho a los servidores publicos del ferrocarril de panama para construir una organizacion sindical.",
+   "url": "https://legispan.asamblea.gob.pa/norms/3c6e74d0-a167-4f55-9886-c5529580a096",
+   "versions": [
+    {
+     "from": "1979-10-16",
+     "units": 18,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18927_1979_10_16_CONSEJO%20NACIONAL%20DE%20LEGISLACION_38.pdf",
+     "sha256": "86bb3b491e0b7f883758abde2ca30d49c5bb1b67029227ba8af81e0202dd040a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0042",
+   "short": "Ley 42 de 1979",
+   "title": "Ley 42 de 1979: Por la cual se regula el transito de buques extranjeros por el mar territorial panameño.",
+   "url": "https://legispan.asamblea.gob.pa/norms/9fd22c1a-912e-4b21-a6f7-daf31e77aacd",
+   "versions": [
+    {
+     "from": "1979-10-26",
+     "units": 38,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18935_1979_10_26_CONSEJO%20NACIONAL%20DE%20LEGISLACION_42.pdf",
+     "sha256": "cb1f7a075ed3a5044accce643ed398353fecba8a433e7aa2b3cf64f05a4ee867"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0045",
+   "short": "Ley 45 de 1979",
+   "title": "Ley 45 de 1979: POR LA CUAL SE MODIFICA EL ARTICULO 4º DE LA LEY Nº39 DE 8 DE JULIO DE 1976 Y SE ADICIONAN OTROS ARTICULOS AL MISMO TEXTO LEGAL.",
+   "url": "https://legispan.asamblea.gob.pa/norms/037e575e-0a9f-4a22-b635-2a41671fc891",
+   "versions": [
+    {
+     "from": "1979-11-13",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18946_1979_11_13_CONSEJO%20NACIONAL%20DE%20LEGISLACION_45.pdf",
+     "sha256": "1c10c62609d837b03f7a82ae60d451b5612559ebefa60bbeae50f3385a2d5f4c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0049",
+   "short": "Ley 49 de 1979",
+   "title": "Ley 49 de 1979: Por la cual se modifica el articulo 33 de la ley 36 de 27 de septiembre de 1979",
+   "url": "https://legispan.asamblea.gob.pa/norms/fba47804-f3cd-40d6-a4dc-f51955121c43",
+   "versions": [
+    {
+     "from": "1979-12-01",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18959_1979_12_1_CONSEJO%20NACIONAL%20DE%20LEGISLACION_49.pdf",
+     "sha256": "0368747abde0e85e60101d2f9cee5d20035e118a8b710ade102d3e33e3b10360"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0050",
+   "short": "Ley 50 de 1979",
+   "title": "Ley 50 de 1979: Por la cual el sistema estatal de radiodifusion y otros medios de comunicacion social del estado transmitiran las sesiones del consejo nacional de legislacion y de la asamblea nacional de representantes de corregimientos.",
+   "url": "https://legispan.asamblea.gob.pa/norms/1d03ea3f-464c-4cf0-b307-40a1ce17d060",
+   "versions": [
+    {
+     "from": "1979-12-17",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18971_1979_12_17_CONSEJO%20NACIONAL%20DE%20LEGISLACION_50.pdf",
+     "sha256": "0d5a5a576b8f97dbd62baa12d613296b2abe7ff5cf33e2105c06bbdba3759dae"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0052",
+   "short": "Ley 52 de 1979",
+   "title": "Ley 52 de 1979: POR LA CUAL SE LE ADICIONA UN PARAGRAFO A LOS ARTICULOS 8 Y 10 DE LA LEY No. 100 DE 4 DE OCTUBRE DE 1973.",
+   "url": "https://legispan.asamblea.gob.pa/norms/62ecca81-6d91-4e58-a662-5bb981584822",
+   "versions": [
+    {
+     "from": "1979-12-17",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18971_1979_12_17_CONSEJO%20NACIONAL%20DE%20LEGISLACION_52.pdf",
+     "sha256": "8a4ea3845f2e7b452a896bffdd2445a8415cf9e508cb5e82117bb3a494eed7b2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1979-0051",
+   "short": "Ley 51 de 1979",
+   "title": "Ley 51 de 1979: POR LA CUAL SE MODIFICA Y ADICIONA ARTICULOS DE LA LEY Nº 94 DE 4 DE OCTUBRE DE 1973. SE ESTABLECE Y REGLAMENTA LA CONTRIBUCION DE MEJORAS POR VALORIZACION.",
+   "url": "https://legispan.asamblea.gob.pa/norms/e76fb1a2-ed5a-4fbb-9f78-e872f19995ab",
+   "versions": [
+    {
+     "from": "1980-01-23",
+     "units": 9,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1970/1979/LEY/Administrador%20Legispan_18993_1980_1_23_CONSEJO%20NACIONAL%20DE%20LEGISLACION_51.pdf",
+     "sha256": "a9d6fcb8681fa2c0e5aa987cf2f382f7b51982ecea26ac8931d305b84b7b28fd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0001",
+   "short": "Ley 1 de 1980",
+   "title": "Ley 1 de 1980: Por la cual se modifica el articulo 5 de la ley 97 de 4 de octubre de 1973. (se establece el descuento obligatorio para el pago de vivienda).",
+   "url": "https://legispan.asamblea.gob.pa/norms/79d925e6-25ab-45ce-b981-af3dee5a1154",
+   "versions": [
+    {
+     "from": "1980-02-04",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19002_1980_2_4_CONSEJO%20NACIONAL%20DE%20LEGISLACION_1.pdf",
+     "sha256": "750d479fbc5337658ce514f5c590e1b17c78aab2e65c66cfd00b22f4a5a0101d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0004",
+   "short": "Ley 4 de 1980",
+   "title": "Ley 4 de 1980: Por la cual se crea el fondo de credito para el educador.",
+   "url": "https://legispan.asamblea.gob.pa/norms/75818dc9-96a7-45df-9824-ea13214c6d73",
+   "versions": [
+    {
+     "from": "1980-02-14",
+     "units": 24,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19010_1980_2_14_CONSEJO%20NACIONAL%20DE%20LEGISLACION_4.pdf",
+     "sha256": "0e90887a02da19fb4027e0ed853e4a5d02cf1c1150694fccbb4c27a45b7b8d4f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0005",
+   "short": "Ley 5 de 1980",
+   "title": "Ley 5 de 1980: Por la cual se reconocen los años de servicio en instituciones educativas particulares a educadores que no dependen del ministerio de educacion y se toman otras medidas.",
+   "url": "https://legispan.asamblea.gob.pa/norms/b11487ca-6a2a-43e3-8449-d54bb96945be",
+   "versions": [
+    {
+     "from": "1980-02-14",
+     "units": 10,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19010_1980_2_14_CONSEJO%20NACIONAL%20DE%20LEGISLACION_5.pdf",
+     "sha256": "dbd6f2c1b2b6c030abddade0a1ca20b5988783ed014e31ea7e9d012f92a25134"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0008",
+   "short": "Ley 8 de 1980",
+   "title": "Ley 8 de 1980: Por el cual se otorgan incentivos fiscales a la industria de la construccion",
+   "url": "https://legispan.asamblea.gob.pa/norms/c79828a9-0587-41c6-bfa6-2b48434029db",
+   "versions": [
+    {
+     "from": "1980-03-24",
+     "units": 9,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19034_1980_3_24_CONSEJO%20NACIONAL%20DE%20LEGISLACION_8.pdf",
+     "sha256": "4564d38942b0a26c272e226f28d4040f3cce46c9b50d7043c5496fcbfe7e7871"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0012",
+   "short": "Ley 12 de 1980",
+   "title": "Ley 12 de 1980: Por la cual se dictan medidas sobre aumentos de salarios para los trabajadores de empresas particulares.",
+   "url": "https://legispan.asamblea.gob.pa/norms/cfe4066e-9c5e-424a-912f-f10c96a4ce83",
+   "versions": [
+    {
+     "from": "1980-05-16",
+     "units": 16,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19070_1980_5_16_CONSEJO%20NACIONAL%20DE%20LEGISLACION_12.pdf",
+     "sha256": "70b43558f02e994b0926f84109a3470ef9e9f3269ec15fc2f23d0b50a5ed0f80"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0016",
+   "short": "Ley 16 de 1980",
+   "title": "Ley 16 de 1980: Por la cual se autoriza la acuñacion de monedas de interes numismatico y se adiciona con caracter transitorio,el articulo 1172-p al codigo fiscal.",
+   "url": "https://legispan.asamblea.gob.pa/norms/043eb5ef-3a00-4031-a323-a20339cc0c0e",
+   "versions": [
+    {
+     "from": "1980-06-24",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19097_1980_6_24_CONSEJO%20NACIONAL%20DE%20LEGISLACION_16.pdf",
+     "sha256": "c8c38de03f861130868f4d62f12aecff7084be0c618765bc3a1e9d3da54f07bb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0018",
+   "short": "Ley 18 de 1980",
+   "title": "Ley 18 de 1980: Por la cual se modifican las leyes 94 de 4 de octubre de 1973 y 51 de 27 de noviembre de 1979.",
+   "url": "https://legispan.asamblea.gob.pa/norms/84ca1884-1741-4570-b125-4ae68e10a496",
+   "versions": [
+    {
+     "from": "1980-07-08",
+     "units": 8,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19107_1980_7_8_CONSEJO%20NACIONAL%20DE%20LEGISLACION_18.pdf",
+     "sha256": "a3a59d50253e259c5e62cce50889152fc22f7cc323e69f704c5b610d1f9544a6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0023",
+   "short": "Ley 23 de 1980",
+   "title": "Ley 23 de 1980: Por la cual se excluye del dominio publico un area de terreno.",
+   "url": "https://legispan.asamblea.gob.pa/norms/cda87cc6-9473-45fe-8014-382342e7132d",
+   "versions": [
+    {
+     "from": "1980-07-28",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19121_1980_7_28_CONSEJO%20NACIONAL%20DE%20LEGISLACION_23.pdf",
+     "sha256": "94f42beba0bed6039ad052a591de4fdb0f6de99683503ed215bc64402c0a770b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0026",
+   "short": "Ley 26 de 1980",
+   "title": "Ley 26 de 1980: POR LA CUAL SE ADICIONA EL LITERAL K, AL PARRAFO 8º DEL ARTICULO 1057-V, EL CODIGO FISCAL.",
+   "url": "https://legispan.asamblea.gob.pa/norms/63c4bded-7e99-4b05-bfff-1e6f1c8296d4",
+   "versions": [
+    {
+     "from": "1980-08-18",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19135_1980_8_18_CONSEJO%20NACIONAL%20DE%20LEGISLACION_26.pdf",
+     "sha256": "7ede4eb778fc15638fd39f1a12718cb4d6405c55b00284bba4269f5371f093bc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0027",
+   "short": "Ley 27 de 1980",
+   "title": "Ley 27 de 1980: Por la cual se modifican unas disposiciones del decreto ley 22 de 1966.",
+   "url": "https://legispan.asamblea.gob.pa/norms/e2914875-a458-4d30-af54-cb545968edba",
+   "versions": [
+    {
+     "from": "1980-09-09",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19151_1980_9_9_CONSEJO%20NACIONAL%20DE%20LEGISLACION_27.pdf",
+     "sha256": "c6492bad46c5636ba21780201796605c3c8b9fe5866326f99acd2898b3acba73"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0050",
+   "short": "Ley 50 de 1980",
+   "title": "Ley 50 de 1980: Por la cual se modifican los paragrafos 1 y 2 del art. 966 del codigo fiscal, cuya vigencia fue restablecida por el decreto de gabinete 44 de 12 de febrero de 1970.",
+   "url": "https://legispan.asamblea.gob.pa/norms/4aa47b86-557f-4f7b-b240-722c9de728a7",
+   "versions": [
+    {
+     "from": "1980-12-04",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19210_1980_12_4_CONSEJO%20NACIONAL%20DE%20LEGISLACION_50.pdf",
+     "sha256": "5b1a892e75167ac395d1e2f21c7f271dda14797fb3ba4cc0661f68bbeb1c134f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0052",
+   "short": "Ley 52 de 1980",
+   "title": "Ley 52 de 1980: Por la cual se señalan en quinientos balboas (b/. 500.00), los emolumentos que recibiran los honorables representantes de corregimientos.",
+   "url": "https://legispan.asamblea.gob.pa/norms/27972aab-0bc4-491a-b561-1aba94b26320",
+   "versions": [
+    {
+     "from": "1980-12-04",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19210_1980_12_4_CONSEJO%20NACIONAL%20DE%20LEGISLACION_52.pdf",
+     "sha256": "29725e8ed3ed568e93f05ae2f85ddc98790b6f26589fddcbab85b51574adaebd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0051",
+   "short": "Ley 51 de 1980",
+   "title": "Ley 51 de 1980: Por medio de la cual la nacion traspasa una finca a la caja de ahorros para la ejecucion de un proyecto de desarrollo urbano en colon.",
+   "url": "https://legispan.asamblea.gob.pa/norms/d95adebd-293e-461e-9bfe-f632e1e80985",
+   "versions": [
+    {
+     "from": "1980-12-09",
+     "units": 11,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19212_1980_12_9_CONSEJO%20NACIONAL%20DE%20LEGISLACION_51.pdf",
+     "sha256": "eb683931eeabfc7992c83ea144d8f18311a39f0da35e8b36a0ac16235304049d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0053",
+   "short": "Ley 53 de 1980",
+   "title": "Ley 53 de 1980: Por la cual se otorgan autorizaciones al organo ejecutivo y al banco nacional de panama, relativas al fondo monetario internacional.",
+   "url": "https://legispan.asamblea.gob.pa/norms/25a6ac10-0a95-42e0-9965-1cbeeb1a4339",
+   "versions": [
+    {
+     "from": "1980-12-31",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19228_1980_12_31_CONSEJO%20NACIONAL%20DE%20LEGISLACION_53.pdf",
+     "sha256": "89dee6bb1487f3d475445fb708d192ca7c1a1cd30e9c9f02bae7ff8bc7a56559"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-0054",
+   "short": "Ley 54 de 1980",
+   "title": "Ley 54 de 1980: POR LA CUAL SE MODIFICAN LOS ARTICULOS 1º Y 186 DE LA LEY 1 DE 26 DE DICIEMBRE DE 1978.",
+   "url": "https://legispan.asamblea.gob.pa/norms/a770f89b-0368-4c83-9c6d-bcb70a023cc7",
+   "versions": [
+    {
+     "from": "1980-12-31",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1980/LEY/Administrador%20Legispan_19228_1980_12_31_CONSEJO%20NACIONAL%20DE%20LEGISLACION_54.pdf",
+     "sha256": "b4f2a23dbaad60d866b903ccc95dec024ae3046725097fd3ef8aca359404c6b9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1981-0003",
+   "short": "Ley 3 de 1981",
+   "title": "Ley 3 de 1981: Por el cual se toman medidas en torno a la problematica laboral en el territorio nacional.",
+   "url": "https://legispan.asamblea.gob.pa/norms/47ac641d-27f0-4245-a0d8-35f90b21c9b7",
+   "versions": [
+    {
+     "from": "1981-03-05",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1981/LEY/Administrador%20Legispan_19270_1981_3_5_CONSEJO%20NACIONAL%20DE%20LEGISLACION_3.pdf",
+     "sha256": "122d7d5b36721ceec5c1092fb388f658d20c2e23b83ad8454f736c2d724a0c38"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1981-0006",
+   "short": "Ley 6 de 1981",
+   "title": "Ley 6 de 1981: Por la cual se crean dos juzgados de circuito y una agencia del ministerio publico en el circuito judicial de panama y se dictan otras disposiciones.",
+   "url": "https://legispan.asamblea.gob.pa/norms/19e2e71f-bf25-4c96-8c68-04ed6c7fc680",
+   "versions": [
+    {
+     "from": "1981-04-20",
+     "units": 10,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1981/LEY/Administrador%20Legispan_19300_1981_4_20_CONSEJO%20NACIONAL%20DE%20LEGISLACION_6.pdf",
+     "sha256": "d7a532bc62ee3fff9daa030fada62d503e6451d3f514cb2063e06b3f862c5645"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1981-0008",
+   "short": "Ley 8 de 1981",
+   "title": "Ley 8 de 1981: Por la cual se deroga la ley 95 de 31 de diciembre de 1976 (por la cual se modifican algunos articulos del codigo de trabajo) y se dictan otras disposiciones.",
+   "url": "https://legispan.asamblea.gob.pa/norms/7e7a60c2-4236-4dc6-a78b-46f7d0cf3e31",
+   "versions": [
+    {
+     "from": "1981-05-05",
+     "units": 22,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1981/LEY/Administrador%20Legispan_19310_1981_5_5_CONSEJO%20NACIONAL%20DE%20LEGISLACION_8.pdf",
+     "sha256": "8a76894aa0fe9a3b2e5d152350b1d31246fbf9e9b08e47b0264b25f6b891dd7b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1981-0007",
+   "short": "Ley 7 de 1981",
+   "title": "Ley 7 de 1981: Por la cual se regula el ejercicio de la profesion de economista en todo el territorio nacional.",
+   "url": "https://legispan.asamblea.gob.pa/norms/ec6f850a-2d20-4809-ab81-c58a5d12bf37",
+   "versions": [
+    {
+     "from": "1981-05-06",
+     "units": 25,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1981/LEY/Administrador%20Legispan_19311_1981_5_6_CONSEJO%20NACIONAL%20DE%20LEGISLACION_7.pdf",
+     "sha256": "bea584bce4ee9a55fdbf409b16bbff3eb6500b1b0ba6da17b85f7f58131605ee"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1981-0009",
+   "short": "Ley 9 de 1981",
+   "title": "Ley 9 de 1981: Por la cual se suspenden transitoriamente algunos articulos de la ley 72 de 15 de diciembre de 1975 y se dictan otras medidas relacionadas con el fondo de cesantia de la construccion.",
+   "url": "https://legispan.asamblea.gob.pa/norms/c62ec3af-cffb-4300-8592-2ca200da109b",
+   "versions": [
+    {
+     "from": "1981-05-08",
+     "units": 8,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1981/LEY/Administrador%20Legispan_19313_1981_5_8_CONSEJO%20NACIONAL%20DE%20LEGISLACION_9.pdf",
+     "sha256": "071746098c9fc0dd97802455337756daed29d388b3973a5871a4b969715298ce"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1981-0010",
+   "short": "Ley 10 de 1981",
+   "title": "Ley 10 de 1981: Por la cual se modifica el articulo 46 del codigo de trabajo, incluyendo el 10 y 28 de noviembre como dias de descanso obligatorio por fiesta nacional.",
+   "url": "https://legispan.asamblea.gob.pa/norms/54061288-c241-4884-8967-e807e0536098",
+   "versions": [
+    {
+     "from": "1981-06-09",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1981/LEY/Administrador%20Legispan_19335_1981_6_9_CONSEJO%20NACIONAL%20DE%20LEGISLACION_10.pdf",
+     "sha256": "69c24401d71272cfaa14df35fe81e2003f9e5d8dbdef7cfc0090a97f52b9b3e4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1981-0015",
+   "short": "Ley 15 de 1981",
+   "title": "Ley 15 de 1981: Por la cual se le asigna a la hidroelectrica construida sobre el rio bayano, el nombre de: (hidroelectrica ascanio villalaz paz).",
+   "url": "https://legispan.asamblea.gob.pa/norms/001090bf-1617-47f0-b461-d7700032d439",
+   "versions": [
+    {
+     "from": "1981-07-08",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1981/LEY/Administrador%20Legispan_19356_1981_7_8_CONSEJO%20NACIONAL%20DE%20LEGISLACION_15.pdf",
+     "sha256": "e120517ba81cb4148dabb574abd754a6a8cb1c16976fc376de2ed99fdc83aada"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1981-0001",
+   "short": "Ley 1 de 1981",
+   "title": "Ley 1 de 1981: Por el cual se modifica el articulo n°14 del capitulo ii, del titulo ii, de la ley n°14 de 30 de octubre de 1979. (dicta el reglamento interno de la asamblea nacional de representantes de corregimientos).",
+   "url": "https://legispan.asamblea.gob.pa/norms/5b4a3f62-c285-4cd0-a3e4-d564b1ba7a8c",
+   "versions": [
+    {
+     "from": "1981-07-24",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1981/LEY/Administrador%20Legispan_19368_1981_7_24_ASAMBLEA%20NACIONAL%20DE%20REPRESENTANTES%20DE%20CORREGIMIENTOS_1.pdf",
+     "sha256": "126e09dcad1fd740de425720971fec2966d8a5dd1e5ad43891f922c1cfa83deb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1982-0003",
+   "short": "Ley 3 de 1982",
+   "title": "Ley 3 de 1982: Se excluye del dominio publico un area de terreno ubicado al sureste de la interseccion entre la carretera a la represa y la carretera boyd roosevelt en la provincia de colon y, se concede una autorizacion al organo ejecutivo",
+   "url": "https://legispan.asamblea.gob.pa/norms/9f8995e6-55b9-40fa-9c6b-54e01c870474",
+   "versions": [
+    {
+     "from": "1982-03-09",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1982/LEY/Administrador%20Legispan_19520_1982_3_9_CONSEJO%20NACIONAL%20DE%20LEGISLACION_3.pdf",
+     "sha256": "931c5eaf9098950e961e0c0c54b9068de39626ad5b3e9901219d185056101e9e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1982-0007",
+   "short": "Ley 7 de 1982",
+   "title": "Ley 7 de 1982: Por la cual se modifica el articulo 4 de la ley 18 de 13 de agosto de 1981, que crea la universidad tecnologica de panama.",
+   "url": "https://legispan.asamblea.gob.pa/norms/a3ef2f41-059c-42e4-a554-e4ccb796ed4d",
+   "versions": [
+    {
+     "from": "1982-03-25",
+     "units": 3,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1982/LEY/Administrador%20Legispan_19532_1982_3_25_CONSEJO%20NACIONAL%20DE%20LEGISLACION_7.pdf",
+     "sha256": "e115d56d2e4fe8a7d95c379edf71796b426941965d83d7c9619ae228b68f2a58"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1982-0016",
+   "short": "Ley 16 de 1982",
+   "title": "Ley 16 de 1982: Por la cual se toman medidas sobre salarios para los trabajadores de las empresas constructoras que se rigen por convencion colectiva de trabajo.",
+   "url": "https://legispan.asamblea.gob.pa/norms/097bc81e-0b1d-47e6-92a4-905fae8b2da9",
+   "versions": [
+    {
+     "from": "1982-06-10",
+     "units": 7,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1982/LEY/Administrador%20Legispan_19585_1982_6_10_CONSEJO%20NACIONAL%20DE%20LEGISLACION_16.pdf",
+     "sha256": "9b5781750d6538ecbe4a95671ddae5c339580a5d79f471627e96177e79cb5d6d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1982-0017",
+   "short": "Ley 17 de 1982",
+   "title": "Ley 17 de 1982: Por la cual se da el nombre de ernesto j. castillero r., a la biblioteca nacional de panama.",
+   "url": "https://legispan.asamblea.gob.pa/norms/5feb2d43-4cc5-4808-8e28-4233f2f65c60",
+   "versions": [
+    {
+     "from": "1982-07-19",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1982/LEY/Administrador%20Legispan_19612_1982_7_19_CONSEJO%20NACIONAL%20DE%20LEGISLACION_17.pdf",
+     "sha256": "bad685e5dda8341f6b34736e9b04901fedeae7c3a8fb3528a4fc30dec4d64b82"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1983-0013",
+   "short": "Ley 13 de 1983",
+   "title": "Ley 13 de 1983: Por la cual se declara area de emergencia y de peligro inminente la que comprende los inmuebles condenados por la oficina de seguridad del cuerpo de bomberos y el ministerio de vivienda, situados en las calles 17,18,19, 20 y 21 este, las calles...",
+   "url": "https://legispan.asamblea.gob.pa/norms/0aa85956-d61d-4621-9618-d5bea68efb69",
+   "versions": [
+    {
+     "from": "1983-08-24",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1983/LEY/Administrador%20Legispan_19882_1983_8_24_CONSEJO%20NACIONAL%20DE%20LEGISLACION_13.pdf",
+     "sha256": "196e1cf78edea7f31ce1f122ff25cbe945076a291194e93b209e6d8f400d5a9e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1983-0014",
+   "short": "Ley 14 de 1983",
+   "title": "Ley 14 de 1983: POR LA CUAL SE MODIFICA EL ARTICULO 13 DE LA LEY Nº11 DE 8 DE JUNIO DE 1981. (LA CUAL REORGANIZA LA UNIVERSIDAD DE PANAMA)",
+   "url": "https://legispan.asamblea.gob.pa/norms/09d34aff-4194-410c-ba71-f0ce67f472c4",
+   "versions": [
+    {
+     "from": "1983-08-24",
+     "units": 4,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1983/LEY/Administrador%20Legispan_19882_1983_8_24_CONSEJO%20NACIONAL%20DE%20LEGISLACION_14.pdf",
+     "sha256": "46726eebea62beedf15cafd9b3983f808df8407cbad6a53a2f369185d80c4297"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1983-0015",
+   "short": "Ley 15 de 1983",
+   "title": "Ley 15 de 1983: Por la cual se crea un juzgado nocturno para el distrito de david.",
+   "url": "https://legispan.asamblea.gob.pa/norms/83ea1937-118e-4296-9b06-ebad0f0cbf72",
+   "versions": [
+    {
+     "from": "1983-08-29",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1983/LEY/Administrador%20Legispan_19885_1983_8_29_CONSEJO%20NACIONAL%20DE%20LEGISLACION_15.pdf",
+     "sha256": "714c2b0da413cadfb48a30650ab4118bb266869e8bc7570cae6c192e298bb95d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1983-0021",
+   "short": "Ley 21 de 1983",
+   "title": "Ley 21 de 1983: Por la cual se asigna al proyecto hidroelectrico la fortuna el nombre de central hidroelectrica arquitecto edwin fabrega.",
+   "url": "https://legispan.asamblea.gob.pa/norms/12b26c29-d5cf-413a-b0c2-42f8802614de",
+   "versions": [
+    {
+     "from": "1983-10-17",
+     "units": 5,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1983/LEY/Administrador%20Legispan_19918_1983_10_17_CONSEJO%20NACIONAL%20DE%20LEGISLACION_21.pdf",
+     "sha256": "3bbbbda5887067337b7761055f717e2e55de6b1b0568fe1400c831f5d03f297f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1983-0027",
+   "short": "Ley 27 de 1983",
+   "title": "Ley 27 de 1983: POR MEDIO DEL CUAL SE MODIFICA EL DECRETO DE GABINETE Nº 189 DE 2 DE SEPTIEMBRE DE 1971.",
+   "url": "https://legispan.asamblea.gob.pa/norms/62922a9c-e61f-4bdc-88e0-dbdc6f5d8bfe",
+   "versions": [
+    {
+     "from": "1983-11-25",
+     "units": 6,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1983/LEY/Administrador%20Legispan_19944_1983_11_25_CONSEJO%20NACIONAL%20DE%20LEGISLACION_27.pdf",
+     "sha256": "5e58db9cbeb9636dad2467e1415231b3dbb395a8968963c11e73af068660cfaa"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1983-0022",
+   "short": "Ley 22 de 1983",
+   "title": "Ley 22 de 1983: Por la cual se crea la comarca embera de darien.",
+   "url": "https://legispan.asamblea.gob.pa/norms/e175f976-8b1b-4ba7-ad3f-7b6c2b9155c4",
+   "versions": [
+    {
+     "from": "1984-01-17",
+     "units": 27,
+     "source_url": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/1980/1983/LEY/Administrador%20Legispan_19976_1984_1_17_ASAMBLEA%20NACIONAL%20DE%20REPRESENTANTES%20DE%20CORREGIMIENTOS_22.pdf",
+     "sha256": "f65af0267718e093897893331600166db507b229691127e1e34ec84d3fe7d87d"
+    }
+   ]
+  },
+  {
    "slug": "codigo-procesal-penal",
    "short": "CPP",
    "title": "Código Procesal Penal (Ley 63 de 2008)",
