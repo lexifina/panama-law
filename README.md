@@ -1,5 +1,7 @@
 # Panama: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Panama's national law, which global-law reads at `panama/national/acts/`.
+
 The law of Panama (PA) as a git history: one file per provision, one commit per law on the day it took effect, and the law that made the change as the commit author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `pa/`.
 
 **First build, deliberately small.** Language: Spanish (the official language).
