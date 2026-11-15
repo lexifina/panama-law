@@ -44,7 +44,9 @@ def put(path: Path, text: str, anchor: str | None) -> None:
     path.write_text(s, 'utf-8', newline='\n')
 
 
-put(H / 'repo' / 'README.md', SECTION, 'Dates are the day the change took effect.')
+# Since 2026-11-15 repo/README.md is on the serbia-law model, written by hand: no table of laws is added to it.
+if '## Questions as git commands' not in (H / 'repo' / 'README.md').read_text('utf-8'):
+    put(H / 'repo' / 'README.md', SECTION, 'Dates are the day the change took effect.')
 LIC = f"""{A0}
 Laws in the folders ley-YYYY-NNNN/: the Asamblea Nacional de Panamá's typed editions of laws in Legispan
 (https://legispan.asamblea.gob.pa/), retrieved November 2026. Legispan states no licence or terms of use (it
