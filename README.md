@@ -62,6 +62,7 @@ Cada ley se atribuye a sí misma (`Ley 45 de 2010`), y el Código Procesal Penal
 - Solo se leen capas de texto: no se leen las páginas escaneadas de la Gaceta ni se usa OCR; se deja fuera una ley sin edición transcrita, o con solo una capa de OCR.
 - `tools/check_repo.py` vuelve a leer desde git cada versión en su día y la compara con el corpus, y el mismo corpus da los mismos hashes de commit; [`REPRODUCE.md`](REPRODUCE.md) da los hashes del corpus y del constructor, pero todavía no registra ninguna ejecución de la comprobación ni una segunda construcción.
 - El historial solo crece por adición: no hay commits de fusión (merge), y los cambios posteriores (como el traslado de carpetas) son commits nuevos encima.
+- [vulnerabilities/](vulnerabilities/): posibles errores de técnica legislativa en el derecho panameño, hallados por los detectores de global-law y comprobados a mano.
 
 ## Lo que no muestra
 

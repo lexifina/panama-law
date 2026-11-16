@@ -62,6 +62,7 @@ Each law is credited to itself (`Ley 45 de 2010`), and the Código Procesal Pena
 - Only text layers are read: the scanned Gaceta pages are not read and no OCR is used; a law with no typed edition, or only an OCR layer, is left out.
 - `tools/check_repo.py` reads every version back from git on its day and compares it with the corpus, and the same corpus gives the same commit hashes; [`REPRODUCE.md`](REPRODUCE.md) gives the corpus and builder hashes, but records no check run and no second build yet.
 - History is append-only: no merge commits, and later changes (such as the folder move) are new commits on top.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Panamanian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
