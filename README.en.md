@@ -86,6 +86,10 @@ See [`LICENSE`](LICENSE). None of the sources states a licence; the texts are re
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
 
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):
