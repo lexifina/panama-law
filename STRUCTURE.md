@@ -30,4 +30,4 @@ Procesal Penal and the Código del Trabajo come from the editions named in READM
 
 ## Ahora / Now
 
-789 norms: leyes 789; 3 codes. 12 added by the runner (0 with the publisher's OCR layer; 9 with later amending norms listed in their README); 1917-06-18 to 1973-01-25.
+2154 norms: decretos 2, decretos-de-gabinete 9, decretos-ejecutivos 48, leyes 2088, textos-unicos 7; 7 codes. 1354 added by the runner (261 with the publisher's OCR layer; 633 with later amending norms listed in their README); 1917-06-18 to 2026-10-16.
