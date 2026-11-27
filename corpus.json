@@ -1,0 +1,22 @@
+{
+  "corpus": "pa/national/acts",
+  "label": "Panama",
+  "language": "es",
+  "name": "Panama: the Constitution, codes, laws, decrees and other norms as promulgated in the Gaceta Oficial",
+  "dates": {
+    "commit": "in-force",
+    "time": "12:00 America/Panama (UTC-5)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the norm itself (e.g. \"Ley 45 de 2010\"); maintenance commits are Lexifina",
+  "citation": {
+    "file": "((?:[a-z-]+/[0-9]{4}/[^/]+)|(?:codigos/[^/]+)|constitucion)/(?:[^/]+/)?art-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(art[ií]culo|art\\.?) ?{n}\\b"
+  },
+  "sources": [
+    "https://legispan.asamblea.gob.pa",
+    "https://asamblea.gob.pa",
+    "https://ministeriopublico.gob.pa"
+  ]
+}

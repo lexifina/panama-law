@@ -881,3 +881,21 @@ Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote this driver. No model wrote, summarised or transformed legal text: the reader is deterministic code reading the PDF text layer.
 - none
 - none
+
+## Norms from Legispan (runner, from 2026-11-27)
+
+Built by `scripts/panama-law/runner/` (pa_fetch.py, pa_text.py, pa_dates.py, pa_build.py, pa_rename.py, pa_docs.py):
+
+1. `pa_fetch.py` reads Legispan's public JSON API (`/api/search/norm?type[type]=<TYPE>&limit=100`) for laws, decree-laws,
+   cabinet decrees, executive decrees, decrees, regulations, constitutional acts and consolidated texts (each list
+   entry carries the text Legispan extracted from the norm's PDF), then `/api/search/norm/<id>` for each norm with text
+   (its `affectedBy` list). One request in flight about a second apart, more only after ten clean minutes.
+2. `pa_build.py` cuts each norm's own text out of the extract (from its heading to the next norm after its closing
+   formula), drops the Gaceta's running heads, splits it into articles, and dates it from its own entry-into-force
+   clause counted from the promulgation in the Gaceta Oficial (`pa_dates.py`). Individual measures (appointments,
+   pensions, honours, naturalisations, contracts) are left out; so is any norm with no text, no datable clause, or
+   articles not numbered 1..N once each.
+3. Each norm is one commit, as promulgated, at noon America/Panama on its in-force day (pre-1970 days stamped 1970-01-01
+   with the real day in the subject and In-force), with Enacted, Published, In-force, In-force-basis, Gazette, Source,
+   Source-status, Text-source and PDF trailers. Commits are appended; corrections are later `Kind: correction` commits.
+   The folders took Spanish names in one rename-only commit (`pa_rename.py`; data/paths.json follows).

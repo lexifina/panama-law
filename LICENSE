@@ -16,9 +16,13 @@ Judicial's website (https://www.organojudicial.gob.pa/uploads/wp_repo/uploads/20
 retrieved 30 October 2026 from an archived copy. The site states no licence.
 
 <!-- acts:start -->
-Laws in the folders ley-YYYY-NNNN/: the Asamblea Nacional de Panamá's typed editions of laws in Legispan
-(https://legispan.asamblea.gob.pa/), retrieved November 2026. Legispan states no licence or terms of use (it
-publishes a privacy policy only). The texts are reproduced without change to their wording, as the law of Panama.
+Laws and other norms in the folders constitucion/, codigos/, leyes/, decretos-ejecutivos/,
+decretos-de-gabinete/, decretos-ley/, decretos/, reglamentos/, actos-legislativos/ and textos-unicos/: the
+Asamblea Nacional de Panamá's Legispan (https://legispan.asamblea.gob.pa/): its typed editions and the text
+it extracts from the Gaceta Oficial pages of each norm (where those pages are scans, the publisher's own OCR
+layer, marked "Text-source: publisher OCR"; Lexifina did no OCR), retrieved November 2026. Legispan states no
+licence or terms of use (it publishes a privacy policy only). The texts are official texts of the Republic of
+Panama, reproduced without change to their wording.
 <!-- acts:end -->
 
 Changes made by Lexifina: the text was converted to one Markdown file per article; page headers and footers, title and

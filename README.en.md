@@ -11,9 +11,9 @@ The law of Panama as a git history: one file per article, one commit per version
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Panama's national law, which global-law reads at `panama/national/acts/`.
 
-**What is in it now:** the Constitution, three codes (the Código Penal, the Código Procesal Penal and the Código del Trabajo) and 777 laws (leyes) of the Asamblea Nacional promulgated from 1932 to 2019, each act in one version. The laws are those whose Legispan record lists no norm that modifies, repeals, suspends or regulates them, so the text as enacted is also the text in force. [`data/versions.json`](data/versions.json) lists every act with its versions; [`data/paths.json`](data/paths.json) maps each act id to its folder.
+**What is in it now:** the Constitution, 3 codes in `codigos/` and 789 laws (leyes) of the Asamblea Nacional and the Executive, 789 norms in all, each norm as promulgated in one version. 9 of them have later norms in Legispan that modify, repeal or regulate them: their README lists them and their text is the original, not the text in force. [`data/paths.json`](data/paths.json) maps the id of the first 777 laws to their folder; the layout is in [STRUCTURE.md](STRUCTURE.md).
 
-Each act is a folder `<kind>/<year>/<number>/` with one file per article and a `README.md` listing them (`ley/2010/0045/` is Ley 45 de 2010, with the text before Artículo 1 in `encabezado.md` and the closing formula in `firma.md`); the Constitution is [`constitution/constitucion/`](constitution/constitucion/) and the codes are under `code/` (`code/codigo-del-trabajo/` is the Código del Trabajo, Decreto de Gabinete 252 de 1971). The folders took these names on 2026-11-10 (commit `51cde9a`, no change of law): `git log` needs `--follow` to reach a file's earlier name, and `tools/on.py` reads both.
+Each norm is a folder `<type>/<year>/<number>-<subject>/` with one file per article and a `README.md` listing them (`leyes/2010/0045-.../` is Ley 45 de 2010, with the text before Artículo 1 in `encabezado.md` and the closing formula in `firma.md`); the Constitution is [`constitucion/`](constitucion/) and the codes are under `codigos/` (`codigos/codigo-del-trabajo/` is the Código del Trabajo, Decreto de Gabinete 252 de 1971). The folders took their Spanish names on 27 November 2026 (before: `constitution/`, `code/`, `ley/<year>/<number>/`; a rename-only commit): `git log` needs `--follow` to reach a file's earlier name, and `tools/on.py` reads them all.
 
 The text is in Spanish, as the sources print it. An English translation is not part of this record.
 
@@ -21,8 +21,8 @@ The text is in Spanish, as the sources print it. An English translation is not p
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 54 of the Código del Trabajo (vacations) | `git log -p --follow --word-diff -- code/codigo-del-trabajo/art-054.md` |
-| Which act wrote each line of Article 54? | `git blame code/codigo-del-trabajo/art-054.md` |
+| Every change to Article 54 of the Código del Trabajo (vacations) | `git log -p --follow --word-diff -- codigos/codigo-del-trabajo/art-054.md` |
+| Which act wrote each line of Article 54? | `git blame codigos/codigo-del-trabajo/art-054.md` |
 | Every version of the Código del Trabajo, with the day each took effect | `git log --no-walk --tags="codigo-del-trabajo/*" --format="%h %(trailers:key=In-force,valueonly,separator=) %an"` |
 | Article 54 as in force on 1 January 2015 | `python tools/on.py 2015-01-01 codigo-del-trabajo art-054` |
 
@@ -40,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add panama/national/acts
-python3 tools/law.py show 2026-01-01 panama/national/acts/code/codigo-del-trabajo/art-054.md
+python3 tools/law.py show 2026-01-01 panama/national/acts/codigos/codigo-del-trabajo/art-054.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -50,6 +50,7 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 Each commit is dated at noon, America/Panama, on the day the version took effect, and carries it in its `In-force:` trailer:
 
 - for the 777 laws, the day of their promulgation in the Gaceta Oficial, as their Legispan record gives it; a later day a law sets for its own entry into force is not shown;
+- for the norms added from 27 November 2026, the day their own entry-into-force clause sets ("comenzará a regir desde su promulgación", "el día siguiente al de su promulgación", "seis meses después de su promulgación", "a partir del 1 de enero de 2012"...), counted from their promulgation in the Gaceta Oficial as Legispan gives it; `In-force-basis:` quotes the clause, and a norm with no datable clause is left out;
 - for the Código Procesal Penal (Ley 63 de 2008), 2 September 2009, the day its art. 560 gives;
 - for the Constitution, 15 November 2004, the day of the Gaceta Oficial (No. 25176) that published its Texto Único; for the Código Penal and the Código del Trabajo, the creation date of their source PDFs (11 December 2019 and 26 June 2003), as the sources give no date for the edition;
 - git cannot store dates before 1970, so the 2 earlier commits (Ley 46 de 1932 and Ley 18 de 1959) are dated 1970-01-01, with the real day in `In-force:`. Ask for a date with `tools/on.py`, not `git log --before`.
@@ -59,24 +60,24 @@ Each law is credited to itself (`Ley 45 de 2010`), and the Código Procesal Pena
 ## How it is checked
 
 - Every word of the Asamblea Nacional's typed edition of a law is in a file, in order, except the running header and page numbers; a law whose own articles are not numbered 1, 2, 3 and so on, each once, is left out.
-- Only text layers are read: the scanned Gaceta pages are not read and no OCR is used; a law with no typed edition, or only an OCR layer, is left out.
+- Only the publisher's text layers are read: the text Legispan extracts from each PDF (the Asamblea's typed edition or the Gaceta's own text layer). Where that layer is the publisher's OCR of a scan, the commit carries `Text-source: publisher OCR` and the norm's README says so (0 norms); we do no OCR. A norm whose articles are not numbered 1, 2, 3 and so on, each once, or whose OCR layer repeats or reorders pages, is left out.
 - `tools/check_repo.py` reads every version back from git on its day and compares it with the corpus, and the same corpus gives the same commit hashes; [`REPRODUCE.md`](REPRODUCE.md) gives the corpus and builder hashes, but records no check run and no second build yet.
 - History is append-only: no merge commits, and later changes (such as the folder move) are new commits on top.
 - [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Panamanian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
-- **Laws Legispan records as modified, repealed, suspended or regulated**: they are left out until their current text can be shown, as are laws whose PDF has no typed edition, such as recent laws published only as Gaceta scans; none after 2019 is here yet.
+- **The text in force of amended norms**: norms that Legispan records as modified, repealed or regulated are here as promulgated (their README lists the norms affecting them); the amendments are not applied yet. Also missing: norms Legispan holds only as scans without a text layer (most before 1970, and most executive decrees of 1990 to 2019) and individual measures (appointments, pensions, honours, contracts).
 - **Any act's changes over time.** Every act is one version: the Constitution's 1972 text and its reforms (1978, 1983, 1993, 1994) are not here; reforms after the 2003 edition of the Código del Trabajo are not applied; and the Código Procesal Penal is the text as enacted, without the later laws that amended it and postponed and staged its entry into force.
 - **The Código Civil and the Código de Comercio**: no official copy with a usable text layer was found.
-- **Executive decrees and other regulations, municipal acts and case law.**
+- **Municipal acts, resolutions and case law.**
 
 ## Sources
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [Asamblea Nacional de Panamá](https://asamblea.gob.pa) | Constitution, Texto Único (edition of April 2024) | no | Born-digital PDF, retrieved 29 October 2026 |
-| [Legispan](https://legispan.asamblea.gob.pa/) (Asamblea Nacional) | Laws: the Gaceta Oficial pages and the Asamblea's typed edition | no, each law as enacted | Retrieved 3 November 2026; only the typed edition is read |
+| [Legispan](https://legispan.asamblea.gob.pa/) (Asamblea Nacional) | Laws: the Gaceta Oficial pages and the Asamblea's typed edition | no, each law as enacted | Retrieved 3 and 27 November 2026; from 27 November also the text Legispan extracts from each PDF, including the publisher's OCR layer (marked) |
 | [Procuraduría General de la Nación](https://ministeriopublico.gob.pa) | Código Penal, Texto Único with Ley 70 de 2019 | no | Born-digital PDF, retrieved 30 October 2026 |
 | Órgano Judicial (organojudicial.gob.pa) | Código Procesal Penal (the Gaceta Oficial 26114 text), Código del Trabajo (Ministerio de Trabajo / OIT edition) | no | Read from Internet Archive copies on 30 October 2026; the Código del Trabajo editor's notes on reforms are not reproduced |
 
